@@ -1,0 +1,328 @@
+---
+title: "Patient model"
+output: html_document
+date: "2024-01-24"
+---
+
+```{r}
+library(robCompositions)
+library(DirichletReg)
+source("broad_medication_groups.R")
+library(ggplot2)
+library(dplyr)
+library(glue)
+library(magrittr)
+library(pheatmap)
+```
+
+```{r}
+df = read.csv('../data/formatted/240127_BL_MASTER.csv')
+df <- df %>%
+      mutate(CONCOHORT_DEFINITION = recode(
+        CONCOHORT_DEFINITION, `Healthy Control`='HC', Prodromal='Prod', `Parkinson's Disease`='PD'))
+immune_cells = c("Bas", "Bmem", "Bnv", "CD4mem", "CD4nv", "CD8mem", "CD8nv", "Eos", "Mono", "Neu", "NK", "Treg")
+immune_cells_Zsc = paste0(immune_cells, '_Zsc')
+rowSums(df[immune_cells])
+```
+
+```{r}
+composition_matrix <-DR_data(df[immune_cells])
+clf_cohorts <- DirichReg(
+  composition_matrix ~ CONCOHORT_DEFINITION + 
+  Metabolic.disease.medication + 
+  AA_CCI +
+  Current_age + Gender_reported + 
+  CVD.medication +
+  GI.tract.medication + 
+  Hormonal.medication + 
+  Immunomodulatory.medication + 
+  Infection.medication +
+  Neurological.medication + 
+  Other.antidegenerative.medication +
+  Pain...Rheuma.medication + 
+  Respiratory.medication,
+  data=df)
+summary(clf_cohorts)
+```
+
+
+```{r}
+clf_metabolic <- DirichReg(
+  composition_matrix ~
+  CONCOHORT_DEFINITION:Metabolic.disease.medication +
+  AA_CCI +
+  Current_age + Gender_reported + 
+  CVD.medication +
+  GI.tract.medication + 
+  Hormonal.medication + 
+  Immunomodulatory.medication + 
+  Infection.medication +
+  Neurological.medication + 
+  Other.antidegenerative.medication +
+  Pain...Rheuma.medication + 
+  Respiratory.medication,
+  data=df)
+summary(clf_metabolic)
+```
+
+
+```{r}
+get_dirichlet_estimates = function(clf, coef_keys, medication){
+  cells = c()
+  cohorts = c()
+  estimates = c()
+  ses = c()
+  
+  for (cell in immune_cells){
+    for (cohort in coef_keys){
+      
+      if (medication == ''){
+        est = clf$coefficients[glue(cell, ":CONCOHORT_DEFINITION", cohort)]
+        se = clf$se[glue(cell, ":CONCOHORT_DEFINITION", cohort)]
+      } else {
+        est = clf$coefficients[glue(cell, ":CONCOHORT_DEFINITION", cohort, ":", medication)]
+        se = clf$se[glue(cell, ":CONCOHORT_DEFINITION", cohort, ":", medication)]
+      }
+      
+      cells = c(cells, cell)
+      cohorts = c(cohorts, cohort)
+      estimates = c(estimates, est)
+      ses = c(ses, se)
+    }
+  }
+  
+  dat <- data.frame(cell = cells, cohort = cohorts, estimate = estimates, sterr = ses)
+  dat$cohort <- factor(dat$cohort, levels=c("HC", "Prod", "PD"))
+  dat$z <- dat$estimate / dat$sterr
+  dat$Pr <- apply(dat["z"], MARGIN=1, FUN=function(x) pnorm(q=abs(x), lower.tail=FALSE)*2)
+  dat$neglogPr <- -log10(dat$Pr)
+  return(dat)
+}
+
+plot_dot_plot <- function(dat, title){
+  dat$cell = factor(dat$cell, levels=cells_li)
+  dat$signif = ifelse(dat$Pr < 0.05, "Pr < 0.05", "NS")
+  
+  ggplot(dat, aes(x=cohort, y=cell)) +
+    geom_point(aes(size = neglogPr, colour = estimate, shape=signif)) + 
+    scale_color_gradient2(low = "darkblue", high = "red", mid="grey") +  # limits=c(-1, 1), breaks=pretty_breaks(n=3)
+    scale_size_binned(limits=c(0, 3), n.breaks=4) +
+    scale_shape_manual(values=c(10, 16)) +
+    theme_minimal() +
+    ggtitle(title) +
+    labs(size="-log10(p)", col="Estimate") +
+    theme(plot.title = element_text(size=13, face="bold"), 
+          axis.title.x = element_blank(),
+          axis.title.y = element_blank())
+}
+```
+
+
+```{r}
+cells_li = c("Treg", "CD8mem", "CD8nv", "CD4mem", "CD4nv", "Bmem", "Bnv", "NK", "Mono", "Neu", "Eos", "Bas")
+res_cohorts = get_dirichlet_estimates(clf=clf_cohorts, coef_keys=c("Prod", "PD"), medication="")
+pdf(file = "../UVM poster/dirichlet_cohorts.pdf", width = 3.7, height = 4)
+plot_dot_plot(dat=res_cohorts, title="cohorts only")
+dev.off()
+
+res_metabolic = get_dirichlet_estimates(clf=clf_metabolic, coef_keys=c("HC", "Prod", "PD"), medication="Metabolic.disease.medication")
+pdf(file = "../UVM poster/dirichlet_metabolic.pdf", width = 4, height = 4)
+plot_dot_plot(dat=res_metabolic, title="Metabolic medication")
+dev.off()
+```
+
+```{r}
+means = df[df$Metabolic.disease.medication == 1, ]
+means = means %>% 
+  group_by(CONCOHORT_DEFINITION) %>%
+  summarise_at(immune_cells, mean, na.rm = TRUE)
+
+stacked_df = reshape2::melt(means)
+stacked_df$variable = factor(stacked_df$variable, levels=cells_li)
+stacked_df$CONCOHORT_DEFINITION = factor(stacked_df$CONCOHORT_DEFINITION, levels=c("HC", "Prod", "PD"))
+
+pdf(file = "../UVM poster/stacked_immune_metabolic.pdf", width = 4,height = 4)
+cmap = c("#00ffff","#6495ed","#ff0000","#ff69b4", "#228b22", "#00ff00","#2f4f4f", "#ffff00","#8b4513", "#ff00ff","#ffe4b5", "#00008b")
+ggplot(stacked_df, aes(fill=variable, y=value, x=CONCOHORT_DEFINITION)) + 
+  geom_bar(position="stack", stat="identity") + 
+  scale_fill_manual(values=cmap)
+dev.off()
+```
+
+
+```{r}
+# subset patients who either are not taking any medication (drug_count==0) or are on a specific disease medication
+which_disease = "Metabolic.disease.medication"
+cols = c("CONCOHORT_DEFINITION", "Current_age", "Gender_reported", "AA_CCI", "AA_CCI_bins", which_disease, immune_cells_Zsc)
+per = df[(df$drug_count == 0) | (df[[which_disease]] == 1), cols]
+per[[which_disease]] = factor(per[[which_disease]])
+# add a column with cohort & medication status
+per$overall_group = paste0(per$CONCOHORT_DEFINITION, per[[which_disease]])
+per$overall_group = factor(per$overall_group, levels=c("HC0", "HC1", "Prod0", "Prod1", "PD0", "PD1"))
+
+# summarise to a heatmap
+htmap = per %>% 
+  group_by(overall_group) %>% 
+  summarise_at(immune_cells_Zsc, median, na.rm = TRUE) %>% data.frame()
+
+rownames(htmap) = htmap$overall_group
+htmap = subset(htmap, select=-c(overall_group))
+htmap = data.frame(t(htmap))
+rownames(htmap) = gsub("_Zsc", "", rownames(htmap))
+htmap$order = factor(rownames(htmap), levels=rlist::list.reverse(cells_li))
+htmap = select(htmap[order(htmap$order), ], -c("order"))
+
+
+pdf(file = "../UVM poster/heatmap_immune_zsc.pdf", width = 4,height = 4)
+pal = colorRampPalette(RColorBrewer::brewer.pal(10, "RdYlBu"))(50)
+pheatmap(as.matrix(htmap), color = rlist::list.reverse(pal), border_color = "white", cluster_cols = FALSE, cluster_rows = FALSE)
+dev.off()
+
+```
+
+
+
+
+```{r}
+get_volcano_data = function(which_disease){
+  # subset metadata columns + specific disease/medication column and immune cells
+  cols = c("CONCOHORT_DEFINITION", "Current_age", "Gender_reported", "AA_CCI", "AA_CCI_bins", which_disease, immune_cells)
+  
+  # subset patients who either are not taking any medication (drug_count==0) or are on a specific disease medication
+  per = df[(df$drug_count == 0) | (df[[which_disease]] == 1), cols]
+  per[[which_disease]] = factor(per[[which_disease]])
+  # iterate over immune cells & over the three cohorts, comparing those with & without specific meds (within each cohort)
+  # those without that medication will be on no other medication
+  log2FC_li = c()
+  nlog10p_li = c()
+  cohort_li = c()
+  cells_li = c()
+  for (cell in immune_cells){
+    for (cohort in unique(per$CONCOHORT_DEFINITION)){
+      gr0 = per[(per[[which_disease]] == 0) & (per$CONCOHORT_DEFINITION == cohort), cell]
+      gr1 = per[(per[[which_disease]] == 1) & (per$CONCOHORT_DEFINITION == cohort), cell]
+      
+      # calculate log2fc & negative log10p value
+      log2FC = log2(mean(gr1) / mean(gr0))
+      ttest = t.test(gr1, gr0)
+      nlog10p = -log10(ttest$p.value)
+      
+      # bind everything to lists
+      cohort_li = c(cohort_li, cohort)
+      nlog10p_li = c(nlog10p_li, nlog10p)
+      log2FC_li = c(log2FC_li, log2FC)
+      cells_li = c(cells_li, cell)
+    }
+  }
+  
+  # bind those lists into a dataframe which can be used for plotting a volcano plot
+  volcano_data <- data.frame(cell = cells_li, cohort = cohort_li, log2FC = log2FC_li, nlog10p = nlog10p_li)
+  return(volcano_data)
+}
+
+plot_volcano_data = function(volcano_data, name){
+  ggplot(data=volcano_data, aes(x=log2FC, y=nlog10p, col=cohort, label=cell)) + 
+  geom_point(size=3) + 
+  scale_colour_manual(values = c("#B80000", "#FF9800", "#38419D")) +
+  geom_text_repel() +
+  theme_minimal() + 
+  geom_hline(yintercept=-log10(0.05), linetype='dashed') + 
+  geom_vline(xintercept=0.5, linetype='dashed') +
+  geom_vline(xintercept=-0.5, linetype='dashed') + 
+  xlab(glue("log2FC\n No disease < -- > {name}")) +
+  ggtitle(glue("Differentially regulated immune cells: {name} ~ PD"))
+}
+
+```
+
+```{r}
+plot_dot_plot <- function(title){
+  v_data$cohort = factor(v_data$cohort, levels=c("HC", "Prod", "PD"))
+  cells_li = c("Treg", "CD8mem", "CD8nv", "CD4mem", "CD4nv", "Bmem", "Bnv", "NK", "Mono", "Neu", "Eos", "Bas")
+  v_data$cell = factor(v_data$cell, levels=cells_li)
+  
+  ggplot(v_data, aes(x=cohort, y=cell)) +
+    geom_point(aes(size = nlog10p, colour = log2FC)) + 
+    scale_color_gradient2(low = "darkblue", high = "red", mid="grey", limits=c(-1.5, 1.5), breaks=pretty_breaks(n=4)) + 
+    scale_size_binned(limits=c(0, 3), n.breaks=7) +
+    theme_minimal() +
+    ggtitle(title) +
+    labs(size="-log10(p)", col="log2(FC)") +
+    theme(plot.title = element_text(size=13, face="bold"), 
+          axis.title.x = element_blank(),
+          axis.title.y = element_blank())
+}
+```
+
+```{r}
+v_data = get_volcano_data("Metabolic.disease.medication")
+plot_dot_plot(title="Metabolic disease medication")
+
+v_data = get_volcano_data("Neurological.medication")
+plot_dot_plot(title="Neurological disease medication")
+
+v_data = get_volcano_data("Respiratory.medication")
+plot_dot_plot(title="Respiratory disease medication")
+```
+
+```{r}
+per = df[df$drug_count == 0, ]
+log2FC_li = c()
+nlog10p_li = c()
+PD_group_li = c()
+cells_li = c()
+for (cell in immune_cells){
+  for (PD_group in c("Prod", "PD")){
+    gr0 = per[per$CONCOHORT_DEFINITION == "HC", cell]
+    gr1 = per[per$CONCOHORT_DEFINITION == PD_group, cell]
+    
+    # calculate log2fc & negative log10p value
+    log2FC = log2(mean(gr1) / mean(gr0))
+    ttest = t.test(gr1, gr0)
+    nlog10p = -log10(ttest$p.value)
+    
+    # bind everything to lists
+    PD_group_li = c(PD_group_li, PD_group)
+    nlog10p_li = c(nlog10p_li, nlog10p)
+    log2FC_li = c(log2FC_li, log2FC)
+    cells_li = c(cells_li, cell)
+  }
+}
+  
+# bind those lists into a dataframe which can be used for plotting a volcano plot
+v_data <- data.frame(cell = cells_li, cohort = PD_group_li, log2FC = log2FC_li, nlog10p = nlog10p_li)
+plot_dot_plot(title="No disease")
+```
+
+
+
+```{r}
+v_data = get_volcano_data("Metabolic.disease.medication")
+plot_volcano_data(v_data, name="Metabolic disease")
+
+v_data = get_volcano_data("Respiratory.medication")
+plot_volcano_data(v_data, name="Respiratory disease")
+
+v_data = get_volcano_data("Neurological.medication")
+plot_volcano_data(v_data, name="Neurological disease")
+```
+
+
+
+```{r}
+ggplot(test, aes(x=CONCOHORT_DEFINITION, y=CD8mem, fill=Metabolic.disease.medication)) + geom_violin() +
+    geom_boxplot(width=0.2, position=position_dodge(0.9)) + ggtitle("CD8mem")
+
+ggplot(test, aes(x=CONCOHORT_DEFINITION, y=CD4mem, fill=Metabolic.disease.medication)) + geom_violin() +
+    geom_boxplot(width=0.2, position=position_dodge(0.9)) + ggtitle("CD4mem")
+
+ggplot(test, aes(x=CONCOHORT_DEFINITION, y=Eos, fill=Metabolic.disease.medication)) + geom_violin() +
+    geom_boxplot(width=0.2, position=position_dodge(0.9)) + ggtitle("Eos")
+
+ggplot(test, aes(x=CONCOHORT_DEFINITION, y=Mono, fill=Metabolic.disease.medication)) + geom_violin() +
+    geom_boxplot(width=0.2, position=position_dodge(0.9)) + ggtitle("Mono")
+ggplot(test, aes(x=CONCOHORT_DEFINITION, y=Neu, fill=Metabolic.disease.medication)) + geom_violin() +
+    geom_boxplot(width=0.2, position=position_dodge(0.9)) + ggtitle("Neu")
+```
+
+

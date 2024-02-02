@@ -1,0 +1,211 @@
+---
+title: "Data exploration"
+output: html_document
+date: "2024-01-25"
+---
+
+```{r}
+source("broad_medication_groups.R")
+library(ggplot2)
+library(wordcloud)
+library(table1)
+```
+
+
+```{r}
+df = read.csv('../Data/formatted/240127_BL_MASTER.csv', check.names = FALSE)
+df_specific_drug_groups = read.csv('../Data/formatted/240127_BL_matched_drugs.csv', check.names = FALSE)
+
+# create a vector containing all specific drug groups and broader groups
+all_drugs = c()
+for (i in keys(broad_drug_groups)){
+    all_drugs = c(all_drugs, broad_drug_groups[[i]])}
+broader_groups = keys(broad_drug_groups)
+```
+
+```{r}
+table(df[df$drug_count == 0, ]$CONCOHORT_DEFINITION)
+table(df[df$`Metabolic disease medication` == 1, ]$CONCOHORT_DEFINITION)
+```
+
+
+```{r}
+drug_usage = data.frame(colSums(df_specific_drug_groups[,all_drugs]))
+colnames(drug_usage) = 'count'
+row.names(drug_usage)[row.names(drug_usage) == "Supplement or multivitamin"] <- "Multivitamin"
+row.names(drug_usage)[row.names(drug_usage) == "Supplement calcium & vitD"] <- "Calcium & vitD"
+
+set.seed(1234)
+pdf(file = "../UVM poster/word_cloud.pdf", width = 4,height = 4)
+pal = c("#A65628", "#377EB8", "#4DAF4A", "#984EA3", "#FF7F00", "#FFFF33","#E41A1C", "#F781BF", "#999999")
+wordcloud(words = rownames(drug_usage), freq = drug_usage$count, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35,            colors=pal, scale=c(3, 0.4))
+dev.off()
+```
+
+## TABLE 1
+
+```{r}
+df[broader_groups] = sapply(df[broader_groups],as.character)
+df[broader_groups][df[broader_groups] == '0']  <- NA
+
+df$CONCOHORT_DEFINITION = factor(df$CONCOHORT_DEFINITION, levels=c("Healthy Control", "Prodromal", "Parkinson's Disease"))
+
+my.render.cat = function(x) {
+    c("", sapply(stats.default(x), function(y) with(y,
+        sprintf("%d (%0.0f %%)", FREQ, PCT))))
+}
+
+
+T1 = table1(data = df, 
+  ~ Current_age + Gender_reported + drug_count + AA_CCI_bins +
+    `Immunomodulatory medication` +
+    `CVD medication` + `Neurological medication` + `Pain & Rheuma medication` +
+    `Respiratory medication` + `Hormonal medication` +
+    `Other antidegenerative medication` + `Metabolic disease medication` +
+    `GI tract medication` + `Infection medication` + `Supplement & vitamin` |
+    CONCOHORT_DEFINITION, render.categorical=my.render.cat, render.missing = NULL)
+T1
+write.csv(T1, '../Data/formatted/table1_R.csv')
+```
+
+## Plots: patient characteristics
+### Counts in cohorts
+```{r}
+plot_pretty_bars = function(data, plot_title){
+  tbl = data.frame(table(data$CONCOHORT_DEFINITION, data$Gender_reported))
+  tbl$Var1 = factor(tbl$Var1, levels=c("Healthy Control", "Prodromal", "Parkinson's Disease"))
+  # get totals in a table format, then rep twice (for female and male)
+  tbl$count_in_cohort = rep(data.frame(table(data$CONCOHORT_DEFINITION))$Freq, 2)
+  tbl$prop = round((tbl$Freq / tbl$count_in_cohort)*100, 1)
+  
+  print(tbl)
+  
+  ggplot(tbl, aes(x=Var1, fill=Var2, y=Freq)) +
+    geom_col(position = "dodge") +
+    geom_text(
+      aes(label = paste0(Freq, " (", prop, "%)")), 
+      colour = "white", size = 3,
+      vjust = 1.5, position = position_dodge(.9)) +
+    theme(axis.title.x=element_blank()) +
+    ggtitle(plot_title)
+}
+
+
+plot_pretty_bars(
+  data=df, 
+  plot_title = "All data")
+
+plot_pretty_bars(
+  data=df[df$drug_count == 0,],
+  plot_title = "True controls")
+
+plot_pretty_bars(
+  data=df[df$`bone marrow suppressants (duplicated)` == 1, ], 
+  plot_title = "Patients on bone marrow suppressants")
+
+plot_pretty_bars(
+  data=df[df$`Supplement probiotic` == 1, ], 
+  plot_title = "Patients on probiotics")
+```
+
+### Drug count and AA_CCI in cohorts 
+```{r}
+ggplot(df, aes(x=CONCOHORT_DEFINITION, fill=Gender_reported, y=drug_count)) +
+    geom_boxplot(position = "dodge") +
+    theme(axis.title.x=element_blank()) +
+    ggtitle("Number of medications taken by patients")
+
+ggplot(df, aes(x=CONCOHORT_DEFINITION, fill=Gender_reported, y=AA_CCI)) +
+    geom_boxplot(position = "dodge") +
+    theme(axis.title.x=element_blank()) +
+    ggtitle("Age-adjusted Charlson Comorbidity Index")
+
+ggplot(df, aes(x=CONCOHORT_DEFINITION, fill=AA_CCI_bins)) +
+    geom_bar(position = "fill") +
+    theme(axis.title.x=element_blank()) +
+    ggtitle("Age-adjusted Charlson Comorbidity Index")
+```
+
+### Age density histograms
+```{r}
+plot_hist = function(cohort){
+  per = df[df$CONCOHORT_DEFINITION == cohort, ]
+  mu = plyr::ddply(per, "Gender_reported", summarise, grp.mean=mean(Current_age))
+  
+  ggplot(per, aes(x=Current_age, fill=Gender_reported)) +
+    geom_density(alpha=0.4) + 
+    geom_vline(data=mu, aes(xintercept=grp.mean, color=Gender_reported), linetype="dashed") + 
+    ggtitle(glue(cohort))
+
+}
+
+plot_hist("Healthy Control")
+plot_hist("Prodromal")
+plot_hist("Parkinson's Disease")
+```
+
+```{r}
+true_controls = df[df$drug_count == 0,]
+```
+
+
+
+```{r}  
+# library(igraph)
+# 
+# mat <- cor(as.matrix(df[,c(24:60)]))
+# mat[which(mat<0.5 & mat>-0.3)] <- 0
+# 
+# # Make an Igraph object from this matrix:
+# network <- graph_from_adjacency_matrix( mat, weighted=T, mode="undirected", diag=F)
+# 
+# # Basic chart
+# plot(network, edge.arrow.size=3)
+```
+
+
+```{r}
+
+df[, c(35:111)] = sapply(df[, c(35:111)],as.character)
+df$CONCOHORT_DEFINITION = factor(df$CONCOHORT_DEFINITION, levels=c("Healthy Control", "Prodromal", "Parkinson's Disease"))
+
+my.render.cat = function(x) {
+    c("", sapply(stats.default(x), function(y) with(y,
+        sprintf("%d (%0.0f %%)", FREQ, PCT))))
+}
+
+
+table1(
+  ~ Current_age + Gender_reported + drug_count + AA_CCI +
+    # drug groups without no usage were removed along with those below
+    # `Abortion drug` + `Other` + `Vaccine other` + `Vaccine influenza` +
+    
+    `ADHD_narcolepsy drug`      + `Antianginal drug`            +        
+    `Antiarrhythmic drug`       + `Anticholinergic drug`        + `Antidiabetic drug`            +        
+    `Antiemetic drug`           + `Antiepileptic drug`          + `Antiinflammatory drug`        +        
+    `Antipsychotic drug`        + `Antiviral drug`              + `Antiseptic drug`              +        
+    `Anxiety drug`              + `Cholesterol drug`            + `Cholinergic agonist drug`     +        
+    `COPD inhaler`              + `Cough drug`                  + `Decongestant drug`            +        
+    `Depression drug`           + `Epinephrine`                 + `Gout drug`                    +        
+    `Heart failure drug`        + `HIV ART drug`                + `Hypertension drug`            +        
+    `Immunoglobulin drug`       + `Immunosuppressant drug`      + `Insomnia drug`                +        
+    `Migraine drug`             + `Nonsteroid cream`            +        
+    `Prostate hyperplasia drug` + `Acid reflux drug`            +        
+    `Analgesic NSAID`           + `Analgesic opiate`            + `Analgesic prescription`       +        
+    `Antibiotic`                + `Alzheimer's drug`            + `Aspirin`                      +        
+    `Antihistamine drug`        + `Antifungal drug`             + `Bladder relaxant drug`        +        
+    `Cancer drug`               + `Estrogen systemic`           + `Estrogen topical`             +        
+    `Eye drops`                 + `Glaucoma drug`               + `IBS_diarrhoea drug`           +        
+    `Laxative`                  + `Macular degeneration drug`   + `Muscle relaxant drug`         +        
+    `Analgesic nonprescription` + `Nonsteroid inhaler`          + `Osteoporosis drug`            +        
+    `Parkinson's drug`          + `Supplement or multivitamin`  + `Phosphodiesterase inhibitors` +        
+    `Steroid ophthalmic`        + `Steroid inhaler`             + `Steroid systemic`             +        
+    `Steroid topical`           + `Supplement calcium`          + `Supplement cannabis`          +        
+    `Supplement probiotic`      + `Supplement iron`             + `Supplement fiber`             +        
+    `Supplement mineral`        + `Supplement omega`            +        
+    `Hyperthyroidism drug`      + `Hypothyroidism drug`         + `Hydroxychloroquine`           +        
+    `Testosterone topical`      + `Testosterone systemic`       + `bone marrow suppressants (duplicated)` |
+    CONCOHORT_DEFINITION, data=df, render.categorical=my.render.cat)
+```
+
+

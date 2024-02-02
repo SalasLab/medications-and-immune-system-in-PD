@@ -1,0 +1,25 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-01-23"
+---
+
+```{r}
+library(ggplot2)
+library(ggrepel)
+
+u = read.csv("../Data/formatted/umap_diabetic_drug_clustering.csv")
+
+ggplot(u, aes(x=X0, y=X1, label=WHO_CMTRT)) + 
+  geom_point() + 
+  # xlim(-12, 12) +
+  # ylim(7, 17) +
+  geom_text_repel(
+    box.padding=0.2,
+    label.padding = 0.2,
+    max.overlaps=12,
+    label.size=0.2
+    )
+
+```
+

@@ -1,0 +1,111 @@
+---
+title: "table1"
+output: html_document
+date: "2024-01-14"
+---
+
+```{r}
+library(table1)
+library(reshape2)
+library(dplyr)
+library(comorbidity)
+library(plyr)
+library(ggplot2)
+library(glue)
+library(wordcloud)
+source("broad_medication_groups.R")
+```
+
+```{r}
+df = read.csv("../Data/formatted/240127_BL_matched_drugs.csv", check.names = FALSE)
+
+# Make a melt comorbidities dataframe (id=(patno, visit_id); drug_group and 1/0 as value). 
+# Subset patients taking each drug (drug_group == 1)
+remove_cols = c("visit_date", "Current_age", "Gender_reported", "CONCOHORT_DEFINITION", "drug_count", immune_cells)
+comorb = df[, -which(names(df) %in% remove_cols)]
+comorb = melt(comorb, id=c("PATNO", "EVENT_ID"))
+comorb = comorb[comorb["value"] != 0, ]
+comorb = dplyr::rename(comorb, drug_group=variable)
+
+# Load ICD10 key dataframe & merge with melted comorbidities dataframe
+icd10 = read.csv("../Data/formatted/ICD10_key.csv")
+colnames(icd10) = c("drug_group", "icd10")
+comorb = comorb %>% left_join(icd10, by="drug_group")
+comorb = comorb[order(comorb$PATNO),]
+row.names(comorb) <- NULL
+head(comorb)
+```
+
+```{r}
+charlson = comorbidity(x = comorb, id = "PATNO", code = "icd10", map = "charlson_icd10_quan", assign0 = FALSE)
+scores = score(charlson, weights = "quan", assign0 = FALSE)
+
+# Merge with PATNO and then with 'df'
+scores = data.frame(unique(comorb$PATNO), scores)
+colnames(scores) = c("PATNO", "CCI")
+df = df %>% left_join(scores, by="PATNO")
+df <- df %>% mutate(CCI = ifelse(is.na(CCI), 0, CCI))
+
+# Age-adjusted CCI scores
+df$AA_CCI_weight = ifelse(df$Current_age < 50, 0,
+                          ifelse(df$Current_age >=50 & df$Current_age <60, 1, 
+                                 ifelse(df$Current_age >=60 & df$Current_age <70, 2, 
+                                        ifelse(df$Current_age >=70 & df$Current_age <80, 3, 
+                                               ifelse(df$Current_age >=80, 4, NaN)))))
+df$AA_CCI = df$CCI + df$AA_CCI_weight
+# remove intermediate AA_CCI columns
+df = subset(df, select = -c(AA_CCI_weight,CCI))
+df$AA_CCI_bins = ifelse(df$AA_CCI <1, 'low risk', 
+                        ifelse(df$AA_CCI >=1 & df$AA_CCI <3, 'mild risk', 
+                               ifelse(df$AA_CCI >=3 & df$AA_CCI <5, 'moderate risk', 
+                                      ifelse(df$AA_CCI >=5, 'severe risk', NaN))))
+```
+
+## z-score cell proportions within each cohort
+```{r}
+# z-score scale all immune cells, save them as new columns 'cell_Zsc'
+# create a vector with new immune cell names
+immune_cells_zs = c()
+for (i in immune_cells){
+  cell_zs = glue(i, "_Zsc")
+  immune_cells_zs = c(immune_cells_zs, cell_zs)
+  df[[cell_zs]] <- ave(df[[i]], df$CONCOHORT_DEFINITION, FUN=scale)
+}
+```
+
+## add columns with broader medication groups
+```{r}
+# create a vector containing all specific drug groups
+all_drugs = c()
+for (i in keys(broad_drug_groups)){
+    all_drugs = c(all_drugs, broad_drug_groups[[i]])
+}
+
+# iterate over a dictionary where the key=broader drug group name and value=drug groups that belong 
+# to the broader category. Sum across rows of those medications --> those patients with counts>0 
+# would have been taking a drug from the broader category during their baseline visit
+
+broader_groups = keys(broad_drug_groups)
+for (i in broader_groups){
+  df[[i]] = rowSums(df[, broad_drug_groups[[i]]])
+}
+
+# doesn't matter if patient took 1 or 5 drugs from the same category. Convert all those>0 to 1 and the rest to 0.
+df[broader_groups] <- lapply(df[broader_groups], function (x) {ifelse(x > 0, 1, 0)})
+df$drug_count <- rowSums(df[broader_groups])
+```
+
+## reoder dataframe and save
+```{r}
+# REMOVE patients on PD drugs
+df = df[df$`Parkinson's drug` == 0,]
+df = subset(df, select = -`Parkinson's drug`)
+
+# reorder columns, so that all the 'metadata' is first, immune cells are next, then medications
+meta = c(
+  "PATNO", "visit_date", "Current_age", "Gender_reported", "CONCOHORT_DEFINITION", "drug_count", "AA_CCI", "AA_CCI_bins")
+
+df = df[c(meta, immune_cells, immune_cells_zs, broader_groups)]
+write.csv(df, '../Data/formatted/240127_BL_MASTER.csv')
+```
+
