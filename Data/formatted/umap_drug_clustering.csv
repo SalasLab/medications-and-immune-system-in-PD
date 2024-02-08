@@ -1,0 +1,889 @@
+0,1,WHO_CMTRT,drug_group
+10.151736,10.660979,acetaminophen,Analgesic nonprescription
+1.2622036,13.410583,acetaminophen (tylenol pm),Analgesic nonprescription
+6.550866,10.100089,acetaminophen prn,Analgesic nonprescription
+4.4962826,10.914283,acetaminophoen 500mg,Analgesic nonprescription
+10.572097,11.064949,acetimonphen,Analgesic nonprescription
+10.071673,10.695257,acetominophen,Analgesic nonprescription
+9.972421,11.22993,actoplus met,Antidiabetic drug
+14.876221,14.438694,actos,Antidiabetic drug
+13.819346,14.948788,adcal-d3,Supplement calcium
+14.322478,13.809054,aerius,Antihistamine drug
+12.742929,10.916493,aktiferrin,Supplement iron
+13.174943,14.355859,alavert,Antihistamine drug
+13.137344,14.028152,alerest,Antihistamine drug
+13.662691,14.785383,aleve,Analgesic nonprescription
+12.43201,14.009633,aleve pm,Analgesic nonprescription
+11.4827,12.693919,alirocumab,Cholesterol drug
+3.4260516,11.126636,alirocumab (praluent),Cholesterol drug
+12.919359,14.461391,allegra,Antihistamine drug
+11.982464,13.470066,allegra d,Antihistamine drug
+11.539785,12.875724,allegra qd,Antihistamine drug
+12.446269,13.791366,aller-tec,Antihistamine drug
+12.816589,14.184809,allerest,Antihistamine drug
+6.066173,9.56529,allerga 1 tab prn,Antihistamine drug
+6.0940695,9.374303,allergy moderator,Antihistamine drug
+8.743287,10.062262,allergy shots,Antihistamine drug
+13.190304,13.934795,allernon,Antihistamine drug
+12.754792,14.236166,allertec,Antihistamine drug
+13.304383,14.640097,alleve,Analgesic nonprescription
+12.142938,10.458942,alogliptin,Antidiabetic drug
+13.541573,14.248381,alvedon,Analgesic nonprescription
+10.815529,9.267168,amitriptilina,Depression drug
+11.041255,9.324874,amitriptiline,Depression drug
+10.754259,9.62885,amitriptylene,Depression drug
+10.966731,9.622245,amitriptylin,Depression drug
+10.916732,9.352239,amitriptyline,Depression drug
+5.3277497,10.544139,amitriptyline 25 mg,Depression drug
+6.867563,10.061479,amitriptyline hcl,Depression drug
+11.150833,10.004164,amitrptylen,Depression drug
+11.425625,9.603538,amtriptylin,Depression drug
+14.155992,14.615567,antara,Cholesterol drug
+7.6677504,9.47442,antidepressants,Depression drug
+10.874098,9.093607,antihistamine,Antihistamine drug
+10.375192,9.1887045,antihistamines,Antihistamine drug
+6.997644,9.179448,apo-escitalopram,Depression drug
+8.437399,9.673627,armour thyroid,Hypothyroidism drug
+6.50946,9.525652,aspercreme cream,Analgesic nonprescription
+13.690608,11.642261,astelin,Antihistamine drug
+14.202833,14.521338,atarax,Antihistamine drug
+14.437055,14.078111,atoracs,Antihistamine drug
+13.474987,12.337005,atorvalan,Cholesterol drug
+12.455678,4.75242,atorvastatin,Cholesterol drug
+1.0157113,12.314389,atorvastatin (10 mg) daily,Cholesterol drug
+2.5376227,8.598405,atorvastatin (10mg),Cholesterol drug
+2.3263097,10.149797,atorvastatin (40mg) qd,Cholesterol drug
+2.6381314,9.962,atorvastatin (lipitor),Cholesterol drug
+2.7614782,8.31286,atorvastatin 10 mg,Cholesterol drug
+2.5916946,8.41597,atorvastatin 20 mg,Cholesterol drug
+2.6499624,8.391325,atorvastatin 40 mg,Cholesterol drug
+2.655338,8.278434,atorvastatin 80 mg,Cholesterol drug
+2.7040048,8.028409,atorvastatin 80mg,Cholesterol drug
+2.8223357,9.104007,atorvastatin calcium,Cholesterol drug
+12.393629,4.6256657,atorvastatina,Cholesterol drug
+12.486044,4.717906,atorvastatine,Cholesterol drug
+12.270355,6.076648,atorvastin,Cholesterol drug
+12.3237505,4.701487,atorvostatin,Cholesterol drug
+2.695373,10.034191,atorvostatin (lipitor),Cholesterol drug
+2.7214239,9.580506,atourvastatin calcium,Cholesterol drug
+12.530621,5.289976,atovastatin,Cholesterol drug
+12.395972,4.794585,atovrvastain,Cholesterol drug
+14.37494,14.294369,atozet,Cholesterol drug
+12.462279,4.4781933,atrorvastatin,Cholesterol drug
+12.4987335,5.404557,atrovasatin,Cholesterol drug
+12.483225,4.920122,atrovastatin,Cholesterol drug
+12.6346,5.041862,atrvastatine,Cholesterol drug
+12.797765,9.338507,azalastine,Antihistamine drug
+13.072983,9.417409,azelastine,Antihistamine drug
+9.130427,10.102299,azelastine hcl,Antihistamine drug
+0.11986084,15.279916,azelastine hcl nasal spray 0.15%,Antihistamine drug
+0.92001474,11.410909,azelastine hydrochloride,Antihistamine drug
+2.8765144,11.330239,azelastine nasal spray,Antihistamine drug
+13.159339,14.486288,azilect,Depression drug
+13.504975,14.091325,basagalar,Antidiabetic drug
+15.06612,14.0183,belviq,Antidiabetic drug
+15.750002,12.70447,benadryl,Antihistamine drug
+15.842996,12.74435,benedryl,Antihistamine drug
+8.0298195,9.719074,beta sitosterol,Cholesterol drug
+12.765927,10.541589,betahistin,Antihistamine drug
+13.30196,13.4053545,bilaxten,Antihistamine drug
+1.1967976,13.793304,bone builder with magnesium,Supplement calcium
+13.434059,9.823362,bromazine,Antihistamine drug
+9.608859,11.054424,brupopion xl,Depression drug
+14.591684,12.318781,bufferin,Analgesic nonprescription
+15.083169,12.046946,bupoprion,Depression drug
+15.127183,11.948263,bupropion,Depression drug
+1.4940188,12.960256,bupropion (wellbutrin xl),Depression drug
+2.6924562,11.469783,bupropion (wellbutrin),Depression drug
+9.024573,11.02522,bupropion hcl,Depression drug
+7.1863613,10.011041,bupropion hcl er,Depression drug
+7.263634,9.8842535,bupropion hcl xl,Depression drug
+1.203984,11.419465,bupropion hydrochloride,Depression drug
+9.572737,11.145455,bupropion xl,Depression drug
+15.146067,11.935003,buproprion,Depression drug
+9.324987,10.92326,buproprion er,Depression drug
+8.609872,10.744479,buproprion hcl,Depression drug
+9.07277,11.049878,buproprion xl,Depression drug
+15.083947,11.77317,burpropion,Depression drug
+8.805555,10.944295,burpropion hcl,Depression drug
+15.54664,14.577732,buspar,Depression drug
+14.862776,12.607686,buspiron,Depression drug
+14.315101,12.179223,buspirone,Depression drug
+9.043356,10.77693,buspirone hcl,Depression drug
+0.74233824,14.274973,buspirone hydrochlorothiazide,Depression drug
+15.255942,12.643063,bydureon,Antidiabetic drug
+9.119749,10.475336,bydureon base,Antidiabetic drug
+15.4732275,14.264229,byetta,Antidiabetic drug
+8.842147,13.55687,cacium + d3,Supplement calcium
+11.2154255,13.219176,cal-d-vita,Supplement calcium
+13.250535,14.74888,calceos,Supplement calcium
+8.955606,13.530123,calcicare d3,Supplement calcium
+10.365602,13.598303,calcifediol,Supplement calcium
+13.244462,14.762085,calcio,Supplement calcium
+10.3559065,13.489676,calcipotrene,Supplement calcium
+1.3176986,13.938826,calcipotriene 0.005 % cream,Supplement calcium
+1.1496447,14.453864,calcipotriene 0.005% ointment,Supplement calcium
+11.312515,13.50379,calcitonin,Supplement calcium
+11.00309,13.593308,calcitriol,Supplement calcium
+12.519155,14.508664,calcium,Supplement calcium
+3.2610583,13.920943,calcium & magnesium plus,Supplement calcium
+5.628878,13.225134,calcium & vitamin d,Supplement calcium
+3.627258,13.097344,calcium (600mg) daily,Supplement calcium
+1.5856705,14.699874,"calcium (plus d3, magnesium)",Supplement calcium
+9.031935,13.817308,calcium + d,Supplement calcium
+5.5654135,13.088807,calcium + d 600 mg,Supplement calcium
+8.572816,13.58867,calcium + d3,Supplement calcium
+3.5734334,13.484532,calcium + d3 (gummies),Supplement calcium
+5.3513575,13.094972,calcium + magnesium,Supplement calcium
+2.3394911,14.228502,calcium + magnesium + zink,Supplement calcium
+5.6227612,13.205357,calcium + vitamin d,Supplement calcium
+9.515331,13.775199,calcium +d,Supplement calcium
+9.072654,13.736716,calcium +d3,Supplement calcium
+7.3543196,13.425795,calcium +vit d,Supplement calcium
+5.944814,13.065928,calcium +vitamin d,Supplement calcium
+5.395869,13.203732,calcium / magnesium,Supplement calcium
+3.451953,13.592453,calcium 500 + d 500 mg,Supplement calcium
+7.3977404,13.14935,calcium 500 mg,Supplement calcium
+2.190254,14.61994,calcium 600 plus vitamin d3,Supplement calcium
+7.9311376,13.299714,calcium 600mg,Supplement calcium
+2.673274,14.28474,"calcium 600mg, vitamin d3",Supplement calcium
+9.136276,13.777185,calcium 650,Supplement calcium
+9.341265,13.864674,calcium ace,Supplement calcium
+4.7348027,13.293488,calcium and vitamin d,Supplement calcium
+7.174118,13.324249,calcium antacid,Supplement calcium
+6.3818097,13.077918,calcium aspartate,Supplement calcium
+1.6530468,14.593761,calcium carb cholecalciferol,Supplement calcium
+6.4386444,13.149673,calcium carbonate,Supplement calcium
+3.3530538,13.872652,calcium carbonate (tums),Supplement calcium
+2.6584365,14.367452,calcium carbonate + vit d3,Supplement calcium
+0.29395375,15.198694,calcium carbonate and cholecalciferol,Supplement calcium
+1.5036409,14.969113,calcium carbonate and vitamin d,Supplement calcium
+2.2441518,14.65351,calcium carbonate vitamin d3,Supplement calcium
+2.0006797,14.858618,calcium carbonate- vitamin d3,Supplement calcium
+2.1977897,14.692535,calcium carbonate-vitamin d3,Supplement calcium
+2.1978087,14.733389,calcium carbonate/vitamin d3,Supplement calcium
+7.2429085,13.119154,calcium citrate,Supplement calcium
+5.4522076,13.056111,calcium citrate + d,Supplement calcium
+3.6870959,13.73113,calcium citrate + d3 po,Supplement calcium
+3.866947,13.54755,calcium citrate 200 mg,Supplement calcium
+5.7473125,12.942594,calcium citrate bid,Supplement calcium
+1.4268925,14.821542,calcium citrate malate with d3,Supplement calcium
+0.46032244,15.318146,calcium citrate w/ vit d3 (1000/600),Supplement calcium
+1.6798264,14.887987,calcium citrate with vitamin d,Supplement calcium
+2.790183,14.349689,calcium citrate-vitamin d3,Supplement calcium
+9.457133,13.811863,calcium d3,Supplement calcium
+8.196149,13.500297,calcium daily,Supplement calcium
+7.781833,13.307482,calcium gummy,Supplement calcium
+6.713387,13.084186,calcium infusion,Supplement calcium
+7.024122,13.194123,calcium lactate,Supplement calcium
+6.283168,13.152917,calcium magnesium,Supplement calcium
+4.087465,13.61525,calcium magnesium zinc,Supplement calcium
+4.2758627,13.453777,calcium plus vitamin d,Supplement calcium
+7.049088,13.293197,calcium with d3,Supplement calcium
+4.239213,13.345697,calcium with vitamin d,Supplement calcium
+3.9151287,13.573349,calcium with vitamin d3,Supplement calcium
+9.729456,13.754643,calcium+d3,Supplement calcium
+3.366314,13.363098,calcium+o3 (600mg) bid,Supplement calcium
+1.9474396,14.434359,"calcium, magnesium and zinc",Supplement calcium
+3.3801582,13.597695,calcium-cholecalciferol,Supplement calcium
+3.178504,13.953509,calcium-citrate vitamin d,Supplement calcium
+4.0256443,13.632012,calcium-magnesium-zinc,Supplement calcium
+3.4711373,13.889901,calcium/ magnesium/ zinc,Supplement calcium
+5.899701,13.2781,calcium/ vitamin d,Supplement calcium
+9.775155,13.719937,calcium/d3,Supplement calcium
+6.198948,13.085775,calcium/magnesium,Supplement calcium
+3.906237,13.4958725,calcium/magnesium/zinc,Supplement calcium
+1.4699247,14.722009,calcium/magnesium/zink tablet,Supplement calcium
+3.8809264,13.383261,calcium/zinc/magnesium,Supplement calcium
+3.9397643,13.153776,"calicum, vit k, vit d",Supplement calcium
+7.7006598,12.851064,calm-magnesium,Supplement calcium
+12.629441,13.570097,caltrate,Supplement calcium
+6.450423,10.765469,caltrate 1200 mg,Supplement calcium
+3.7758098,13.073569,caltrate plus vitamin d,Supplement calcium
+3.8399925,13.164323,caltrate with vitamin d,Supplement calcium
+11.84289,13.403301,caltrate-d,Supplement calcium
+12.982014,14.448087,camgesic,Analgesic nonprescription
+10.2258215,9.8403015,canagliflozin,Antidiabetic drug
+13.908306,9.841109,ceririzine,Antihistamine drug
+13.702457,9.768389,ceritizine,Antihistamine drug
+13.5729685,9.759622,certraline,Antihistamine drug
+13.8510685,10.067632,cetirizina,Antihistamine drug
+13.993796,9.796406,cetirizine,Antihistamine drug
+2.4645154,11.293997,cetirizine (5mg) daily,Antihistamine drug
+4.6580954,10.198883,cetirizine (zyrtec),Antihistamine drug
+7.6133227,10.472373,cetirizine daily,Antihistamine drug
+8.666883,10.464291,cetirizine hcl,Antihistamine drug
+0.9214317,11.460705,cetirizine hydrochloride,Antihistamine drug
+0.0031209209,15.2291765,cetirizine hydrochloride (zyrtec),Antihistamine drug
+2.4666078,11.210324,cetirizine(10mg) daily,Antihistamine drug
+14.0016575,10.134098,cetirzine,Antihistamine drug
+14.031,9.815652,cetrizine,Antihistamine drug
+1.138584,11.166189,cetrizine hydrochloride,Antihistamine drug
+2.2811747,12.134267,chlorpheniramine maleate,Antihistamine drug
+8.277344,9.557287,cholecalcifarol,Supplement calcium
+8.38958,9.3846445,cholecalciferol,Supplement calcium
+2.2171023,13.905608,cholecalciferol (vitamin d),Supplement calcium
+2.0337234,14.0825815,cholecalciferol (vitamin d3),Supplement calcium
+2.433077,13.6840315,cholecalciferol vitamin d3,Supplement calcium
+2.792741,13.204153,"cholecalciferol, vitamin",Supplement calcium
+2.1720088,13.94024,"cholecalciferol, vitamin d3",Supplement calcium
+11.556858,11.734006,cholest-off,Cholesterol drug
+1.4848921,13.3874235,cholest-off (2 pills bid),Cholesterol drug
+11.47379,11.973063,cholestagel,Cholesterol drug
+10.753228,11.0992565,cholestepure,Cholesterol drug
+7.5045815,9.138296,cholestoff plus,Cholesterol drug
+10.546111,9.295843,cholestyramine,Cholesterol drug
+14.376005,13.239041,chromium,Supplement calcium
+9.49307,11.019008,chromium pico,Supplement calcium
+13.1905155,13.5520735,cipralex,Depression drug
+12.923304,13.242959,cipramil,Depression drug
+11.048253,11.269266,ciprofibrate,Cholesterol drug
+11.366172,12.353822,citalopram,Depression drug
+6.1167326,10.845952,citalopram (5 mg),Depression drug
+7.245845,11.107954,citalopram 10mg,Depression drug
+1.6924455,11.512588,citalopram hydrobromide,Depression drug
+13.299887,13.469278,citracal,Supplement calcium
+10.019701,11.826677,citracal + d,Supplement calcium
+1.1777742,13.278356,citracal and d 315-200 mg,Supplement calcium
+13.087888,13.523601,citracel,Supplement calcium
+5.970287,10.343966,citracel + vit d3,Supplement calcium
+3.1205232,12.39313,citracel plus magnesium,Supplement calcium
+3.504575,12.844854,citracel plus vitamin d,Supplement calcium
+12.927094,13.415548,citrical,Supplement calcium
+9.488238,11.614298,citrical & d3,Supplement calcium
+11.693298,12.943516,citrical d,Supplement calcium
+1.5338392,13.698392,citrical slow release 1200,Supplement calcium
+12.756202,12.683168,clarinex,Antihistamine drug
+11.945462,12.841482,clarinex-d,Antihistamine drug
+13.198085,12.671254,clariten,Antihistamine drug
+13.264646,11.828317,claritin,Antihistamine drug
+8.918245,10.147686,claritin d prn,Antihistamine drug
+12.361054,12.478694,claritin-d,Antihistamine drug
+13.087437,9.246152,clemastine,Antihistamine drug
+12.174082,9.703216,clomipramine,Depression drug
+8.810782,9.594081,colecalciferol,Supplement calcium
+2.5568776,12.992245,colecalciferol 1000 i.e.,Supplement calcium
+2.8610713,12.692523,colecalciferol 1000 iu,Supplement calcium
+2.4613783,13.093944,colecalciferol 20.000 ie,Supplement calcium
+13.06041,13.025222,colestid,Cholesterol drug
+12.243348,12.461649,colestipol,Cholesterol drug
+1.2241398,11.220704,colestipol hydrchloride,Cholesterol drug
+13.672234,13.259423,contrave,Antidiabetic drug
+5.449271,10.234942,coral calcium plus,Supplement calcium
+14.772482,13.585243,crestor,Cholesterol drug
+9.24341,11.481018,crestor 20mg,Cholesterol drug
+15.596337,14.747183,ctm,Antihistamine drug
+13.893014,14.563712,cymbalta,Depression drug
+5.0831513,10.552642,cymbalta (60mg) qd,Depression drug
+8.729236,11.4157095,cymbalta 60mg,Depression drug
+14.915167,13.82182,cytomel,Hypothyroidism drug
+16.087269,14.541882,d3,Supplement calcium
+8.739185,10.560963,d3 - 4000 iu,Supplement calcium
+10.100567,9.906483,dapagliflozin,Antidiabetic drug
+1.5587379,12.658794,dapagliflozin propanediol,Antidiabetic drug
+14.48003,12.514046,dekristol,Supplement calcium
+4.248437,10.639692,dekristol 20.000 ie,Supplement calcium
+12.959008,9.90997,desipramine,Depression drug
+11.49321,9.120317,desloratadina,Antihistamine drug
+11.460682,9.132366,desloratadine,Antihistamine drug
+11.473583,9.233251,desloratidine,Antihistamine drug
+10.044993,9.0800495,desvenlafaxine,Depression drug
+1.9949383,12.120224,desvenlafaxine (pristiq),Depression drug
+16.054348,13.005529,desyrel,Depression drug
+13.355837,12.984772,diamicron,Antidiabetic drug
+4.181762,10.390675,docepin neuraxpharm,Depression drug
+12.863473,12.627235,dolomo tn,Analgesic nonprescription
+14.73604,12.951881,doxepin,Depression drug
+10.138398,11.233811,doxepin hcl,Depression drug
+1.447215,11.111428,doxepin hydrochloride,Depression drug
+13.25249,9.9911,dramamine,Antihistamine drug
+11.717306,10.763543,dulaglutida,Antidiabetic drug
+11.635547,10.584042,dulaglutide,Antidiabetic drug
+2.5104864,11.903626,dulaglutide (trulicity),Antidiabetic drug
+3.6073802,10.318794,duloxetin (cymbalta),Depression drug
+13.467338,8.71931,duloxetina,Depression drug
+13.409553,8.513703,duloxetine,Depression drug
+2.2924514,11.351475,duloxetine (40mg) daily,Depression drug
+3.1972027,10.651151,duloxetine (cymbalta),Depression drug
+13.376212,8.816213,duloxitine,Depression drug
+14.966917,12.257938,duroferon,Supplement iron
+2.909536,11.987563,dustmites allergy shot,Antihistamine drug
+14.713953,14.811551,dymista,Antihistamine drug
+13.520467,11.103136,ebastina,Antihistamine drug
+13.433278,10.7925415,ebastine,Antihistamine drug
+11.109744,12.013421,ecitalopram,Depression drug
+14.236797,11.402957,ecotrin,Analgesic nonprescription
+15.406933,13.053762,edronax,Depression drug
+15.941717,12.964789,eferox,Supplement iron
+16.154669,13.335962,effexor,Depression drug
+12.416464,11.575489,effexor er,Depression drug
+12.357145,11.6922865,effexor xr,Depression drug
+15.354652,12.618574,elatrol,Depression drug
+14.454323,13.837357,elavil,Depression drug
+12.916326,10.953117,eletriptan,Depression drug
+14.161092,12.044668,elontril,Depression drug
+14.565789,11.04876,eltroxin,Hypothyroidism drug
+10.196688,9.885442,empagliflozin,Antidiabetic drug
+1.8627586,12.823098,empagliflozin (jardiance),Antidiabetic drug
+9.975154,9.739121,empagliflozina,Antidiabetic drug
+10.674033,10.173915,empaglifozin,Antidiabetic drug
+10.421709,9.912627,empaglifozina,Antidiabetic drug
+8.864534,9.776517,ergocalciferol,Supplement calcium
+7.43989,9.685182,es acetominophen,Analgesic nonprescription
+10.666177,11.670643,escitalopram,Depression drug
+3.288354,11.683268,escitalopram (lexapro),Depression drug
+4.195873,11.053023,escitalopram 20mg/ml,Depression drug
+4.092111,10.780152,escitalopram oxalate,Depression drug
+0.7653824,14.754983,escitalopram oxalate (lexapro),Depression drug
+3.9003372,11.137448,escitaloprã¡m oxalate,Depression drug
+10.7395935,11.559738,escitaloptam,Depression drug
+0.16298409,15.273038,esomeprazole magnesium w/naproxen,Analgesic nonprescription
+11.8644905,11.067233,eszopiclone,Depression drug
+15.056343,13.205151,eucreas,Antidiabetic drug
+16.020248,11.999606,euthyrox,Hypothyroidism drug
+15.520368,12.583862,eutirox,Hypothyroidism drug
+13.68476,11.350254,exeatide,Antidiabetic drug
+13.364615,10.978635,exenatide,Antidiabetic drug
+13.840845,10.788043,exitimibe,Cholesterol drug
+1.5645614,13.068815,extra strength tylenol pm,Analgesic nonprescription
+15.761616,12.955475,ezerosu,Cholesterol drug
+11.143579,11.515993,ezetal plus,Cholesterol drug
+14.449606,11.834716,ezetemib,Cholesterol drug
+14.130031,11.488192,ezetimbe,Cholesterol drug
+13.807076,10.41237,ezetimbine,Cholesterol drug
+14.278385,11.474039,ezetimib,Cholesterol drug
+3.4158869,10.675568,ezetimib/rosuvastatin,Cholesterol drug
+14.135742,11.162626,ezetimiba,Cholesterol drug
+14.012404,10.851311,ezetimibe,Cholesterol drug
+5.901321,9.886764,ezetimibe (zetia),Cholesterol drug
+6.8175817,10.590008,ezetimibe 10 mg,Cholesterol drug
+6.707819,10.509448,"ezetimibe, 10mg",Cholesterol drug
+3.4157257,11.076245,ezetimibe/simvastatin,Cholesterol drug
+15.723324,12.735647,ezetrol,Cholesterol drug
+6.7047534,10.513553,famolidine 20 mg,Antihistamine drug
+14.242071,13.765719,farxiga,Antidiabetic drug
+11.751186,11.249331,fenofibrate,Cholesterol drug
+13.8374,11.346392,feramin,Supplement iron
+14.668734,12.39896,ferosanol,Supplement iron
+15.291681,12.550766,ferrasorb,Supplement iron
+13.786964,11.108737,ferritin,Supplement iron
+12.0937395,11.51846,ferro sanol,Supplement iron
+3.900639,10.426022,ferro sanol duodenal,Supplement iron
+15.635273,12.236512,ferrofood,Supplement iron
+14.762606,12.370515,ferrosanol,Supplement iron
+15.969845,12.906121,ferrous,Supplement iron
+6.6862664,8.97258,ferrous fumarate,Supplement iron
+6.370762,8.918016,ferrous gluconate,Supplement iron
+7.006566,8.85621,ferrous sulfate,Supplement iron
+3.743686,10.720231,ferrous sulfate 28mg,Supplement iron
+6.7295613,9.075709,ferrous sulphate,Supplement iron
+11.649146,9.150534,fexafenadine,Antihistamine drug
+11.969777,9.416363,fexofenadine,Antihistamine drug
+2.7348406,11.274688,fexofenadine (allegra),Antihistamine drug
+0.8699661,12.247362,fexofenadine hydrochloride,Antihistamine drug
+9.25263,9.479436,fiasp insulin,Antidiabetic drug
+13.671083,13.712389,fibrate,Cholesterol drug
+13.933914,13.094469,fioricet,Analgesic nonprescription
+13.217569,8.590287,fluoextine,Depression drug
+8.888838,9.969928,fluoxetin beta,Depression drug
+13.5863285,8.498799,fluoxetina,Depression drug
+13.607714,8.364499,fluoxetine,Depression drug
+2.137375,11.411171,fluoxetine (10mg) daily,Depression drug
+4.2988176,9.879097,fluoxetine (prozac),Depression drug
+6.960788,10.465675,fluoxetine 40 mg,Depression drug
+8.609343,10.381379,fluoxetine hcl,Depression drug
+13.383798,8.393996,fluoxitine,Depression drug
+13.479772,8.257756,fluoxotine,Depression drug
+12.235797,5.541796,fluvastatin,Cholesterol drug
+3.0822458,9.383508,fluvastatina sã³dica,Cholesterol drug
+4.6451526,10.030106,fluvoxamine maleate,Depression drug
+13.220469,8.451053,fluvoxetine,Depression drug
+13.548533,8.531838,fluxetine,Depression drug
+14.710371,13.460246,forxiga,Antidiabetic drug
+9.76244,10.3055315,gemfibrilosil,Cholesterol drug
+11.7556,11.175553,gemfibrozil,Cholesterol drug
+11.201303,10.868349,gemfibrozilo,Cholesterol drug
+12.127732,12.721062,glicazida,Antidiabetic drug
+12.105853,12.060864,gliclazide,Antidiabetic drug
+11.40602,11.887732,glimepirida,Antidiabetic drug
+11.787412,11.758517,glimepiride,Antidiabetic drug
+11.961956,12.165119,glimepride,Antidiabetic drug
+12.169766,12.141281,glipizide,Antidiabetic drug
+3.062365,11.195128,glipizide (glucatrol),Antidiabetic drug
+9.89953,10.835349,glipizide xl,Antidiabetic drug
+13.700759,13.887711,glucagon,Antidiabetic drug
+10.913413,11.079073,glucobalance,Antidiabetic drug
+13.652745,12.525753,glucomin,Antidiabetic drug
+11.619866,11.944847,glucophage,Antidiabetic drug
+12.37419,12.202515,glyburide,Antidiabetic drug
+3.2456594,11.215648,glyburide w/metformin,Antidiabetic drug
+14.559839,11.984418,hidroferol,Supplement calcium
+12.797053,10.155782,hidroxicina,Antihistamine drug
+15.336302,14.430672,hist-off,Antihistamine drug
+14.72523,14.6263,humalog,Antidiabetic drug
+7.9615574,9.072733,humalog insulin,Antidiabetic drug
+10.788688,11.70763,humalog mix,Antidiabetic drug
+10.277945,11.294424,humilin nph,Antidiabetic drug
+8.106551,10.462883,hydroxizine hcl,Antihistamine drug
+3.6995878,10.308696,hydroxozyne hcl 25mg,Antihistamine drug
+13.092052,9.842815,hydroxyzine,Antihistamine drug
+7.9074044,10.3602495,hydroxyzine hcl,Antihistamine drug
+1.5879997,12.424994,hydroxyzine hcl (atarax),Antihistamine drug
+4.291919,10.053176,hydroxyzine pamoate,Antihistamine drug
+3.103965,11.083235,ic liothyronine sodium,Hypothyroidism drug
+12.919546,13.118655,icosapent,Cholesterol drug
+1.4162443,12.830424,icosapent ethyl (2g) bid,Cholesterol drug
+12.828174,9.922037,imipramine,Depression drug
+13.887528,12.238581,insulin,Antidiabetic drug
+7.8524714,9.339351,insulin aspart,Antidiabetic drug
+6.499257,9.498179,insulin degludec,Antidiabetic drug
+7.421716,9.205076,insulin detemir,Antidiabetic drug
+7.330735,9.124921,insulin glargine,Antidiabetic drug
+1.6449077,12.840362,insulin glargine (lantus),Antidiabetic drug
+1.520224,13.060977,insulin glargine (toujeo),Antidiabetic drug
+6.6144633,9.211176,insulin injection,Antidiabetic drug
+7.738855,9.31987,insulin lispro,Antidiabetic drug
+1.8096634,12.952732,insulin lispro (humalog),Antidiabetic drug
+7.346284,9.350961,insulina aspart,Antidiabetic drug
+7.0129023,9.2636385,insulina detemir,Antidiabetic drug
+6.823534,9.295114,insulina glargina,Antidiabetic drug
+13.534372,11.606973,insuline,Antidiabetic drug
+5.99569,9.561962,insuline degludec,Antidiabetic drug
+12.38088,12.9271145,invokamet,Antidiabetic drug
+13.640321,13.243563,invokana,Antidiabetic drug
+2.7955484,11.972048,invokana canagliflozin,Antidiabetic drug
+13.904717,12.450836,iodine,Hypothyroidism drug
+14.995269,13.603835,iron,Supplement iron
+10.186946,11.952449,iron 60mg,Supplement iron
+9.513202,11.49996,iron 8.5 mg,Supplement iron
+1.4835806,13.375712,iron in other combinations,Supplement iron
+7.260073,9.14663,iron supplement,Supplement iron
+6.641032,9.060236,iron supplements,Supplement iron
+7.2794027,9.275667,isophane insulin,Antidiabetic drug
+13.589179,14.825211,janumet,Antidiabetic drug
+11.323293,12.519905,janumet xr,Antidiabetic drug
+13.760927,14.685178,januvia,Antidiabetic drug
+12.795476,13.048596,jardiance,Antidiabetic drug
+12.323553,12.528362,jardidance,Antidiabetic drug
+13.300288,12.739636,jardince,Antidiabetic drug
+12.461321,11.921419,jentadueto,Antidiabetic drug
+15.904304,11.643595,jodthyrox,Hypothyroidism drug
+14.56736,15.009621,kazano,Antidiabetic drug
+13.564186,11.151288,ketotifen,Antihistamine drug
+11.538988,11.4338,kombiglyze,Antidiabetic drug
+11.803234,11.549192,komboglyze,Antidiabetic drug
+15.997629,11.8873,l-thyrox,Hypothyroidism drug
+6.7359805,9.983322,l-thyrox 75 âµg,Hypothyroidism drug
+15.383421,10.5403185,l-thyroxin,Hypothyroidism drug
+15.1620245,10.190464,l-thyroxine,Hypothyroidism drug
+14.001235,14.009708,lantis,Antidiabetic drug
+14.292503,14.809013,lantus,Antidiabetic drug
+8.88226,11.45346,lantus 100mg,Antidiabetic drug
+8.593879,9.2187,lantus insulin,Antidiabetic drug
+13.930362,11.293908,legatrin,Antihistamine drug
+13.908075,11.445364,levaxin,Hypothyroidism drug
+14.552015,12.663181,levemir,Antidiabetic drug
+8.239873,9.194583,levemir insulin,Antidiabetic drug
+8.50911,9.359988,levenin nsulin,Antidiabetic drug
+10.467651,9.386779,levocetirizine,Antihistamine drug
+0.58795565,14.413453,levocetirizine dihydrochloride,Antihistamine drug
+11.293523,9.304842,levocetrizine,Antihistamine drug
+12.370276,6.087869,levostatin,Cholesterol drug
+5.084182,9.774739,levothoroxine 25mcg,Hypothyroidism drug
+15.525389,10.451108,levothroid,Hypothyroidism drug
+14.806339,9.655884,levothryoxine,Hypothyroidism drug
+14.985805,9.863332,levothyroxide,Hypothyroidism drug
+15.183322,9.913117,levothyroxin,Hypothyroidism drug
+5.3035493,9.991273,levothyroxin 50âµg,Hypothyroidism drug
+0.67335355,13.789021,levothyroxin and liothyronin,Hypothyroidism drug
+4.407271,9.73782,levothyroxin natrium,Hypothyroidism drug
+15.019989,9.80994,levothyroxine,Hypothyroidism drug
+0.42231953,14.097679,levothyroxine (50 mcg/.50 mg),Hypothyroidism drug
+1.95845,11.549531,levothyroxine (50mg) qd,Hypothyroidism drug
+0.6588823,13.478397,levothyroxine (75mcg) daily,Hypothyroidism drug
+1.8188964,11.806388,levothyroxine (levoxyl),Hypothyroidism drug
+1.4336638,12.251752,levothyroxine (synthroid),Hypothyroidism drug
+0.9194223,12.950574,levothyroxine 137mcg daily,Hypothyroidism drug
+4.5693593,9.813232,levothyroxine sodium,Hypothyroidism drug
+0.6668669,13.821285,"levothyroxine sodium, 100mcg",Hypothyroidism drug
+15.079776,10.035907,levotiroxin,Hypothyroidism drug
+14.827255,9.847315,levotiroxina,Hypothyroidism drug
+4.9558825,9.754301,levotiroxina sodica,Hypothyroidism drug
+14.73063,9.798274,levotiroxine,Hypothyroidism drug
+16.006403,13.205447,levoxyl,Hypothyroidism drug
+15.584292,13.193944,lexapro,Depression drug
+11.64649,10.300347,linagliptin,Antidiabetic drug
+15.347073,10.266604,liothyronin,Hypothyroidism drug
+15.143282,10.036551,liothyronine,Hypothyroidism drug
+14.113073,14.073534,lipitor,Cholesterol drug
+11.886499,10.740408,liraglutide,Antidiabetic drug
+3.3651998,10.945836,liraglutide (victoza),Antidiabetic drug
+2.850401,11.696321,liraglutide 1.mg sc qd,Antidiabetic drug
+14.067398,13.933019,litorva,Cholesterol drug
+14.142945,14.564361,livalo,Cholesterol drug
+13.023726,9.576766,loratadine,Antihistamine drug
+2.2331707,11.11991,loratadine (10mg) daily,Antihistamine drug
+3.799004,10.249928,loratadine (clariten),Antihistamine drug
+3.6077645,10.137979,loratadine (claritin),Antihistamine drug
+0.77201796,13.656801,loratatine (10mg) once daily,Antihistamine drug
+13.1633,9.43604,loratidine,Antihistamine drug
+13.300846,9.13907,loretedine,Antihistamine drug
+12.287803,5.938153,lovastatin,Cholesterol drug
+15.060501,14.717212,lovaza,Cholesterol drug
+6.954167,8.982106,lugol's solution,Hypothyroidism drug
+2.7449808,11.766542,lugol's solution drops,Hypothyroidism drug
+15.605248,14.565953,lugols,Hypothyroidism drug
+15.844226,14.322007,luvox,Depression drug
+14.106494,10.970469,meformin,Antidiabetic drug
+13.263562,10.600938,metaformin,Antidiabetic drug
+9.189752,10.297483,metaformin hcl,Antidiabetic drug
+13.944118,10.722972,metformin,Antidiabetic drug
+5.514884,10.595678,metformin (500 mg),Antidiabetic drug
+2.470081,11.187979,"metformin (500 mg, qd)",Antidiabetic drug
+6.9030294,10.842355,metformin 500mg,Antidiabetic drug
+5.057339,10.5245495,metformin 500mg tid,Antidiabetic drug
+10.430169,10.499799,metformin er,Antidiabetic drug
+9.442678,10.579008,metformin hcl,Antidiabetic drug
+7.0803246,10.454128,metformin hcl er,Antidiabetic drug
+1.0538292,11.177392,metformin hydrochloride,Antidiabetic drug
+2.604125,11.746675,metformin w/sitagliptin,Antidiabetic drug
+13.713141,10.617701,metformina,Antidiabetic drug
+5.993448,10.626725,metformina 500 mg,Antidiabetic drug
+6.2727056,10.444247,metformina 850 mg,Antidiabetic drug
+13.732453,10.277531,metformine,Antidiabetic drug
+11.470718,10.924672,milnacipran,Depression drug
+11.973554,9.566499,miratazapine,Depression drug
+15.258721,14.345454,miro,Depression drug
+12.373554,10.023001,mirtazapin,Depression drug
+12.409516,9.759482,mirtazapine,Depression drug
+12.499814,10.260641,mirtazipin,Depression drug
+12.438531,9.894904,mirtazipine,Depression drug
+12.515997,10.08871,mirtezopine,Depression drug
+12.948327,9.833994,mirtzapine,Depression drug
+14.887164,12.029454,naproxen,Analgesic nonprescription
+2.7973633,11.181178,naproxen (325 mg) prn,Analgesic nonprescription
+6.680196,9.447973,naproxen (aleve),Analgesic nonprescription
+5.055165,9.624682,naproxen (otc) prn,Analgesic nonprescription
+11.113983,11.426135,naproxen ec,Analgesic nonprescription
+10.807908,11.741482,naproxen pm,Analgesic nonprescription
+7.5953135,9.695855,naproxen sodium,Analgesic nonprescription
+0.026953628,15.472735,naproxen/esomeprazole (375 mg/20 mg),Analgesic nonprescription
+14.650301,11.6168785,naproxene,Analgesic nonprescription
+14.856445,11.946268,naproxeno,Analgesic nonprescription
+14.472006,11.422352,naproxin,Analgesic nonprescription
+9.980537,9.405357,nascent iodine,Hypothyroidism drug
+12.783453,11.777404,nefazodone,Depression drug
+14.621965,11.286309,neproxin,Analgesic nonprescription
+14.597818,13.113225,neuriva,Antihistamine drug
+13.782699,13.830922,niaspan,Cholesterol drug
+13.548083,11.240383,norpramin,Depression drug
+11.001157,9.384148,nortripryline,Depression drug
+11.0671215,9.445201,nortriptylin,Depression drug
+11.101698,9.186368,nortriptyline,Depression drug
+13.873751,11.82649,novalgin,Analgesic nonprescription
+15.005975,14.470771,novalog,Antidiabetic drug
+9.036415,9.842089,novaminsulfon,Analgesic nonprescription
+4.1340675,10.915482,novaminsulfon 500 mg,Analgesic nonprescription
+8.614083,9.36366,novo-fluoxetine,Depression drug
+8.468959,10.237815,novolin 70/30,Antidiabetic drug
+15.517753,14.245484,novolog,Antidiabetic drug
+7.89326,9.172493,novolog insulin,Antidiabetic drug
+13.685402,12.018023,novorapid,Antidiabetic drug
+15.559722,10.899108,np thyroid,Hypothyroidism drug
+15.610957,10.88054,np-thyroid,Hypothyroidism drug
+12.598165,9.122205,olopatadine,Antihistamine drug
+15.564772,14.079916,onglyza,Antidiabetic drug
+8.963457,10.33288,oral benedryl,Antihistamine drug
+10.75531,10.834153,osteobalance,Supplement calcium
+15.1576805,13.914644,otezla,Antidiabetic drug
+15.098356,13.449377,ozempic,Antidiabetic drug
+3.2626464,11.810764,palmitoyl ethynolamide,Analgesic nonprescription
+11.730044,12.518865,paracetamol,Analgesic nonprescription
+12.178566,5.129277,paravastatin,Cholesterol drug
+13.623896,13.677825,parnate,Depression drug
+13.8364105,9.089683,paroxetin,Depression drug
+13.664365,8.759449,paroxetina,Depression drug
+13.557663,8.802963,paroxetine,Depression drug
+2.5208652,11.042462,"paroxetine (20 mg, qd)",Depression drug
+5.146664,9.567133,paroxetine (paxil),Depression drug
+13.1258545,13.598922,patanase,Antihistamine drug
+14.856185,14.361845,paxil,Depression drug
+4.565652,10.023289,pentoprozole sodium,Hypothyroidism drug
+15.119641,12.9385,percocet,Antihistamine drug
+14.579936,12.424371,phenergan,Antihistamine drug
+6.9862776,9.397027,phytosterols nos,Cholesterol drug
+11.363884,9.941039,pioglitazone,Antidiabetic drug
+12.1930685,5.1946793,pitavastatin,Cholesterol drug
+13.028914,13.519783,praluent,Cholesterol drug
+7.446421,9.020459,prandial insulin,Antidiabetic drug
+13.693261,12.413771,prandin,Antidiabetic drug
+14.003647,13.058714,pravachol,Cholesterol drug
+12.469608,6.0650535,pravastain,Cholesterol drug
+12.217639,5.663177,pravastatin,Cholesterol drug
+3.035279,8.222603,pravastatin 10 mg,Cholesterol drug
+3.148843,8.601364,pravastatin sodium,Cholesterol drug
+12.289705,5.447277,pravastatina,Cholesterol drug
+12.327916,5.224049,pravastatine,Cholesterol drug
+12.048124,5.373522,premvastatin,Cholesterol drug
+12.002693,5.6228895,prevastatin,Cholesterol drug
+14.12815,13.440084,pristiq,Depression drug
+1.8800898,12.5010805,pristiq (desvenlafaxine),Depression drug
+11.829774,9.364434,promethazine,Antihistamine drug
+12.394707,5.534105,provastatin,Cholesterol drug
+3.0758746,8.503868,provastatin sodium,Cholesterol drug
+15.632794,13.812437,prozac,Depression drug
+5.5030603,9.948709,prozac (60mg) qd,Depression drug
+0.3104492,14.84253,pseudoephedrine and triprolidine,Antihistamine drug
+15.916857,13.365381,qelbree,Depression drug
+14.440307,12.857621,questran,Cholesterol drug
+13.168234,9.709473,ranitidine,Antihistamine drug
+8.742379,10.3222475,ranitidine hcl,Antihistamine drug
+12.6474495,9.781224,rasagiline,Depression drug
+3.8598495,10.415966,rasagiline (azilect),Depression drug
+13.50942,10.519564,reactine,Antihistamine drug
+13.491498,8.959305,reboxetine,Depression drug
+14.029183,12.985,relizen,Analgesic nonprescription
+14.740276,12.666408,remergil,Depression drug
+15.032887,12.828358,remeron,Depression drug
+6.2756124,9.114591,remeron-mirtazpine,Depression drug
+11.944741,10.185106,repaglinide,Antidiabetic drug
+14.795748,13.716746,repatha,Cholesterol drug
+11.860573,10.551612,rizatriptan,Depression drug
+4.1661305,10.608933,rizatriptan benzoate,Depression drug
+11.782836,5.003693,rosuvasratin,Cholesterol drug
+11.653478,4.8703737,rosuvastagmin,Cholesterol drug
+11.921251,4.9455457,rosuvastatin,Cholesterol drug
+2.679976,9.302698,rosuvastatin (10 mg),Cholesterol drug
+1.434433,11.873473,rosuvastatin (10mg) daily,Cholesterol drug
+2.097539,10.621489,rosuvastatin (20mg/day),Cholesterol drug
+2.5952,9.958046,rosuvastatin (crestor),Cholesterol drug
+2.7307584,8.194953,rosuvastatin 10mg,Cholesterol drug
+2.8033533,7.897307,rosuvastatin 20mg,Cholesterol drug
+2.908829,8.267042,rosuvastatin 40mg,Cholesterol drug
+2.8583448,9.262523,rosuvastatin calcium,Cholesterol drug
+0.71186495,14.225023,rosuvastatin calcium (crestor),Cholesterol drug
+0.8937068,13.268463,rosuvastatin calcium 5mg qd,Cholesterol drug
+1.1032115,12.803016,"rosuvastatin calcium, 10mg",Cholesterol drug
+2.8138871,9.689668,rosuvastatin/ezetimib,Cholesterol drug
+11.745547,4.698691,rosuvastatina,Cholesterol drug
+11.955872,5.9777894,rosuvastin,Cholesterol drug
+11.774648,4.810266,rosuvostatin,Cholesterol drug
+11.81234,5.5055685,rosvustatin,Cholesterol drug
+11.751052,4.84336,rousvastatin,Cholesterol drug
+12.446127,5.8327885,rovastatin,Cholesterol drug
+12.326551,6.095761,ruvostatin,Cholesterol drug
+15.768973,13.785794,rybelsus,Antidiabetic drug
+14.969594,14.98919,sam-e,Depression drug
+14.1397295,13.067629,saroten,Antihistamine drug
+11.48731,10.166921,saxagliptin,Antidiabetic drug
+2.648592,11.835385,saxagliptin / metformin,Antidiabetic drug
+14.223839,14.695225,saxenda,Antidiabetic drug
+11.726256,10.452071,semaglutide,Antidiabetic drug
+2.9066732,11.618808,semaglutide (rybelsus),Antidiabetic drug
+15.246105,12.855534,seropram,Depression drug
+15.574975,12.756737,seroquel,Antihistamine drug
+15.171289,13.110408,seroxat,Depression drug
+13.4676075,10.181771,sertaline,Depression drug
+5.5236883,10.502968,sertaline (150 mg),Depression drug
+5.402631,10.541764,sertaline 200mg qd,Depression drug
+13.367192,9.964987,sertralina,Depression drug
+13.515188,9.861042,sertraline,Depression drug
+2.2159014,11.21787,sertraline (50mg) daily,Depression drug
+4.6758914,10.165738,sertraline (zoloft),Depression drug
+8.928282,10.547962,sertraline hcl,Depression drug
+0.92692316,11.430261,sertraline hydrochloride,Depression drug
+13.807258,10.047985,setraline,Depression drug
+12.2935505,5.0698338,simavastatin,Cholesterol drug
+12.5674515,6.26886,simavastin,Cholesterol drug
+14.842501,14.734453,simcor,Cholesterol drug
+12.473226,5.153159,simivastatin,Cholesterol drug
+10.759507,10.478106,simva aristo,Cholesterol drug
+13.300624,13.966952,simvabeta,Cholesterol drug
+13.985136,14.312045,simvacor,Cholesterol drug
+12.645203,5.9212203,simvasatin,Cholesterol drug
+12.580062,5.5481114,simvastatin,Cholesterol drug
+1.9556432,10.790718,"simvastatin (40 mg, qd)",Cholesterol drug
+1.6555011,11.300773,simvastatin (40mg) daily,Cholesterol drug
+0.6667743,13.919571,simvastatin (40mg) once daily,Cholesterol drug
+2.9545183,9.01825,simvastatin (zocor),Cholesterol drug
+2.862037,8.186244,simvastatin 20 mg,Cholesterol drug
+2.9687061,8.092494,simvastatin 20mg,Cholesterol drug
+2.9349468,8.478686,simvastatin aristo,Cholesterol drug
+12.603871,5.2471676,simvastatina,Cholesterol drug
+12.713939,5.1494746,simvastatine,Cholesterol drug
+12.5853615,6.502119,simvastin,Cholesterol drug
+11.728751,10.189254,sitagliptin,Antidiabetic drug
+3.6193295,10.938974,sitagliptin (januvia),Antidiabetic drug
+-0.00027183548,15.454997,sitagliptin-metformin 100mg-1000mg,Antidiabetic drug
+11.337921,10.041526,sitagliptina,Antidiabetic drug
+11.619181,9.942898,sitagliptine,Antidiabetic drug
+14.850506,14.06822,slow fe,Supplement iron
+13.621127,12.4839325,slow iron,Supplement iron
+15.805739,14.008249,slow-fe,Supplement iron
+14.554392,13.631034,sortis,Cholesterol drug
+14.826326,14.889755,spasmex,Analgesic nonprescription
+4.600232,10.334036,spasmex compositum,Analgesic nonprescription
+0.16962309,15.217035,spravato (56mg) every 4-6 weeks,Depression drug
+13.6606,11.760046,statin,Cholesterol drug
+14.532032,14.36459,stator,Cholesterol drug
+15.607527,11.132249,synthroid,Hypothyroidism drug
+1.8112754,12.017698,"synthroid, levothyroxine",Hypothyroidism drug
+15.723655,10.979559,synthyroid,Hypothyroidism drug
+7.9412503,9.511848,t-relief arnica,Analgesic nonprescription
+15.994343,14.583783,t3,Hypothyroidism drug
+13.362915,12.17103,tardyferon,Supplement iron
+14.2572,14.094638,telfast,Antihistamine drug
+9.7170515,10.720102,testoster gel,Testosterone topical
+5.6556754,9.553254,testosterone cream,Testosterone topical
+0.90913415,14.073265,testosterone cypionate cream,Testosterone topical
+0.42067513,14.915672,testosterone cypionate injection,Testosterone topical
+7.164191,9.757913,testosterone gel,Testosterone topical
+2.1522286,12.066538,testosterone supplement,Testosterone topical
+1.1261882,13.316013,testosterone topical cream,Testosterone topical
+0.8505601,14.009997,testosterone transdermal gel,Testosterone topical
+0.91635966,13.648295,testosterone/estrogen cream,Testosterone topical
+9.230122,9.450365,teva ezetimibe,Cholesterol drug
+9.398606,9.599012,teva-ezetimibe,Cholesterol drug
+16.360525,12.85625,thyrex,Hypothyroidism drug
+15.810736,11.91379,thyrofem,Hypothyroidism drug
+15.647477,11.821053,thyroid,Hypothyroidism drug
+6.8285837,9.521089,thyroid hormones,Hypothyroidism drug
+4.042403,10.391722,thyroid preparations,Hypothyroidism drug
+15.455392,11.21549,thyronajod,Hypothyroidism drug
+15.070746,11.234397,thyroxin,Hypothyroidism drug
+14.864107,10.857266,thyroxine,Hypothyroidism drug
+15.107019,10.861786,thytrophin,Hypothyroidism drug
+15.674393,13.819801,toujeo,Antidiabetic drug
+13.103823,12.93814,tradjenta,Antidiabetic drug
+13.145781,12.340647,trazadone,Depression drug
+6.8767242,10.635961,trazadone 50 mg,Depression drug
+13.785316,12.641079,trazodil,Depression drug
+13.4095125,12.63004,trazodona,Depression drug
+13.270444,12.246509,trazodone,Depression drug
+6.982875,10.5825,trazodone 150mg,Depression drug
+8.748706,10.619459,trazodone hcl,Depression drug
+1.0676466,11.308449,trazodone hydrochloride,Depression drug
+13.930602,12.907834,tresebia,Antidiabetic drug
+14.296791,13.062472,trevilor,Depression drug
+14.827514,13.881969,tricor,Cholesterol drug
+13.448157,12.7157545,trilipix,Cholesterol drug
+12.904952,12.207083,trintellix,Depression drug
+13.994537,12.866625,trittico,Depression drug
+13.060887,12.56422,trulicity,Antidiabetic drug
+3.527625,11.212362,trulicity dulaglutide,Antidiabetic drug
+13.9070215,12.462995,tryptizol,Depression drug
+14.5547495,12.680684,turmeric,Antihistamine drug
+15.362964,13.434681,tylenol,Analgesic nonprescription
+2.0056305,12.668124,tylenol (extra-strength),Analgesic nonprescription
+2.2762794,12.169549,tylenol (with caffeine),Analgesic nonprescription
+6.241742,8.996292,tylenol arthritis,Analgesic nonprescription
+11.815891,12.364532,tylenol er,Analgesic nonprescription
+2.708814,12.065039,tylenol extra strength,Analgesic nonprescription
+11.547289,12.139399,tylenol pm,Analgesic nonprescription
+8.477369,11.219932,tyletol 500mg,Analgesic nonprescription
+3.4820547,10.838152,u500 hi dose insulin,Antidiabetic drug
+15.548873,11.292667,unithroid,Hypothyroidism drug
+14.328824,12.607384,ursodiol,Cholesterol drug
+15.163451,13.394709,ursofalk,Cholesterol drug
+13.532243,13.382724,valdoxan,Depression drug
+14.043615,14.924001,vascepa,Cholesterol drug
+9.495039,9.867867,venafaxine er,Depression drug
+11.623411,8.859316,venalafaxine,Depression drug
+11.9544115,8.852764,venfalaxine,Depression drug
+7.898361,10.375627,venlafaxin 75mg,Depression drug
+11.667338,8.634705,venlafaxina,Depression drug
+6.006077,10.4522,venlafaxina 75 mg,Depression drug
+11.879508,8.652295,venlafaxine,Depression drug
+5.6964574,10.67729,venlafaxine 150 mg,Depression drug
+6.166431,10.341825,venlafaxine 75 mg,Depression drug
+9.252941,9.759446,venlafaxine er,Depression drug
+0.90957624,13.376615,venlafaxine er (225mg/day),Depression drug
+4.847046,10.574985,venlafaxine er 75 mg,Depression drug
+8.672636,10.092668,venlafaxine hcl,Depression drug
+5.692279,10.200076,venlafaxine hcl er,Depression drug
+9.456434,9.762005,venlafaxine xr,Depression drug
+11.825895,8.476651,venlaflaxin,Depression drug
+11.532599,8.747475,venlaflaxine,Depression drug
+11.477948,8.685175,venlaflexine,Depression drug
+13.88447,14.269167,viactiv,Supplement calcium
+3.2280397,12.423496,viactiv calcium plus d,Supplement calcium
+14.634459,14.506214,victoza,Antidiabetic drug
+6.749624,9.697935,victoza injection,Antidiabetic drug
+11.092615,11.465377,victoza pen,Antidiabetic drug
+14.793841,14.413753,viepax,Depression drug
+10.191267,10.59763,vigantoletten,Supplement calcium
+15.017264,14.922315,viibryd,Depression drug
+14.853256,14.850545,viibyrd,Depression drug
+12.870567,12.101863,vilazodone,Depression drug
+0.97172034,11.744251,vilazodone hydrochloride,Depression drug
+11.203418,10.248931,vildagliptin,Antidiabetic drug
+11.959596,9.004909,vinaflaxine,Depression drug
+14.4232235,15.195183,vit d,Supplement calcium
+14.416959,15.207456,vit d3,Supplement calcium
+5.9085703,10.0266,vit d3 folic acid,Supplement calcium
+6.285747,10.231457,vit.d.20.000 ie,Supplement calcium
+9.902728,12.428646,vitamin - d,Supplement calcium
+1.0700365,13.344108,"vitamin c complex, calcium",Supplement calcium
+10.049271,12.723238,vitamin d,Supplement calcium
+4.4263678,11.198248,vitamin d + calcium,Supplement calcium
+6.1686215,11.003718,vitamin d 2000mg,Supplement calcium
+6.1439705,11.017551,vitamin d 25 mcg,Supplement calcium
+6.6562204,10.925408,vitamin d drops,Supplement calcium
+9.708833,12.168827,vitamin d qd,Supplement calcium
+3.9637382,11.169325,vitamin d supplement,Supplement calcium
+3.568779,11.775153,vitamin d with calcium,Supplement calcium
+6.3851967,11.044858,"vitamin d, 1000",Supplement calcium
+9.806345,12.455313,vitamin d-3,Supplement calcium
+10.068156,12.513342,vitamin d2,Supplement calcium
+0.7470963,13.016953,vitamin d2 (250 mg) daily,Supplement calcium
+3.2251027,11.83594,vitamin d2 perscription,Supplement calcium
+10.040024,12.657028,vitamin d3,Supplement calcium
+0.7796057,13.126149,vitamin d3 (5000iu) daily,Supplement calcium
+3.139072,11.499439,vitamin d3 (50mcg) qd,Supplement calcium
+3.8419392,11.423258,vitamin d3 (7mg/day),Supplement calcium
+4.111387,11.450491,vitamin d3 + calcium,Supplement calcium
+6.2517004,10.956981,"vitamin d3 2,000",Supplement calcium
+0.84809613,13.09567,vitamin d3 25 mcg per day,Supplement calcium
+3.531878,11.870415,vitamin d3 and calcium,Supplement calcium
+6.4070215,11.138379,vitamin d3 daily,Supplement calcium
+0.12964109,15.095737,vitamin d3 w/phosphorus w/calcium,Supplement calcium
+5.7946076,11.043528,"vitamin d3, 25mcg",Supplement calcium
+3.7870238,11.66858,vitamin d3-folic acid,Supplement calcium
+9.815919,12.685981,vitamine d,Supplement calcium
+9.985533,12.417489,vitamine d1,Supplement calcium
+9.984688,12.474726,vitamine d3,Supplement calcium
+10.227831,12.54576,vitamn d3,Supplement calcium
+0.61267865,14.355283,"vitmain d (10,0000 iu) daily",Supplement calcium
+10.073558,11.131,voltaren gel,Analgesic nonprescription
+0.12496399,15.291071,voltaren gel 1% diclofenac sodium,Analgesic nonprescription
+9.3232355,10.446619,voltarin cream,Analgesic nonprescription
+12.180931,9.158713,vortioxetina,Depression drug
+12.383935,9.193917,vortioxetine,Depression drug
+1.5176603,12.362067,vortioxetine (trintellix),Depression drug
+7.5006795,10.071836,vortioxetine hbr,Depression drug
+14.18452,11.387417,vytorin,Cholesterol drug
+13.185347,11.718216,welbutrin,Depression drug
+15.830779,13.513965,welchol,Cholesterol drug
+12.206732,11.814079,wellbutrim,Depression drug
+12.716513,11.478005,wellbutrin,Depression drug
+10.027051,10.131926,wellbutrin er,Depression drug
+9.503689,10.466405,wellbutrin xl,Depression drug
+9.6526165,10.251876,wellbutrin xr,Depression drug
+15.000086,14.846493,xhance,Antihistamine drug
+15.547851,14.696171,xigduo,Antidiabetic drug
+15.824568,14.680536,xozal,Antihistamine drug
+15.844766,14.403703,xyzal,Antihistamine drug
+14.456575,14.604391,zaditor,Antihistamine drug
+14.370465,14.9723215,zantac,Antihistamine drug
+14.782892,13.886974,zarxio,Antihistamine drug
+16.198849,13.901683,zenpep,Antihistamine drug
+15.803063,13.530497,zertec,Antihistamine drug
+14.649875,13.638778,zetia,Antihistamine drug
+15.625719,14.515366,zocar,Cholesterol drug
+16.09168,14.155781,zocor,Cholesterol drug
+9.356259,11.584397,zocor 40 mg,Cholesterol drug
+15.905976,14.178285,zoloft,Depression drug
+15.991895,13.859912,zyrtec,Antihistamine drug
+5.620639,10.0868025,zyrtec (10mg) qd,Antihistamine drug
+9.409049,11.648052,zyrtec 10mg,Antihistamine drug
+16.172716,13.972749,zyrtek,Antihistamine drug

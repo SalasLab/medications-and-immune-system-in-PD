@@ -1,0 +1,88 @@
+,0
+Abortion drug,
+Acid reflux drug,K21
+ADHD_narcolepsy drug,F90
+Alzheimer's drug,G30
+Analgesic nonprescription,M19
+Analgesic NSAID,M19
+Analgesic opiate,M19
+Analgesic prescription,M19
+Anesthetic drug,
+Antianginal drug,I20
+Antiarrhythmic drug,I49
+Antibiotic,A49
+Anticholinergic drug,R251
+Antidiabetic drug,E11
+Antidiuretic drug,R55
+Antiemetic drug,R112
+Antiepileptic drug,G40
+Antiflatulent drug,R143
+Antifungal drug,B36
+Antihistamine drug,J301
+Antiinflammatory drug,J45
+Antipsychotic drug,F20
+Antiseptic drug,J00
+Antiviral drug,B02
+Anxiety drug,F41
+Aspirin,I519
+Bladder relaxant drug,N3281
+Bone marrow stimulant,D64
+Cancer drug,C801
+COPD inhaler,J449
+Cough drug,J00
+Cholesterol drug,E78
+Cholinergic agonist drug,G70
+Decongestant drug,J00
+Depression drug,F32A
+Epinephrine,Z9101
+Estrogen systemic,N93
+Estrogen topical,N952
+Eye drops,H0412
+Gaucher's disease,E7522
+Glaucoma drug,H40
+Gout drug,M109
+Heart failure drug,I50
+HIV ART drug,B20
+Hydroxychloroquine,M05
+Hyperthyroidism drug,E05
+Hypothyroidism drug,E03
+Hypotension drug,R55
+Hypertension drug,I10
+IBS_diarrhoea drug,K58
+Immunoglobulin drug,Z9225
+Immunosuppressant drug,Z9225
+Insomnia drug,G470
+Laxative,K590
+Malaria drug,B53
+Macular degeneration drug,H3530
+Migraine drug,G43
+Muscle relaxant drug,R52
+Nonsteroid cream,
+Nonsteroid inhaler,J449
+Osteoporosis drug,M810
+Other,
+PAP sleep apnea,G473
+Parkinson's drug,G20
+Phosphodiesterase inhibitors,N52
+Prostate hyperplasia drug,N40
+Pulmonary hypertension drug,I270
+Steroid inhaler,J449
+Steroid ophthalmic,H0412
+Steroid systemic,J449
+Steroid topical,L20
+Supplement calcium,M81
+Supplement cannabis,R52
+Supplement fiber,
+Supplement iron,D50
+Supplement mineral,
+Supplement omega,
+Supplement or multivitamin,
+Supplement probiotic,
+Testosterone topical,E299
+Testosterone systemic,R6882
+Vaccine COVID,
+Vaccine influenza,
+Vaccine other,
+Vaccine shingles,
+Vertigo,H81
+Weight loss drug,E66

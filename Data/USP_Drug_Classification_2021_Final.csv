@@ -1,0 +1,2319 @@
+USP Category,USP Class,Example Drugs,Pharmacotherapeutic Group (informational),Combination Drug Product
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Celecoxib ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Diclofenac,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Diclofenac Epolamine,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Diclofenac Potassium,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Diclofenac Sodium,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Diclofenac Sodium/ Misoprostol ,,yes
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Diflunisal ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Etodolac ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Fenoprofen Calcium,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Flurbiprofen ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Ibuprofen ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Ibuprofen/ Famotidine ,,yes
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Indomethacin ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Ketoprofen ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Ketorolac Tromethamine,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Meclofenamate Sodium,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Mefenamic Acid ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Meloxicam ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Nabumetone ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Naproxen ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Naproxen Sodium,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Naproxen/ Esomeprazole Magnesium ,,yes
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Oxaprozin ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Piroxicam ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Sulindac ,,no
+Analgesics,Nonsteroidal Anti-inflammatory Drugs,Tolmetin Sodium,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Buprenorphine,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Fentanyl,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Hydrocodone Bitartrate,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Hydromorphone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Levorphanol Tartrate,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Methadone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Morphine Sulfate,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Oxycodone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Oxymorphone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Tapentadol Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Long-acting ",Tramadol Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Butorphanol Tartrate,,no
+Analgesics,"Opioid Analgesics, Short-acting",Codeine Sulfate,,no
+Analgesics,"Opioid Analgesics, Short-acting",Fentanyl Citrate,,no
+Analgesics,"Opioid Analgesics, Short-acting",Hydromorphone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Meperidine Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Morphine Sulfate,,no
+Analgesics,"Opioid Analgesics, Short-acting",Nalbuphine Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Oliceridine,,no
+Analgesics,"Opioid Analgesics, Short-acting",Oxycodone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Oxymorphone Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Tapentadol Hydrochloride,,no
+Analgesics,"Opioid Analgesics, Short-acting",Tramadol Hydrochloride,,no
+Analgesics,Analgesics Combinations,Acetaminophen/ Codeine Phosphate ,,yes
+Analgesics,Analgesics Combinations,Benzhydrocodone/ Acetaminophen ,,yes
+Analgesics,Analgesics Combinations,Hydrocodone Bitartrate/ Acetaminophen ,,yes
+Analgesics,Analgesics Combinations,Hydrocodone Bitartrate/ Ibuprofen ,,yes
+Analgesics,Analgesics Combinations,Oxycodone Hydrochloride/ Acetaminophen ,,yes
+Analgesics,Analgesics Combinations,Oxycodone Hydrochloride/ Aspirin ,,yes
+Analgesics,Analgesics Combinations,Oxycodone Hydrochloride/ Ibuprofen ,,yes
+Analgesics,Analgesics Combinations,Pentazocine Lactate/ Naloxone,,yes
+Analgesics,Analgesics Combinations,Tramadol Hydrochloride/ Acetaminophen ,,yes
+Analgesics,Analgesics Combinations,Butalbital/ Acetaminophen ,,yes
+Analgesics,Analgesics Combinations,Butalbital/ Acetaminophen/ Caffeine ,,yes
+Analgesics,Analgesics Combinations,Butalbital/ Acetaminophen/ Caffeine/ Codeine Phosphate ,,yes
+Analgesics,Analgesics Combinations,Butalbital/ Aspirin/ Caffeine ,,yes
+Analgesics,Analgesics Combinations,Butalbital/ Aspirin/ Caffeine/ Codeine ,,yes
+Anesthetics,Local Anesthetics,Bupivacaine Hydrochloride,,no
+Anesthetics,Local Anesthetics,Lidocaine Hydrochloride,,no
+Anesthetics,Local Anesthetics,Lidocaine/ Epinephrine ,,yes
+Anesthetics,Local Anesthetics,Lidocaine/ Prilocaine ,,yes
+Anesthetics,Local Anesthetics,Lidocaine/ Tetracaine ,,yes
+Anti-Addiction/ Substance Abuse Treatment Agents,Alcohol Deterrents/Anti-craving,Acamprosate Calcium,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Alcohol Deterrents/Anti-craving,Disulfiram ,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Alcohol Deterrents/Anti-craving,Naltrexone,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Alcohol Deterrents/Anti-craving,Naltrexone Hydrochloride,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Opioid Dependence ,Buprenorphine ,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Opioid Dependence ,Buprenorphine/ Naloxone Hydrochloride ,,yes
+Anti-Addiction/ Substance Abuse Treatment Agents,Opioid Dependence ,Lofexidine ,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Opioid Dependence ,Naltrexone,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Opioid Dependence ,Naltrexone Hydrochloride,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Opioid Reversal Agents ,Naloxone Hydrochloride,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Smoking Cessation Agents,Bupropion Hydrochloride,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Smoking Cessation Agents,Nicotine Polacrilex,,no
+Anti-Addiction/ Substance Abuse Treatment Agents,Smoking Cessation Agents,Varenicline Tartrate,,no
+Antibacterials,Aminoglycosides, ,,Class
+Antibacterials,Aminoglycosides,Amikacin Sulfate,,no
+Antibacterials,Aminoglycosides,Gentamicin Sulfate,,no
+Antibacterials,Aminoglycosides,Neomycin Sulfate,,no
+Antibacterials,Aminoglycosides,Paromomycin Sulfate,,no
+Antibacterials,Aminoglycosides,Plazomicin ,,no
+Antibacterials,Aminoglycosides,Streptomycin Sulfate,,no
+Antibacterials,Aminoglycosides,Tobramycin Sulfate,,no
+Antibacterials,"Beta-lactam, Cephalosporins", ,,Class
+Antibacterials,"Beta-lactam, Cephalosporins", ,,
+Antibacterials,"Beta-lactam, Cephalosporins",Cefadroxil ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefazolin Sodium,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cephalexin ,,no
+Antibacterials,"Beta-lactam, Cephalosporins", ,,
+Antibacterials,"Beta-lactam, Cephalosporins",Cefaclor ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefotetan Disodium,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefoxitin Sodium,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefprozil ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefuroxime Axetil,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefuroxime Sodium,,no
+Antibacterials,"Beta-lactam, Cephalosporins", ,,
+Antibacterials,"Beta-lactam, Cephalosporins",Cefdinir ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefixime ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefotaxime Sodium,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Cefpodoxime Proxetil,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Ceftazidime ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Ceftazidime/ Avibactam ,,yes
+Antibacterials,"Beta-lactam, Cephalosporins",Ceftriaxone Sodium,,no
+Antibacterials,"Beta-lactam, Cephalosporins", ,,
+Antibacterials,"Beta-lactam, Cephalosporins",Cefepime Hydrochloride,,no
+Antibacterials,"Beta-lactam, Cephalosporins",,,
+Antibacterials,"Beta-lactam, Cephalosporins",Cefiderocol ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Ceftaroline Fosamil ,,no
+Antibacterials,"Beta-lactam, Cephalosporins",Ceftolozane Sulfate/ Tazobactam ,,yes
+Antibacterials,"Beta-lactam, Penicillins", ,,Class
+Antibacterials,"Beta-lactam, Penicillins", ,,
+Antibacterials,"Beta-lactam, Penicillins",Amoxicillin ,,no
+Antibacterials,"Beta-lactam, Penicillins",Amoxicillin/ Clavulanate Potassium ,,yes
+Antibacterials,"Beta-lactam, Penicillins",Ampicillin ,,no
+Antibacterials,"Beta-lactam, Penicillins",Ampicillin Sodium/ Sulbactam Sodium ,,yes
+Antibacterials,"Beta-lactam, Penicillins", ,,
+Antibacterials,"Beta-lactam, Penicillins",Piperacillin Sodium/ Tazobactam Sodium ,,yes
+Antibacterials,"Beta-lactam, Penicillins", ,,
+Antibacterials,"Beta-lactam, Penicillins",Penicillin G Benzathine,,no
+Antibacterials,"Beta-lactam, Penicillins",Penicillin G Potassium,,no
+Antibacterials,"Beta-lactam, Penicillins",Penicillin G Procaine,,no
+Antibacterials,"Beta-lactam, Penicillins",Penicillin G Sodium,,no
+Antibacterials,"Beta-lactam, Penicillins",Penicillin G Benzathine/ Penicillin G Procaine ,,yes
+Antibacterials,"Beta-lactam, Penicillins",Penicillin V Potassium,,no
+Antibacterials,"Beta-lactam, Penicillins", ,,
+Antibacterials,"Beta-lactam, Penicillins",Dicloxacillin Sodium,,no
+Antibacterials,"Beta-lactam, Penicillins",Nafcillin Sodium,,no
+Antibacterials,"Beta-lactam, Penicillins",Oxacillin Sodium,,no
+Antibacterials,Carbapenems, ,,Class
+Antibacterials,Carbapenems,Ertapenem Sodium,,no
+Antibacterials,Carbapenems,Imipenem/ Cilastatin Sodium ,,yes
+Antibacterials,Carbapenems,Imipenem/ Cilastatin/ Relebactam ,,yes
+Antibacterials,Carbapenems,Meropenem ,,no
+Antibacterials,Carbapenems,Meropenem/ Vaborbactam ,,yes
+Antibacterials,Macrolides, ,,Class
+Antibacterials,Macrolides,Azithromycin ,,no
+Antibacterials,Macrolides,Clarithromycin ,,no
+Antibacterials,Macrolides,Erythromycin ,,no
+Antibacterials,Macrolides,Erythromycin Ethylsuccinate,,no
+Antibacterials,Macrolides,Erythromycin Lactobionate ,,no
+Antibacterials,Macrolides,Erythromycin Stearate,,no
+Antibacterials,Macrolides,Fidaxomicin ,,no
+Antibacterials,Quinolones, ,,Class
+Antibacterials,Quinolones,Besifloxacin Hydrochloride,,no
+Antibacterials,Quinolones,Ciprofloxacin ,,no
+Antibacterials,Quinolones,Ciprofloxacin Hydrochloride,,no
+Antibacterials,Quinolones,Delafloxacin Meglumine,,no
+Antibacterials,Quinolones,Gatifloxacin ,,no
+Antibacterials,Quinolones,Gemifloxacin Mesylate,,no
+Antibacterials,Quinolones,Levofloxacin ,,no
+Antibacterials,Quinolones,Moxifloxacin Hydrochloride,,no
+Antibacterials,Quinolones,Ofloxacin ,,no
+Antibacterials,Sulfonamides, ,,Class
+Antibacterials,Sulfonamides,Sulfacetamide Sodium,,no
+Antibacterials,Sulfonamides,Sulfadiazine ,,no
+Antibacterials,Tetracyclines, ,,Class
+Antibacterials,Tetracyclines,Demeclocycline Hydrochloride,,no
+Antibacterials,Tetracyclines,Doxycycline,,no
+Antibacterials,Tetracyclines,Doxycycline Calcium,,no
+Antibacterials,Tetracyclines,Doxycycline Hyclate,,no
+Antibacterials,Tetracyclines,Eravacycline ,,no
+Antibacterials,Tetracyclines,Minocycline Hydrochloride,,no
+Antibacterials,Tetracyclines,Omadacycline ,,no
+Antibacterials,Tetracyclines,Sarecycline ,,no
+Antibacterials,Tetracyclines,Tetracycline Hydrochloride,,no
+Antibacterials,"Antibacterials, Other", ,,Class
+Antibacterials,"Antibacterials, Other", ,,
+Antibacterials,"Antibacterials, Other",Sulfamethoxazole/ Trimethoprim ,,yes
+Antibacterials,"Antibacterials, Other",Trimethoprim ,,no
+Antibacterials,"Antibacterials, Other", ,,
+Antibacterials,"Antibacterials, Other",Dalbavancin Hydrochloride,,no
+Antibacterials,"Antibacterials, Other",Oritavancin Diphosphate,,no
+Antibacterials,"Antibacterials, Other",Telavancin Hydrochloride,,no
+Antibacterials,"Antibacterials, Other",Vancomycin Hydrochloride,,no
+Antibacterials,"Antibacterials, Other", ,,
+Antibacterials,"Antibacterials, Other",Clindamycin Hydrochloride,,no
+Antibacterials,"Antibacterials, Other",Clindamycin Palmitate Hydrochloride,,no
+Antibacterials,"Antibacterials, Other",Lincomycin Hydrochloride,,no
+Antibacterials,"Antibacterials, Other", ,,
+Antibacterials,"Antibacterials, Other",Nitrofurantoin ,,no
+Antibacterials,"Antibacterials, Other", ,,
+Antibacterials,"Antibacterials, Other",Linezolid ,,no
+Antibacterials,"Antibacterials, Other",Tedizolid  Phosphate ,,no
+Antibacterials,"Antibacterials, Other",,,
+Antibacterials,"Antibacterials, Other",Lefamulin Acetate,,no
+Antibacterials,"Antibacterials, Other",,,
+Antibacterials,"Antibacterials, Other",Aztreonam ,,no
+Antibacterials,"Antibacterials, Other",,,
+Antibacterials,"Antibacterials, Other",Daptomycin ,,no
+Antibacterials,"Antibacterials, Other",,,
+Antibacterials,"Antibacterials, Other",Metronidazole ,,no
+Antibacterials,"Antibacterials, Other",Secnidazole ,,no
+Antibacterials,"Antibacterials, Other",Tinidazole  ,,no
+Antibacterials,"Antibacterials, Other",,,
+Antibacterials,"Antibacterials, Other",Tigecycline ,,no
+Antibacterials,"Antibacterials, Other", ,,
+Antibacterials,"Antibacterials, Other",Acetic Acid ,,no
+Antibacterials,"Antibacterials, Other",Bacitracin ,,no
+Antibacterials,"Antibacterials, Other",Chloramphenicol Sodium Succinate,,no
+Antibacterials,"Antibacterials, Other",Fosfomycin Tromethamine,,no
+Antibacterials,"Antibacterials, Other",Methenamine Hippurate,,no
+Antibacterials,"Antibacterials, Other",Methenamine Mandelate,,no
+Antibacterials,"Antibacterials, Other",Polymyxin B Sulfate,,no
+Antibacterials,"Antibacterials, Other",Rifaximin ,,no
+Anticonvulsants,"Antibacterials, Other", ,,Cat
+Anticonvulsants,Calcium Channel Modifying Agents, ,,Class
+Anticonvulsants,Calcium Channel Modifying Agents,Ethosuximide ,,no
+Anticonvulsants,Calcium Channel Modifying Agents,Methsuximide ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents, ,,Class
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents, ,Benzodiazepines,PG
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Clobazam ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Clonazepam ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Clorazepate Dipotassium,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Diazepam ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Lorazepam ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents, ,Barbituates,PG
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Phenobarbital ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Primidone ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents, ,"GABA Agents, Other",PG
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Gabapentin ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Pregabalin ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Tiagabine ,,no
+Anticonvulsants,Gamma-aminobutyric Acid (GABA) Augmenting Agents,Vigabatrin ,,no
+Anticonvulsants,Sodium Channel Agents, ,,Class
+Anticonvulsants,Sodium Channel Agents,Carbamazepine ,,no
+Anticonvulsants,Sodium Channel Agents,Eslicarbazepine  ,,no
+Anticonvulsants,Sodium Channel Agents,Ethotoin ,,no
+Anticonvulsants,Sodium Channel Agents,Fosphenytoin ,,no
+Anticonvulsants,Sodium Channel Agents,Lacosamide ,,no
+Anticonvulsants,Sodium Channel Agents,Oxcarbazepine ,,no
+Anticonvulsants,Sodium Channel Agents,Phenytoin ,,no
+Anticonvulsants,Sodium Channel Agents,Phenytoin Sodium,,no
+Anticonvulsants,Sodium Channel Agents,Rufinamide ,,no
+Anticonvulsants,Sodium Channel Agents,Zonisamide ,,no
+Anticonvulsants,"Anticonvulsants, Other", ,,Class
+Anticonvulsants,"Anticonvulsants, Other",Cannabidiol ,,no
+Anticonvulsants,"Anticonvulsants, Other",,,
+Anticonvulsants,"Anticonvulsants, Other",Fenfluramine,,no
+Anticonvulsants,"Anticonvulsants, Other", ,Potassium Channel Opener,PG
+Anticonvulsants,"Anticonvulsants, Other",Brivaracetam ,,no
+Anticonvulsants,"Anticonvulsants, Other",Levetiracetam ,,no
+Anticonvulsants,"Anticonvulsants, Other", ,,
+Anticonvulsants,"Anticonvulsants, Other",Cenobamate,,no
+Anticonvulsants,"Anticonvulsants, Other",Divalproex Sodium,,no
+Anticonvulsants,"Anticonvulsants, Other",Felbamate ,,no
+Anticonvulsants,"Anticonvulsants, Other",Lamotrigine ,,no
+Anticonvulsants,"Anticonvulsants, Other",Perampanel ,,no
+Anticonvulsants,"Anticonvulsants, Other",Stiripentol ,,no
+Anticonvulsants,"Anticonvulsants, Other",Topiramate ,,no
+Anticonvulsants,"Anticonvulsants, Other",Valproic Acid ,,no
+Antidementia Agents,"Anticonvulsants, Other", ,,Cat
+Antidementia Agents,Cholinesterase Inhibitors, ,,Class
+Antidementia Agents,Cholinesterase Inhibitors,Donepezil Hydrochloride,,no
+Antidementia Agents,Cholinesterase Inhibitors,Galantamine Hydrobromide,,no
+Antidementia Agents,Cholinesterase Inhibitors,Rivastigmine ,,no
+Antidementia Agents,Cholinesterase Inhibitors,Rivastigmine Tartrate,,no
+Antidementia Agents,N-methyl-D-aspartate (NMDA) Receptor Antagonist, ,,Class
+Antidementia Agents,N-methyl-D-aspartate (NMDA) Receptor Antagonist,Memantine Hydrochloride,,no
+Antidementia Agents,"Antidementia Agents, Other", ,,Class
+Antidementia Agents,"Antidementia Agents, Other",Memantine/ Donepezil Hydrochloride  ,,yes
+Antidementia Agents,"Antidementia Agents, Other",Ergoloid Mesylates ,,no
+Antidepressants,"Antidementia Agents, Other", ,,Cat
+Antidepressants,Monoamine Oxidase Inhibitors, ,,Class
+Antidepressants,Monoamine Oxidase Inhibitors,Isocarboxazid ,,no
+Antidepressants,Monoamine Oxidase Inhibitors,Phenelzine Sulfate,,no
+Antidepressants,Monoamine Oxidase Inhibitors,Selegiline ,,no
+Antidepressants,Monoamine Oxidase Inhibitors,Tranylcypromine Sulfate,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors), ,,Class
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Citalopram Hydrobromide,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Desvenlafaxine ,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Desvenlafaxine Succinate,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Duloxetine Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Escitalopram Oxalate,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Fluoxetine Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Fluvoxamine Maleate,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Levomilnacipran  Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Nefazodone Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Paroxetine Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Sertraline Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Trazodone Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Venlafaxine Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Vilazodone Hydrochloride,,no
+Antidepressants,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Vortioxetine Hydrobromide,,no
+Antidepressants,Tricyclics, ,,Class
+Antidepressants,Tricyclics,Amitriptyline Hydrochloride,,no
+Antidepressants,Tricyclics,Amoxapine ,,no
+Antidepressants,Tricyclics,Clomipramine Hydrochloride,,no
+Antidepressants,Tricyclics,Desipramine Hydrochloride,,no
+Antidepressants,Tricyclics,Doxepin Hydrochloride,,no
+Antidepressants,Tricyclics,Imipramine Hydrochloride,,no
+Antidepressants,Tricyclics,Imipramine Pamoate,,no
+Antidepressants,Tricyclics,Nortriptyline Hydrochloride,,no
+Antidepressants,Tricyclics,Protriptyline Hydrochloride,,no
+Antidepressants,Tricyclics,Trimipramine Maleate,,no
+Antidepressants,"Antidepressants, Other", ,,Class
+Antidepressants,"Antidepressants, Other",Maprotiline Hydrochloride,,no
+Antidepressants,"Antidepressants, Other",,,
+Antidepressants,"Antidepressants, Other",Buproprion Hydrobromide,,no
+Antidepressants,"Antidepressants, Other",Bupropion Hydrochloride,,no
+Antidepressants,"Antidepressants, Other",Mirtazapine ,,no
+Antidepressants,"Antidepressants, Other", ,,
+Antidepressants,"Antidepressants, Other",Aripiprazole ,,no
+Antidepressants,"Antidepressants, Other",Quetiapine Fumarate,,no
+Antidepressants,"Antidepressants, Other", ,,
+Antidepressants,"Antidepressants, Other",Esketamine Hydrochloride,,no
+Antidepressants,"Antidepressants, Other", ,,
+Antidepressants,"Antidepressants, Other",Chlordiazepoxide/ Amitriptyline Hydrochloride ,,yes
+Antidepressants,"Antidepressants, Other",Olanzapine/ Fluoxetine  ,,yes
+Antidepressants,"Antidepressants, Other",Perphenazine/ Amitriptyline Hydrochloride ,,yes
+Antiemetics,"Antidepressants, Other", ,,Cat
+Antiemetics,Emetogenic Therapy Adjuncts, ,,Class
+Antiemetics,Emetogenic Therapy Adjuncts,,,
+Antiemetics,Emetogenic Therapy Adjuncts,Rolapitant ,,no
+Antiemetics,Emetogenic Therapy Adjuncts,,,
+Antiemetics,Emetogenic Therapy Adjuncts,Granisetron Hydrochloride,,no
+Antiemetics,Emetogenic Therapy Adjuncts,Ondansetron ,,no
+Antiemetics,Emetogenic Therapy Adjuncts,Ondansetron Hydrochloride,,no
+Antiemetics,Emetogenic Therapy Adjuncts,Palonosetron Hydrochloride,,no
+Antiemetics,Emetogenic Therapy Adjuncts,,,
+Antiemetics,Emetogenic Therapy Adjuncts,Aprepitant ,,no
+Antiemetics,Emetogenic Therapy Adjuncts,Fosnetupitant/ Palonosetron ,,yes
+Antiemetics,Emetogenic Therapy Adjuncts,"Netupitant/ Palonosetron 
+ ",,yes
+Antiemetics,Emetogenic Therapy Adjuncts,,,
+Antiemetics,Emetogenic Therapy Adjuncts,Dronabinol ,,no
+Antiemetics,Emetogenic Therapy Adjuncts,Nabilone ,,no
+Antiemetics,"Antiemetics, Other", ,,Class
+Antiemetics,"Antiemetics, Other",Amisulpride,,no
+Antiemetics,"Antiemetics, Other",Chlorpromazine Hydrochloride,,no
+Antiemetics,"Antiemetics, Other",Diphenhydramine Hydrochloride,,no
+Antiemetics,"Antiemetics, Other",Doxylamine Succinate/ Pyridoxine Hydrochloride ,,yes
+Antiemetics,"Antiemetics, Other",Hydroxyzine Hydrochloride,,no
+Antiemetics,"Antiemetics, Other",Meclizine Hydrochloride,,no
+Antiemetics,"Antiemetics, Other",Metoclopramide ,,no
+Antiemetics,"Antiemetics, Other",Perphenazine ,,no
+Antiemetics,"Antiemetics, Other",Prochlorperazine Edisylate,,no
+Antiemetics,"Antiemetics, Other",Prochlorperazine Maleate,,no
+Antiemetics,"Antiemetics, Other",Promethazine Hydrochloride,,no
+Antiemetics,"Antiemetics, Other",Scopolamine ,,no
+Antiemetics,"Antiemetics, Other",Trimethobenzamide Hydrochloride,,no
+Antifungals,"Antiemetics, Other", ,,Cat
+Antifungals,"Antiemetics, Other", ,,
+Antifungals,"Antiemetics, Other",Naftifine Hydrochloride,,no
+Antifungals,"Antiemetics, Other",Terbinafine Hydrochloride,,no
+Antifungals,"Antiemetics, Other", ,,
+Antifungals,"Antiemetics, Other",Butoconazole Nitrate,,no
+Antifungals,"Antiemetics, Other",Clotrimazole ,,no
+Antifungals,"Antiemetics, Other",Econazole Nitrate,,no
+Antifungals,"Antiemetics, Other",Fluconazole ,,no
+Antifungals,"Antiemetics, Other",Isavuconazonium Sulfate,,no
+Antifungals,"Antiemetics, Other",Itraconazole ,,no
+Antifungals,"Antiemetics, Other",Ketoconazole ,,no
+Antifungals,"Antiemetics, Other",Luliconazole ,,no
+Antifungals,"Antiemetics, Other",Miconazole Nitrate,,no
+Antifungals,"Antiemetics, Other",Oxiconazole Nitrate,,no
+Antifungals,"Antiemetics, Other",Posaconazole ,,no
+Antifungals,"Antiemetics, Other",Sertaconazole Nitrate,,no
+Antifungals,"Antiemetics, Other",Sulconazole Nitrate,,no
+Antifungals,"Antiemetics, Other",Terconazole ,,no
+Antifungals,"Antiemetics, Other",Voriconazole ,,no
+Antifungals,"Antiemetics, Other", ,,
+Antifungals,"Antiemetics, Other",Anidulafungin ,,no
+Antifungals,"Antiemetics, Other",Caspofungin Acetate,,no
+Antifungals,"Antiemetics, Other",Micafungin Sodium,,no
+Antifungals,"Antiemetics, Other", ,,
+Antifungals,"Antiemetics, Other",Amphotericin B ,,no
+Antifungals,"Antiemetics, Other",Nystatin ,,no
+Antifungals,"Antiemetics, Other", ,,
+Antifungals,"Antiemetics, Other",Flucytosine ,,no
+Antifungals,"Antiemetics, Other",Griseofulvin ,,no
+Antigout Agents,"Antiemetics, Other", ,,Cat
+Antigout Agents,"Antiemetics, Other", ,,
+Antigout Agents,"Antiemetics, Other",Probenecid ,,no
+Antigout Agents,"Antiemetics, Other", ,,
+Antigout Agents,"Antiemetics, Other",Allopurinol ,,no
+Antigout Agents,"Antiemetics, Other",Febuxostat ,,no
+Antigout Agents,"Antiemetics, Other", ,,
+Antigout Agents,"Antiemetics, Other",Colchicine ,,no
+Antigout Agents,"Antiemetics, Other",Pegloticase ,,no
+Antigout Agents,"Antiemetics, Other", ,,
+Antigout Agents,"Antiemetics, Other",Probenecid/ Colchicine ,,yes
+Antimigraine Agents,"Antiemetics, Other", ,,Cat
+Antimigraine Agents,Ergot Alkaloids, ,,Class
+Antimigraine Agents,Ergot Alkaloids,Dihydroergotamine Mesylate,,no
+Antimigraine Agents,Ergot Alkaloids,Ergotamine Tartrate,,no
+Antimigraine Agents,Ergot Alkaloids,Ergotamine Tartrate/ Caffeine ,,yes
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists, ,,Class
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Almotriptan Malate,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Eletriptan Hydrobromide,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Frovatriptan Succinate,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Lasmiditan,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Naratriptan Hydrochloride,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Rizatriptan Benzoate,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Sumatriptan ,,no
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Sumatriptan/ Naproxen Sodium ,,yes
+Antimigraine Agents,Serotonin (5-HT) Receptor Agonists,Zolmitriptan ,,no
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,,,Class
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,Eptinezumab,,no
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,Erenumab ,,no
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,Fremanezumab ,,no
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,Galcanezumab ,,no
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,Rimegepant,,no
+Antimigraine Agents,Calcitonin Gene-Related Peptide (CGRP) Receptor Antagonist ,Ubrogepant,,no
+Antimigraine Agents,"Antimigraine Agents, Other", ,,Class
+Antimigraine Agents,"Antimigraine Agents, Other",,,
+Antimigraine Agents,"Antimigraine Agents, Other",Propranolol ,,no
+Antimigraine Agents,"Antimigraine Agents, Other",Timolol Maleate,,no
+Antimigraine Agents,"Antimigraine Agents, Other", ,,
+Antimigraine Agents,"Antimigraine Agents, Other",Divalproex Sodium,,no
+Antimigraine Agents,"Antimigraine Agents, Other",Topiramate ,,no
+Antimigraine Agents,"Antimigraine Agents, Other",Valproic Acid ,,no
+Antimyasthenic Agents,"Antimigraine Agents, Other", ,,Cat
+Antimyasthenic Agents,Parasympathomimetics, ,,Class
+Antimyasthenic Agents,Parasympathomimetics,Guanidine Hydrochloride,,no
+Antimyasthenic Agents,Parasympathomimetics,Pyridostigmine Bromide,,no
+Antimycobacterials,Parasympathomimetics, ,,Cat
+Antimycobacterials,Antituberculars, ,,Class
+Antimycobacterials,Antituberculars,Aminosalicylic Acid ,,no
+Antimycobacterials,Antituberculars,Bedaquiline Fumarate,,no
+Antimycobacterials,Antituberculars,Capreomycin Sulfate,,no
+Antimycobacterials,Antituberculars,Cycloserine ,,no
+Antimycobacterials,Antituberculars,Ethambutol Hydrochloride,,no
+Antimycobacterials,Antituberculars,Ethionamide ,,no
+Antimycobacterials,Antituberculars,Isoniazid ,,no
+Antimycobacterials,Antituberculars,Pyrazinamide ,,no
+Antimycobacterials,Antituberculars,Rifampin ,,no
+Antimycobacterials,Antituberculars,Rifapentine ,,no
+Antimycobacterials,Antituberculars,Rifampin/ Isoniazid  ,,yes
+Antimycobacterials,Antituberculars,Rifampin/ Isoniazid/ Pyrazinamide ,,yes
+Antimycobacterials,"Antimycobacterials, Other", ,,Class
+Antimycobacterials,"Antimycobacterials, Other",Dapsone ,,no
+Antimycobacterials,"Antimycobacterials, Other",Rifabutin ,,no
+Antineoplastics,"Antimycobacterials, Other", ,,Cat
+Antineoplastics,Alkylating Agents, ,,Class
+Antineoplastics,Alkylating Agents, ,,
+Antineoplastics,Alkylating Agents,Bendamustine ,,no
+Antineoplastics,Alkylating Agents,Chlorambucil ,,no
+Antineoplastics,Alkylating Agents,Mechlorethamine Hydrochloride,,no
+Antineoplastics,Alkylating Agents,Melphalan ,,no
+Antineoplastics,Alkylating Agents, ,,
+Antineoplastics,Alkylating Agents,Lomustine ,,no
+Antineoplastics,Alkylating Agents, ,,
+Antineoplastics,Alkylating Agents,Busulfan ,,no
+Antineoplastics,Alkylating Agents,Cyclophosphamide ,,no
+Antineoplastics,Alkylating Agents,Lurbinectedin,,no
+Antineoplastics,Alkylating Agents,Procarbazine Hydrochloride,,no
+Antineoplastics,Alkylating Agents,Temozolomide ,,no
+Antineoplastics,Alkylating Agents,Trabectedin ,,no
+Antineoplastics,Antiandrogens , ,,Class
+Antineoplastics,Antiandrogens , ,,
+Antineoplastics,Antiandrogens ,Apalutamide ,,no
+Antineoplastics,Antiandrogens ,Bicalutamide ,,no
+Antineoplastics,Antiandrogens ,Darolutamide,,no
+Antineoplastics,Antiandrogens ,Enzalutamide ,,no
+Antineoplastics,Antiandrogens ,Flutamide ,,no
+Antineoplastics,Antiandrogens ,Nilutamide ,,no
+Antineoplastics,Antiandrogens , ,,
+Antineoplastics,Antiandrogens ,Abiraterone  Acetate,,no
+Antineoplastics,Antiangiogenic Agents, ,,Class
+Antineoplastics,Antiangiogenic Agents,Lenalidomide ,,no
+Antineoplastics,Antiangiogenic Agents,Pomalidomide ,,no
+Antineoplastics,Antiangiogenic Agents,Thalidomide ,,no
+Antineoplastics,Antiestrogens/Modifiers, ,,Class
+Antineoplastics,Antiestrogens/Modifiers, ,,
+Antineoplastics,Antiestrogens/Modifiers,Estramustine Phosphate Sodium,,no
+Antineoplastics,Antiestrogens/Modifiers,Fulvestrant ,,no
+Antineoplastics,Antiestrogens/Modifiers,,,
+Antineoplastics,Antiestrogens/Modifiers,Tamoxifen Citrate,,no
+Antineoplastics,Antiestrogens/Modifiers,Toremifene Citrate,,no
+Antineoplastics,Antimetabolites, ,,Class
+Antineoplastics,Antimetabolites,Azacitidine,,no
+Antineoplastics,Antimetabolites,Decitabine,,no
+Antineoplastics,Antimetabolites,Decitabine/ Cedazuridine,,yes
+Antineoplastics,Antimetabolites,,,
+Antineoplastics,Antimetabolites,Capecitabine ,,no
+Antineoplastics,Antimetabolites,Mercaptopurine ,,no
+Antineoplastics,Antimetabolites,Thioguanine ,,no
+Antineoplastics,Antimetabolites, ,,
+Antineoplastics,Antimetabolites,Hydroxyurea ,,no
+Antineoplastics,"Aromatase Inhibitors, 3rd Generation", ,,Class
+Antineoplastics,"Aromatase Inhibitors, 3rd Generation",Anastrozole ,,no
+Antineoplastics,"Aromatase Inhibitors, 3rd Generation",Exemestane ,,no
+Antineoplastics,"Aromatase Inhibitors, 3rd Generation",Letrozole ,,no
+Antineoplastics,Enzyme Inhibitors, ,,Class
+Antineoplastics,Enzyme Inhibitors,Etoposide ,,no
+Antineoplastics,Enzyme Inhibitors,Topotecan ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,Class
+Antineoplastics,Molecular Target Inhibitors,,,
+Antineoplastics,Molecular Target Inhibitors,Capmatinib,,no
+Antineoplastics,Molecular Target Inhibitors,,,
+Antineoplastics,Molecular Target Inhibitors,Pexidartinib,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Binimetinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Cobimetinib Fumarate,,no
+Antineoplastics,Molecular Target Inhibitors,Selumetinib,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Alectinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Brigatinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Ceritinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Crizotinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Lorlatinib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Dabrafenib Mesylate,,no
+Antineoplastics,Molecular Target Inhibitors,Encorafenib ,,no
+Antineoplastics,Molecular Target Inhibitors,Trametinib Dimethyl Sulfoxide,,no
+Antineoplastics,Molecular Target Inhibitors,Vemurafenib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Acalabrutinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Ibrutinib  ,,no
+Antineoplastics,Molecular Target Inhibitors,Zanubrutinib,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Abemaciclib ,,no
+Antineoplastics,Molecular Target Inhibitors,Palbociclib ,,no
+Antineoplastics,Molecular Target Inhibitors,Ribociclib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Afatinib Dimaleate,,no
+Antineoplastics,Molecular Target Inhibitors,Dacomitinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Erlotinib Hydrochloride,,no
+Antineoplastics,Molecular Target Inhibitors,Gefitinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Osimertinib Mesylate,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Erdafitinib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Glasdegib ,,no
+Antineoplastics,Molecular Target Inhibitors,Sonidegib Phosphate,,no
+Antineoplastics,Molecular Target Inhibitors,Vismodegib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Ivosidenib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Ruxolitinib Phosphate,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Cabazitaxel ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Everolimus ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Bosutinib Monohydrate,,no
+Antineoplastics,Molecular Target Inhibitors,Dasatinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Imatinib Mesylate,,no
+Antineoplastics,Molecular Target Inhibitors,Nilotinib Hydrochloride Monohydrate,,no
+Antineoplastics,Molecular Target Inhibitors,Ponatinib Hydrochloride,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Lapatinib Ditosylate,,no
+Antineoplastics,Molecular Target Inhibitors,Axitinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Cabozantinib S-Malate,,no
+Antineoplastics,Molecular Target Inhibitors,Lenvatinib Mesylate,,no
+Antineoplastics,Molecular Target Inhibitors,Neratinib Maleate,,no
+Antineoplastics,Molecular Target Inhibitors,Pazopanib Hydrochloride,,no
+Antineoplastics,Molecular Target Inhibitors,Regorafenib ,,no
+Antineoplastics,Molecular Target Inhibitors,Sorafenib Tosylate,,no
+Antineoplastics,Molecular Target Inhibitors,Sunitinib Malate,,no
+Antineoplastics,Molecular Target Inhibitors,Tucatinib,,no
+Antineoplastics,Molecular Target Inhibitors,Vandetanib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Fedratinib,,no
+Antineoplastics,Molecular Target Inhibitors,Gilteritinib ,,no
+Antineoplastics,Molecular Target Inhibitors,Midostaurin ,,no
+Antineoplastics,Molecular Target Inhibitors,,,
+Antineoplastics,Molecular Target Inhibitors,Pralsetinib,,no
+Antineoplastics,Molecular Target Inhibitors,Selpercatinib,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Entrectinib,,no
+Antineoplastics,Molecular Target Inhibitors,Larotrectinib ,,no
+Antineoplastics,Molecular Target Inhibitors,,,
+Antineoplastics,Molecular Target Inhibitors,Avapritinib,,no
+Antineoplastics,Molecular Target Inhibitors,Ripretinib,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Alpelisib ,,no
+Antineoplastics,Molecular Target Inhibitors,Copanlisib ,,no
+Antineoplastics,Molecular Target Inhibitors,Duvelisib ,,no
+Antineoplastics,Molecular Target Inhibitors,Idelalisib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Niraparib ,,no
+Antineoplastics,Molecular Target Inhibitors,Olaparib ,,no
+Antineoplastics,Molecular Target Inhibitors,Rucaparib ,,no
+Antineoplastics,Molecular Target Inhibitors,Talazoparib ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Venetoclax ,,no
+Antineoplastics,Molecular Target Inhibitors, ,,
+Antineoplastics,Molecular Target Inhibitors,Belinostat ,,no
+Antineoplastics,Molecular Target Inhibitors,Panobinostat Lactate,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,Class
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,"Moxetumomab Pasudotox
+ ",,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Bevacizumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Ramucirumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Mogamulizumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Blinatumomab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Daratumumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Daratumumab/ Hyaluronidase,,yes
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Isatuximab,,no 
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Dinutuximab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Elotuzumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Ipilimumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Pertuzumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Pertuzumab/ Trastuzumab/ Hyaluronidase,,yes
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Trastuzumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Trastuzumab/ Hyaluronidase ,,yes
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Cetuximab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Necitumumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Panitumumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Olaratumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Atezolizumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Avelumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Cemiplimab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Durvalumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Nivolumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Pembrolizumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Tafasitamab,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Obinutuzumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Ofatumumab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Rituximab ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Rituximab/ Hyaluronidase ,,yes
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate, ,,
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Ado-Trastuzumab Emtansine ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Belantamab Mafodotin,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Brentuximab Vedotin ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Enfortumab Vedotin,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Gemtuzumab Ozogamicin ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Inotuzumab Ozogamicin ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Polatuzumab Vedotin ,,no
+Antineoplastics,Monoclonal Antibody/Antibody-Drug Conjugate,Sacituzumab Govitecan,,no
+Antineoplastics,Retinoids, ,,Class
+Antineoplastics,Retinoids,Alitretinoin ,,no
+Antineoplastics,Retinoids,Bexarotene ,,no
+Antineoplastics,Retinoids,Tretinoin ,,no
+Antineoplastics,Treatment Adjuncts, ,,Class
+Antineoplastics,Treatment Adjuncts,Allopurinol ,,no
+Antineoplastics,Treatment Adjuncts,Leucovorin Calcium,,no
+Antineoplastics,Treatment Adjuncts,Levoleucovorin Calcium,,no
+Antineoplastics,Treatment Adjuncts,Mesna ,,no
+Antineoplastics,Treatment Adjuncts,Rasburicase ,,no
+Antineoplastics,Treatment Adjuncts,Zoledronic Acid,,no
+Antineoplastics,"Antineoplastics, Other", ,,Class
+Antineoplastics,"Antineoplastics, Other", ,,
+Antineoplastics,"Antineoplastics, Other",Methotrexate ,,no
+Antineoplastics,"Antineoplastics, Other",Pemetrexed Disodium,,no
+Antineoplastics,"Antineoplastics, Other",,,
+Antineoplastics,"Antineoplastics, Other",Aldesleukin ,,no
+Antineoplastics,"Antineoplastics, Other",Asparaginase-erwinia ,,no
+Antineoplastics,"Antineoplastics, Other",Calaspargase Pegol ,,no
+Antineoplastics,"Antineoplastics, Other",Denileukin Diftitox ,,no
+Antineoplastics,"Antineoplastics, Other",Enasidenib Mesylate,,no
+Antineoplastics,"Antineoplastics, Other",Fludarabine Phosphate,,no
+Antineoplastics,"Antineoplastics, Other",Ixazomib Citrate,,no
+Antineoplastics,"Antineoplastics, Other",Letrozole/ Ribociclib    ,,yes
+Antineoplastics,"Antineoplastics, Other",Leucovorin Calcium,,no
+Antineoplastics,"Antineoplastics, Other",Levoleucovorin Calcium,,no
+Antineoplastics,"Antineoplastics, Other",Mitoxantrone Hydrochloride,,no
+Antineoplastics,"Antineoplastics, Other",Pegaspargase ,,no
+Antineoplastics,"Antineoplastics, Other",Selinexor ,,no
+Antineoplastics,"Antineoplastics, Other",Tagraxofusp ,,no
+Antineoplastics,"Antineoplastics, Other",Tazemetostat,,no
+Antineoplastics,"Antineoplastics, Other",Trifluridine/ Tipiracil ,,yes
+Antineoplastics,"Antineoplastics, Other",Uridine Triacetate,,no
+Antineoplastics,"Antineoplastics, Other",Vorinostat ,,no
+Anti-Obesity Agents,, ,,Cat
+Anti-Obesity Agents,,Benzphetamine ,,no
+Anti-Obesity Agents,,Diethylpropion Hydrochloride,,no
+Anti-Obesity Agents,,Phendimetrazine ,,no
+Anti-Obesity Agents,,Phentermine Hydrochloride,,no
+Anti-Obesity Agents,,Liraglutide ,,no
+Anti-Obesity Agents,,Methamphetamine Hydrochloride,,no
+Anti-Obesity Agents,,Orlistat ,,no
+Anti-Obesity Agents,, ,,
+Anti-Obesity Agents,,Naltrexone Hydrochloride/ Bupropion Hydrochloride ,,yes
+Anti-Obesity Agents,,Phentermine/ Topiramate ,,yes
+Antiparasitics,, ,,Cat
+Antiparasitics,Anthelmintics, ,,Class
+Antiparasitics,Anthelmintics,Albendazole ,,no
+Antiparasitics,Anthelmintics,Ivermectin ,,no
+Antiparasitics,Anthelmintics,Mebendazole ,,no
+Antiparasitics,Anthelmintics,Moxidectin ,,no
+Antiparasitics,Anthelmintics,Praziquantel ,,no
+Antiparasitics,Anthelmintics,Triclabendazole ,,no
+Antiparasitics,Antiprotozoals, ,,Class
+Antiparasitics,Antiprotozoals, ,,
+Antiparasitics,Antiprotozoals,Miltefosine ,,no
+Antiparasitics,Antiprotozoals, ,,
+Antiparasitics,Antiprotozoals,Artemether/ Lumefantrine ,,yes
+Antiparasitics,Antiprotozoals,Atovaquone/ Proguanil Hydrochloride ,,yes
+Antiparasitics,Antiprotozoals,Chloroquine Phosphate,,no
+Antiparasitics,Antiprotozoals,Hydroxychloroquine Sulfate,,no
+Antiparasitics,Antiprotozoals,Mefloquine Hydrochloride,,no
+Antiparasitics,Antiprotozoals,Primaquine Phosphate,,no
+Antiparasitics,Antiprotozoals,Quinine Sulfate,,no
+Antiparasitics,Antiprotozoals,Tafenoquine  Succinate,,no
+Antiparasitics,Antiprotozoals, ,,
+Antiparasitics,Antiprotozoals,Atovaquone ,,no
+Antiparasitics,Antiprotozoals,Benznidazole ,,no
+Antiparasitics,Antiprotozoals,Nifurtimox,,no
+Antiparasitics,Antiprotozoals,Nitazoxanide ,,no
+Antiparasitics,Antiprotozoals,Pentamidine Isethionate,,no
+Antiparasitics,Antiprotozoals,Pyrimethamine ,,no
+Antiparkinson Agents,Antiprotozoals, ,,Cat
+Antiparkinson Agents,Anticholinergics, ,,Class
+Antiparkinson Agents,Anticholinergics,Benztropine Mesylate,,no
+Antiparkinson Agents,Anticholinergics,Diphenhydramine Hydrochloride,,no
+Antiparkinson Agents,Anticholinergics,Trihexyphenidyl Hydrochloride,,no
+Antiparkinson Agents,Dopamine Agonists, ,,Class
+Antiparkinson Agents,Dopamine Agonists,Apomorphine Hydrochloride,,no
+Antiparkinson Agents,Dopamine Agonists,Bromocriptine Mesylate,,no
+Antiparkinson Agents,Dopamine Agonists,Pramipexole Dihydrochloride,,no
+Antiparkinson Agents,Dopamine Agonists,Ropinirole Hydrochloride,,no
+Antiparkinson Agents,Dopamine Agonists,Rotigotine ,,no
+Antiparkinson Agents,Dopamine Precursors and/or L-Amino Acid Decarboxylase Inhibitors, ,,Class
+Antiparkinson Agents,Dopamine Precursors and/or L-Amino Acid Decarboxylase Inhibitors,Carbidopa ,,no
+Antiparkinson Agents,Dopamine Precursors and/or L-Amino Acid Decarboxylase Inhibitors,Carbidopa/ Levodopa ,,yes
+Antiparkinson Agents,Dopamine Precursors and/or L-Amino Acid Decarboxylase Inhibitors,Levodopa ,,no
+Antiparkinson Agents,Monoamine Oxidase B (MAO-B) Inhibitors, ,,Class
+Antiparkinson Agents,Monoamine Oxidase B (MAO-B) Inhibitors,Rasagiline Mesylate,,no
+Antiparkinson Agents,Monoamine Oxidase B (MAO-B) Inhibitors,Safinamide ,,no
+Antiparkinson Agents,Monoamine Oxidase B (MAO-B) Inhibitors,Selegiline Hydrochloride,,no
+Antiparkinson Agents,"Antiparkinson Agents, Other", ,,Class
+Antiparkinson Agents,"Antiparkinson Agents, Other",,,
+Antiparkinson Agents,"Antiparkinson Agents, Other",Istradefylline,,no
+Antiparkinson Agents,"Antiparkinson Agents, Other",,,
+Antiparkinson Agents,"Antiparkinson Agents, Other",Carbidopa/ Levodopa/ Entacapone ,,yes
+Antiparkinson Agents,"Antiparkinson Agents, Other", ,,
+Antiparkinson Agents,"Antiparkinson Agents, Other",Entacapone ,,no
+Antiparkinson Agents,"Antiparkinson Agents, Other",Opicapone,,no
+Antiparkinson Agents,"Antiparkinson Agents, Other",Tolcapone ,,no
+Antiparkinson Agents,"Antiparkinson Agents, Other",,,
+Antiparkinson Agents,"Antiparkinson Agents, Other",Amantadine Hydrochloride,,no
+Antipsychotics,"Antiparkinson Agents, Other", ,,Cat
+Antipsychotics,1st Generation/Typical, ,,Class
+Antipsychotics,2nd Generation/Typical,Chlorpromazine Hydrochloride,,no
+Antipsychotics,3rd Generation/Typical,Fluphenazine Hydrochloride,,no
+Antipsychotics,4th Generation/Typical,Fluphenazine Decanoate,,no
+Antipsychotics,5th Generation/Typical,Haloperidol ,,no
+Antipsychotics,6th Generation/Typical,Haloperidol Decanoate,,no
+Antipsychotics,7th Generation/Typical,Loxapine Succinate,,no
+Antipsychotics,8th Generation/Typical,Perphenazine ,,no
+Antipsychotics,9th Generation/Typical,Pimozide ,,no
+Antipsychotics,10th Generation/Typical,Prochlorperazine Edisylate,,no
+Antipsychotics,11th Generation/Typical,Prochlorperazine Maleate,,no
+Antipsychotics,12th Generation/Typical,Thioridazine Hydrochloride,,no
+Antipsychotics,13th Generation/Typical,Thiothixene Hydrochloride,,no
+Antipsychotics,14th Generation/Typical,Trifluoperazine Hydrochloride,,no
+Antipsychotics,2nd Generation/Atypical, ,,Class
+Antipsychotics,3rd Generation/Atypical,Aripiprazole ,,no
+Antipsychotics,4th Generation/Atypical,Asenapine ,,no
+Antipsychotics,5th Generation/Atypical,Brexpiprazole ,,no
+Antipsychotics,6th Generation/Atypical,Cariprazine Hydrochloride,,no
+Antipsychotics,7th Generation/Atypical,Iloperidone ,,no
+Antipsychotics,8th Generation/Atypical,Lurasidone Hydrochloride,,no
+Antipsychotics,9th Generation/Atypical,Olanzapine ,,no
+Antipsychotics,10th Generation/Atypical,Olanzapine Pamoate,,no
+Antipsychotics,11th Generation/Atypical,Pimavanserin Tartrate,,no
+Antipsychotics,12th Generation/Atypical,Quetiapine Fumarate,,no
+Antipsychotics,13th Generation/Atypical,Paliperidone ,,no
+Antipsychotics,14th Generation/Atypical,Paliperidone Palmitate,,no
+Antipsychotics,15th Generation/Atypical,Risperidone ,,no
+Antipsychotics,16th Generation/Atypical,Ziprasidone Hydrochloride,,no
+Antipsychotics,17th Generation/Atypical,Ziprasidone Mesylate,,no
+Antipsychotics,Treatment-Resistant, ,,Class
+Antipsychotics,Treatment-Resistant,Clozapine ,,no
+Antispasticity Agents,, ,,Cat
+Antispasticity Agents,,Baclofen ,,no
+Antispasticity Agents,,Dantrolene Sodium,,no
+Antispasticity Agents,,Tizanidine Hydrochloride,,no
+Antivirals,, ,,Cat
+Antivirals,Anti-cytomegalovirus (CMV) Agents, ,,Class
+Antivirals,Anti-cytomegalovirus (CMV) Agents,Cidofovir ,,no
+Antivirals,Anti-cytomegalovirus (CMV) Agents,Foscarnet Sodium,,no
+Antivirals,Anti-cytomegalovirus (CMV) Agents,Ganciclovir Sodium,,no
+Antivirals,Anti-cytomegalovirus (CMV) Agents,Letermovir ,,no
+Antivirals,Anti-cytomegalovirus (CMV) Agents,Valganciclovir Hydrochloride,,no
+Antivirals,Anti-hepatitis B (HBV) Agents, ,,Class
+Antivirals,Anti-hepatitis B (HBV) Agents,Adefovir Dipivoxil,,no
+Antivirals,Anti-hepatitis B (HBV) Agents,Entecavir ,,no
+Antivirals,Anti-hepatitis B (HBV) Agents,Lamivudine ,,no
+Antivirals,Anti-hepatitis B (HBV) Agents,Tenofovir Alafenamide,,no
+Antivirals,Anti-hepatitis B (HBV) Agents,Tenofovir Disoproxil Fumarate,,no
+Antivirals,Anti-hepatitis C (HCV) Agents, ,,Class
+Antivirals,Anti-hepatitis C (HCV) Agents,Ribavirin ,,no
+Antivirals,Anti-hepatitis C (HCV) Agents, ,,
+Antivirals,Anti-hepatitis C (HCV) Agents,Sofosbuvir  ,,no
+Antivirals,Anti-hepatitis C (HCV) Agents, ,,
+Antivirals,Anti-hepatitis C (HCV) Agents,Dasabuvir/ Ombitasvir/ Paritaprevir/ Ritonavir ,,yes
+Antivirals,Anti-hepatitis C (HCV) Agents,Elbasvir/ Grazoprevir ,,yes
+Antivirals,Anti-hepatitis C (HCV) Agents,Glecaprevir/ Pibrentasvir ,,yes
+Antivirals,Anti-hepatitis C (HCV) Agents,Ledipasvir/ Sofosbuvir ,,yes
+Antivirals,Anti-hepatitis C (HCV) Agents,"Sofosbuvir/ Velpatasvir/ Voxilaprevir
+ ",,yes
+Antivirals,Anti-hepatitis C (HCV) Agents,Velpatasvir/ Sofosbuvir ,,yes
+Antivirals,Antiherpetic Agents, ,,Class
+Antivirals,Antiherpetic Agents,Acyclovir ,,no
+Antivirals,Antiherpetic Agents,Famciclovir ,,no
+Antivirals,Antiherpetic Agents,Foscarnet Sodium,,no
+Antivirals,Antiherpetic Agents,Trifluridine ,,no
+Antivirals,Antiherpetic Agents,Valacyclovir Hydrochloride,,no
+Antivirals,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)", ,,Class
+Antivirals,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Doravirine ,,no
+Antivirals,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Efavirenz ,,no
+Antivirals,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Etravirine ,,no
+Antivirals,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Nevirapine ,,no
+Antivirals,"Anti-HIV Agents, Non-nucleoside Reverse Transcriptase Inhibitors (NNRTI)",Rilpivirine Hydrochloride,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)", ,,Class
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Abacavir Sulfate,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Didanosine ,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Emtricitabine ,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Lamivudine ,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Stavudine ,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Tenofovir Disoproxil Fumarate,,no
+Antivirals,"Anti-HIV Agents, Nucleoside and Nucleotide Reverse Transcriptase Inhibitors (NRTI)",Zidovudine ,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)", ,,Class
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Atazanavir Sulfate,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Darunavir ,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Fosamprenavir Calcium,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Indinavir Sulfate,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Nelfinavir Mesylate,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Ritonavir ,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Saquinavir Mesylate,,no
+Antivirals,"Anti-HIV Agents, Protease Inhibitors (PI)",Tipranavir ,,no
+Antivirals,"Anti-HIV Agents, Integrase Inhibitors (INSTI) ", ,,Class
+Antivirals,"Anti-HIV Agents, Integrase Inhibitors (INSTI) ",Dolutegravir  Sodium,,no
+Antivirals,"Anti-HIV Agents, Integrase Inhibitors (INSTI) ",Raltegravir Potassium,,no
+Antivirals,"Anti-HIV Agents, Other", ,,Class
+Antivirals,"Anti-HIV Agents, Other",Fostemsavir,,no
+Antivirals,"Anti-HIV Agents, Other",,,
+Antivirals,"Anti-HIV Agents, Other",Ibalizumab ,,no
+Antivirals,"Anti-HIV Agents, Other", ,,
+Antivirals,"Anti-HIV Agents, Other",Cobicistat ,,no
+Antivirals,"Anti-HIV Agents, Other",Enfuvirtide ,,no
+Antivirals,"Anti-HIV Agents, Other",Maraviroc ,,no
+Antivirals,Anti-HIV Combinations, ,,Class
+Antivirals,Anti-HIV Combinations,Abacavir Sulfate/ Lamivudine ,,yes
+Antivirals,Anti-HIV Combinations,Abacavir Sulfate/ Lamivudine/ Zidovudine ,,yes
+Antivirals,Anti-HIV Combinations,Abacavir/ Dolutegravir/ Lamivudine ,,yes
+Antivirals,Anti-HIV Combinations,Atazanavir/ Cobicistat ,,yes
+Antivirals,Anti-HIV Combinations,Bictegravir/ Emtricitabine/ Tenofovir Alafenamide ,,yes
+Antivirals,Anti-HIV Combinations,Darunavir/ Cobicistat ,,yes
+Antivirals,Anti-HIV Combinations,Darunavir/ Cobicistat/ Emtricitabine/ Tenofovir Alafenamide Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Dolutegravir/ Lamivudine ,,yes
+Antivirals,Anti-HIV Combinations,Dolutegravir/ Rilpivirine ,,yes
+Antivirals,Anti-HIV Combinations,Doravirine/ Lamivudine/ Tenofovir Disproxil Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Efavirenz/ Emtricitabine/ Tenofovir Disoproxil Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Efavirenz/ Lamivudine/ Tenofovir Disoproxil Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Elvitegravir/ Cobicistat/ Emtricitabine/ Tenofovir Alafenamide Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Elvitegravir/ Cobicistat/ Emtricitabine/ Tenofovir Disoproxil Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Emtricitabine/ Rilpivirine / Tenofovir Disoproxil Fumarate  ,,yes
+Antivirals,Anti-HIV Combinations,Emtricitabine/ Rilpivirine/ Tenofovir Alafenamide Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Emtricitabine/ Tenofovir Alafenamide Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Emtricitabine/ Tenofovir Disoproxil Fumarate  ,,yes
+Antivirals,Anti-HIV Combinations,Lamivudine/ Tenofovir Disoproxil Fumarate ,,yes
+Antivirals,Anti-HIV Combinations,Lamivudine/ Zidovudine ,,yes
+Antivirals,Anti-HIV Combinations,Lopinavir/ Ritonavir ,,yes
+Antivirals,Anti-influenza Agents, ,,Class
+Antivirals,Anti-influenza Agents,Amantadine Hydrochloride,,no
+Antivirals,Anti-influenza Agents,Baloxavir Marboxil ,,no
+Antivirals,Anti-influenza Agents,Oseltamivir Phosphate,,no
+Antivirals,Anti-influenza Agents,Peramivir ,,no
+Antivirals,Anti-influenza Agents,Rimantadine Hydrochloride,,no
+Antivirals,Anti-influenza Agents,Zanamivir ,,no
+Anxiolytics,Anti-influenza Agents, ,,Cat
+Anxiolytics,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors), ,,Class
+Anxiolytics,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Duloxetine Hydrochloride,,no
+Anxiolytics,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Escitalopram Oxalate,,no
+Anxiolytics,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Paroxetine Hydrochloride,,no
+Anxiolytics,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Sertraline Hydrochloride,,no
+Anxiolytics,SSRIs/SNRIs (Selective Serotonin Reuptake Inhibitors/ Serotonin and Norepinephrine Reuptake Inhibitors),Venlafaxine Hydrochloride,,no
+Anxiolytics,Benzodiazepines , ,,Class
+Anxiolytics,Benzodiazepines ,Alprazolam ,,no
+Anxiolytics,Benzodiazepines ,Chlordiazepoxide ,,no
+Anxiolytics,Benzodiazepines ,Clonazepam ,,no
+Anxiolytics,Benzodiazepines ,Clorazepate Dipotassium,,no
+Anxiolytics,Benzodiazepines ,Diazepam ,,no
+Anxiolytics,Benzodiazepines ,Lorazepam ,,no
+Anxiolytics,Benzodiazepines ,Oxazepam ,,no
+Anxiolytics,"Anxiolytics, Other", ,,Class
+Anxiolytics,"Anxiolytics, Other",Buspirone Hydrochloride,,no
+Anxiolytics,"Anxiolytics, Other",Doxepin Hydrochloride,,no
+Anxiolytics,"Anxiolytics, Other",Hydroxyzine Hydrochloride,,no
+Anxiolytics,"Anxiolytics, Other",Hydroxyzine Pamoate,,no
+Anxiolytics,"Anxiolytics, Other",Meprobamate ,,no
+Bipolar Agents,, ,,Cat
+Bipolar Agents,Mood Stabilizers, ,,Class
+Bipolar Agents,Mood Stabilizers,Carbamazepine ,,no
+Bipolar Agents,Mood Stabilizers,Divalproex Sodium,,no
+Bipolar Agents,Mood Stabilizers,Lamotrigine ,,no
+Bipolar Agents,Mood Stabilizers,Lithium Carbonate,,no
+Bipolar Agents,Mood Stabilizers,Valproic Acid ,,no
+Bipolar Agents,"Bipolar Agents, Other", ,,Class
+Bipolar Agents,"Bipolar Agents, Other",Aripiprazole ,,no
+Bipolar Agents,"Bipolar Agents, Other",Asenapine ,,no
+Bipolar Agents,"Bipolar Agents, Other",,,
+Bipolar Agents,"Bipolar Agents, Other",Lurasidone,,no
+Bipolar Agents,"Bipolar Agents, Other",Olanzapine ,,no
+Bipolar Agents,"Bipolar Agents, Other",Olanzapine Pamoate,,no
+Bipolar Agents,"Bipolar Agents, Other",Quetiapine Fumarate,,no
+Bipolar Agents,"Bipolar Agents, Other",Risperidone ,,no
+Bipolar Agents,"Bipolar Agents, Other",Ziprasidone Hydrochloride,,no
+Blood Glucose Regulators,, ,,Cat
+Blood Glucose Regulators,Antidiabetic Agents, ,,Class
+Blood Glucose Regulators,Antidiabetic Agents, ,Biguanides,PG
+Blood Glucose Regulators,Antidiabetic Agents,Metformin Hydrochloride,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,Dipeptidyl Peptidase-4 (DPP-4) Inhibitor,PG
+Blood Glucose Regulators,Antidiabetic Agents,Alogliptin  ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Linagliptin  ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Saxagliptin ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Sitagliptin Phosphate,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,GLP-1 Receptor Agonist,PG
+Blood Glucose Regulators,Antidiabetic Agents,Albiglutide  ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Dulaglutide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Exenatide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Liraglutide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Lixisenatide  ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Semaglutide ,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,Sodium-Glucose Co-Transporter 2 Inhbitor,PG
+Blood Glucose Regulators,Antidiabetic Agents,Canagliflozin  ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Dapagliflozin  ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Ertugliflozin ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Empagliflozin ,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,Sulfonylureas,PG
+Blood Glucose Regulators,Antidiabetic Agents,Glimepiride ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Glipizide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Glyburide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Tolbutamide ,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,Thiazolidinediones,PG
+Blood Glucose Regulators,Antidiabetic Agents,Pioglitazone Hydrochloride,,no
+Blood Glucose Regulators,Antidiabetic Agents,Rosiglitazone Maleate,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,"Glucose Control Agents, Other",PG
+Blood Glucose Regulators,Antidiabetic Agents,Acarbose ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Miglitol ,,no
+Blood Glucose Regulators,Antidiabetic Agents, ,,
+Blood Glucose Regulators,Antidiabetic Agents,Nateglinide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Repaglinide ,,no
+Blood Glucose Regulators,Antidiabetic Agents,Pramlintide Acetate,,no
+Blood Glucose Regulators,Antidiabetic Agents,Colesevelam Hydrochloride,,no
+Blood Glucose Regulators,Antidiabetic Agents,Bromocriptine Mesylate,,no
+Blood Glucose Regulators,Antidiabetic Combinations, ,,Class
+Blood Glucose Regulators,Antidiabetic Combinations,Alogliptin Benzoate/ Pioglitazone Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Alogliptin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Canagliflozin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Dapagliflozin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Dapagliflozin/ Saxagliptin ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Dapagliflozin/ Saxagliptin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Empagliflozin/ Linagliptin ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Empagliflozin/ Linagliptin/ Metformin Hydrochloride,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Empagliflozin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Ertugliflozin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Ertugliflozin/ Sitagliptin ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Glipizide/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Glyburide/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Insulin Degludec/ Liraglutide ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Insulin Glargine/ Lixisenatide ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Linagliptin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Pioglitazone Hydrochloride/ Glimepiride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Pioglitazone Hydrochloride/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Repaglinide/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Saxagliptin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Antidiabetic Combinations,Sitagliptin/ Metformin Hydrochloride ,,yes
+Blood Glucose Regulators,Glycemic Agents, ,,Class
+Blood Glucose Regulators,Glycemic Agents,Diazoxide ,,no
+Blood Glucose Regulators,Glycemic Agents,Glucagon ,,no
+Blood Glucose Regulators,Insulins, ,,Class
+Blood Glucose Regulators,Insulins, ,"Insulin, Rapid-acting",PG
+Blood Glucose Regulators,Insulins,Insulin Aspart ,,no
+Blood Glucose Regulators,Insulins,Insulin Glulisine ,,no
+Blood Glucose Regulators,Insulins,Insulin Lispro ,,no
+Blood Glucose Regulators,Insulins, ,"Insulin, Short-acting",PG
+Blood Glucose Regulators,Insulins,Insulin Human (Regular) ,,no
+Blood Glucose Regulators,Insulins, ,"Insulin, Intermediate-acting",PG
+Blood Glucose Regulators,Insulins,Isophane Insulin (Human) ,,no
+Blood Glucose Regulators,Insulins, ,"Insulin, Long-acting",PG
+Blood Glucose Regulators,Insulins,Insulin Degludec ,,no
+Blood Glucose Regulators,Insulins,Insulin Detemir ,,no
+Blood Glucose Regulators,Insulins,Insulin Glargine ,,no
+Blood Glucose Regulators,Insulins, ,,
+Blood Glucose Regulators,Insulins,Insulin Aspart/ Insulin Degludec ,,yes
+Blood Glucose Regulators,Insulins,Insulin Aspart Rapid-acting/ Insulin Aspart Protamine ,,yes
+Blood Glucose Regulators,Insulins,Insulin Lispro Rapid-acting/ Insulin Lispro Protamine ,,yes
+Blood Glucose Regulators,Insulins,Insulin Human Regular/ Isophane Insulin ,,yes
+Blood Products and Modifiers,Insulins, ,,Cat
+Blood Products and Modifiers,Anticoagulants, ,,Class
+Blood Products and Modifiers,Anticoagulants, ,Direct Thrombin Inhibitors,PG
+Blood Products and Modifiers,Anticoagulants,Dabigatran Etexilate Mesylate,,no
+Blood Products and Modifiers,Anticoagulants, ,"Factor Xa Inhibitors, direct",PG
+Blood Products and Modifiers,Anticoagulants,Apixaban  ,,no
+Blood Products and Modifiers,Anticoagulants,Betrixaban ,,no
+Blood Products and Modifiers,Anticoagulants,Rivaroxaban  ,,no
+Blood Products and Modifiers,Anticoagulants,Edoxaban Tosylate,,no
+Blood Products and Modifiers,Anticoagulants, ,"Factor Xa Inhibitors, Indirect",PG
+Blood Products and Modifiers,Anticoagulants,Fondaparinux Sodium,,no
+Blood Products and Modifiers,Anticoagulants, ,Heparin/Heparinoids,PG
+Blood Products and Modifiers,Anticoagulants,"Heparin, porcine ",,no
+Blood Products and Modifiers,Anticoagulants, ,Low Molecular Weight Heparins,PG
+Blood Products and Modifiers,Anticoagulants,Dalteparin Sodium,,no
+Blood Products and Modifiers,Anticoagulants,Enoxaparin Sodium,,no
+Blood Products and Modifiers,Anticoagulants, ,PAR-1 Antagonist,PG
+Blood Products and Modifiers,Anticoagulants,Vorapaxar Sulfate,,no
+Blood Products and Modifiers,Anticoagulants, ,Vitamin K Antagonist,PG
+Blood Products and Modifiers,Anticoagulants,Warfarin Sodium,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement , ,,Class
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Antihemophilic factor (recombinant) pegylated ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Antihemophilic factor (human) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,"Antihemophilic factor (recombinant), fc fusion protein ",,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Antihemophilic factor recombinant ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,"Antihemophilic factor, human recombinant ",,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Antihemophilic factor/ Von Willebrand factor complex (human) ,,yes
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,"Antihemophlic factor recombinant, porcine sequence ",,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Anti-inhibitor coagulant complex ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Antithrombin III (human),,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Antithrombin (recombinant),,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Coagulation factor IX (human) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Coagulation factor IX recombinant ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Coagulation factor IX recombinant human ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,"Coagulation factor IX recombinant, fc fusion protein ",,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,"Coagulation factor IX recombinant, glycopegylated ",,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Coagulation factor VIIa (recombinant) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Coagulation factor X (human) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Coagulation factor XIII a-subunit (recombinant) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Desmopressin  ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Emicizumab-kxwh  ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Factor IX complex ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Factor XIII concentrate (human) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Fibrinogen concentrate (human) ,,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Protein C concentrate (human),,no
+Blood Products and Modifiers,Blood Component Deficiency/ Replacement ,Von willebrand factor (recombinant) ,,no
+Blood Products and Modifiers,Hemostasis Agents, ,,Class
+Blood Products and Modifiers,Hemostasis Agents, ,Protease Inhibitors,PG
+Blood Products and Modifiers,Hemostasis Agents,Tranexamic Acid ,,no
+Blood Products and Modifiers,Hemostasis Agents, ,,
+Blood Products and Modifiers,Hemostasis Agents,6-Aminocaproic Acid ,,no
+Blood Products and Modifiers,Platelet Modifying Agents, ,,Class
+Blood Products and Modifiers,Platelet Modifying Agents, ,Adenosine Diphosphate P2Y12,PG
+Blood Products and Modifiers,Platelet Modifying Agents,Clopidogrel Bisulfate,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Prasugrel Hydrochloride,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Ticlopidine Hydrochloride,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Ticagrelor  ,,no
+Blood Products and Modifiers,Platelet Modifying Agents, ,"Platelet Modifying Agents, Other",PG
+Blood Products and Modifiers,Platelet Modifying Agents,Aspirin ,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Avatrombopag ,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Caplacizumab ,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Cilostazol ,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Dipyridamole ,,no
+Blood Products and Modifiers,Platelet Modifying Agents,Aspirin/ Dipyridamole ,,yes
+Blood Products and Modifiers,Platelet Modifying Agents,Fostamatinib ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other", ,,Class
+Blood Products and Modifiers,"Blood Products and Modifiers, Other", ,Erythropoietins,PG
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Darbepoetin Alfa ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Epoetin Alfa ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Methoxy polyethylene glycol-epoetin beta ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other", ,"Blood Products and Modifiers, Other",PG
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Anagrelide ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other", ,,
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Eltrombopag Olamine ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Luspatercept,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Lusutrombopag ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Romiplostim ,,no
+Blood Products and Modifiers,"Blood Products and Modifiers, Other", ,,
+Blood Products and Modifiers,"Blood Products and Modifiers, Other",Plerixafor ,,no
+Cardiovascular Agents,, ,,Cat
+Cardiovascular Agents,Alpha-adrenergic Agonists, ,,Class
+Cardiovascular Agents,Alpha-adrenergic Agonists,Clonidine Hydrochloride,,no
+Cardiovascular Agents,Alpha-adrenergic Agonists,Droxidopa  ,,no
+Cardiovascular Agents,Alpha-adrenergic Agonists,Guanfacine Hydrochloride,,no
+Cardiovascular Agents,Alpha-adrenergic Agonists,Methyldopa ,,no
+Cardiovascular Agents,Alpha-adrenergic Agonists,Midodrine Hydrochloride,,no
+Cardiovascular Agents,Alpha-adrenergic Blocking Agents, ,,Class
+Cardiovascular Agents,Alpha-adrenergic Blocking Agents,Doxazosin Mesylate,,no
+Cardiovascular Agents,Alpha-adrenergic Blocking Agents,Phenoxybenzamine Hydrochloride,,no
+Cardiovascular Agents,Alpha-adrenergic Blocking Agents,Prazosin Hydrochloride,,no
+Cardiovascular Agents,Alpha-adrenergic Blocking Agents,Terazosin Hydrochloride,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors, ,,Class
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Benazepril Hydrochloride,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Captopril ,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Enalapril Maleate,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Fosinopril Sodium,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Lisinopril ,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Moexipril Hydrochloride,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Perindopril Erbumine,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Quinapril Hydrochloride,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Ramipril ,,no
+Cardiovascular Agents,Angiotensin-converting Enzyme (ACE) Inhibitors,Trandolapril ,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists, ,,Class
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Azilsartan  Medoxomil,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Candesartan Cilexetil,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Eprosartan Mesylate,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Irbesartan ,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Losartan Potassium,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Olmesartan Medoxomil,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Telmisartan ,,no
+Cardiovascular Agents,Angiotensin II Receptor Antagonists,Valsartan ,,no
+Cardiovascular Agents,Antiarrhythmics, ,,Class
+Cardiovascular Agents,Antiarrhythmics, ,Vaughn Williams-Class I,PG
+Cardiovascular Agents,Antiarrhythmics,Disopyramide Phosphate,,no
+Cardiovascular Agents,Antiarrhythmics,Flecainide Acetate,,no
+Cardiovascular Agents,Antiarrhythmics,Mexiletine Hydrochloride,,no
+Cardiovascular Agents,Antiarrhythmics,Propafenone Hydrochloride,,no
+Cardiovascular Agents,Antiarrhythmics,Quinidine Sulfate,,no
+Cardiovascular Agents,Antiarrhythmics, ,Vaughn Williams-Class II,PG
+Cardiovascular Agents,Antiarrhythmics,Acebutolol Hydrochloride,,no
+Cardiovascular Agents,Antiarrhythmics,Propranolol Hydrochloride,,no
+Cardiovascular Agents,Antiarrhythmics, ,Vaughn Williams-Class III,PG
+Cardiovascular Agents,Antiarrhythmics,Amiodarone Hydrochloride,,no
+Cardiovascular Agents,Antiarrhythmics,Dofetilide ,,no
+Cardiovascular Agents,Antiarrhythmics,Dronedarone ,,no
+Cardiovascular Agents,Antiarrhythmics,Sotalol Hydrochloride,,no
+Cardiovascular Agents,Antiarrhythmics, ,Vaughn Williams-Class IV,PG
+Cardiovascular Agents,Antiarrhythmics,Diltiazem ,,no
+Cardiovascular Agents,Antiarrhythmics,Verapamil ,,no
+Cardiovascular Agents,Antiarrhythmics, ,Vaughn Williams-Class V,PG
+Cardiovascular Agents,Antiarrhythmics,Digoxin ,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents, ,,Class
+Cardiovascular Agents,Beta-adrenergic Blocking Agents, ,Beta-1 Selective,PG
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Atenolol ,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Betaxolol  Hydrochloride,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Bisoprolol  Fumarate,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Metoprolol  Succinate,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Metoprolol  Tartrate,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Nebivolol  Hydrochloride,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents, ,Non-Selective,PG
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Nadolol ,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Propranolol Hydrochloride,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Timolol Maleate,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents, ,"Beta-adrenergic Blocking Agents, Other",PG
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Acebutolol  Hydrochloride,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Pindolol ,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Carvedilol Phosphate,,no
+Cardiovascular Agents,Beta-adrenergic Blocking Agents,Labetalol Hydrochloride,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",,,Class
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Amlodipine Besylate,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Felodipine ,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Isradipine ,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Nicardipine Hydrochloride,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Nifedipine ,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Nimodipine ,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Dihydropyridines",Nisoldipine ,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Nondihydropyridines", ,,Class
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Nondihydropyridines",Diltiazem Hydrochloride,,no
+Cardiovascular Agents,"Calcium Channel Blocking Agents, Nondihydropyridines",Verapamil Hydrochloride,,no
+Cardiovascular Agents,"Diuretics, Loop", ,,Class
+Cardiovascular Agents,"Diuretics, Loop",Bumetanide ,,no
+Cardiovascular Agents,"Diuretics, Loop",Ethacrynate Sodium,,no
+Cardiovascular Agents,"Diuretics, Loop",Ethacrynic Acid ,,no
+Cardiovascular Agents,"Diuretics, Loop",Furosemide ,,no
+Cardiovascular Agents,"Diuretics, Loop",Torsemide ,,no
+Cardiovascular Agents,"Diuretics, Potassium-sparing", ,,Class
+Cardiovascular Agents,"Diuretics, Potassium-sparing",Amiloride Hydrochloride,,no
+Cardiovascular Agents,"Diuretics, Potassium-sparing",Eplerenone ,,no
+Cardiovascular Agents,"Diuretics, Potassium-sparing",Spironolactone ,,no
+Cardiovascular Agents,"Diuretics, Potassium-sparing",Triamterene ,,no
+Cardiovascular Agents,"Diuretics, Thiazide", ,,Class
+Cardiovascular Agents,"Diuretics, Thiazide",Chlorothiazide Sodium,,no
+Cardiovascular Agents,"Diuretics, Thiazide",Chlorthalidone ,,no
+Cardiovascular Agents,"Diuretics, Thiazide",Hydrochlorothiazide ,,no
+Cardiovascular Agents,"Diuretics, Thiazide",Indapamide ,,no
+Cardiovascular Agents,"Diuretics, Thiazide",Metolazone ,,no
+Cardiovascular Agents,"Dyslipidemics, Fibric Acid Derivatives", ,,Class
+Cardiovascular Agents,"Dyslipidemics, Fibric Acid Derivatives",Choline Fenofibrate ,,no
+Cardiovascular Agents,"Dyslipidemics, Fibric Acid Derivatives",Fenofibrate ,,no
+Cardiovascular Agents,"Dyslipidemics, Fibric Acid Derivatives",Fenofibric Acid ,,no
+Cardiovascular Agents,"Dyslipidemics, Fibric Acid Derivatives",Gemfibrozil ,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors", ,,Class
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Atorvastatin Calcium,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Fluvastatin Sodium,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Lovastatin ,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Pitavastatin ,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Pravastatin Sodium,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Rosuvastatin Calcium,,no
+Cardiovascular Agents,"Dyslipidemics, HMG CoA Reductase Inhibitors",Simvastatin ,,no
+Cardiovascular Agents,"Dyslipidemics, Other", ,,Class
+Cardiovascular Agents,"Dyslipidemics, Other",Bempedoic Acid,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Cholestyramine ,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Colesevelam Hydrochloride,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Colestipol Hydrochloride,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Ezetimibe ,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Icosapent Ethyl  ,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Lomitapide Mesylate,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Niacin ,,no
+Cardiovascular Agents,"Dyslipidemics, Other",Omega-3-acid Ethyl Esters ,,no
+Cardiovascular Agents,"Dyslipidemics, PCSK9 Inhibitor", ,,Class
+Cardiovascular Agents,"Dyslipidemics, PCSK9 Inhibitor",Alirocumab ,,no
+Cardiovascular Agents,"Dyslipidemics, PCSK9 Inhibitor",Evolocumab ,,no
+Cardiovascular Agents,Vasodilators,,,Class
+Cardiovascular Agents,Vasodilators, ,Direct-acting Arterial,PG
+Cardiovascular Agents,Vasodilators,Hydralazine Hydrochloride,,no
+Cardiovascular Agents,Vasodilators,Minoxidil ,,no
+Cardiovascular Agents,Vasodilators, ,Direct-acting Arterial/Venous,PG
+Cardiovascular Agents,Vasodilators,Isosorbide Dinitrate ,,no
+Cardiovascular Agents,Vasodilators,Isosorbide Mononitrate ,,no
+Cardiovascular Agents,Vasodilators,Nitroglycerin ,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other", ,,Class
+Cardiovascular Agents,"Cardiovascular Agents, Other",Acetazolamide ,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other",Aliskiren Fumarate,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other",Digoxin ,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other",Ivabradine Hydrochloride,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other",Mecamylamine Hydrochloride,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other",Pentoxifylline ,,no
+Cardiovascular Agents,"Cardiovascular Agents, Other",Ranolazine ,,no
+Cardiovascular Agents,Cardiovascular Combinations, ,,Class
+Cardiovascular Agents,Cardiovascular Combinations,Aliskiren Hemifumarate/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amiloride Hydrochloride/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amlodipine Besylate/ Atorvastatin Calcium ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amlodipine/ Benazepril Hydrochloride ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amlodipine Besylate/ Celecoxib ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amlodipine/ Olmesartan Medoxomil ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amlodipine/ Valsartan ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Amlodipine/ Valsartan/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Atenolol/ Chlorthalidone ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Azilsartan Medoxomil/ Chlorthalidone ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Benazepril Hydrochloride/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Bisoprolol Fumarate/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Candesartan Cilexetil/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Captopril/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Enalapril Maleate/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Ezetimibe/ Bempedoic Acid,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Ezetimibe/ Simvastatin ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Fosinopril Sodium/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Hydralazine Hydrochloride/ Isosorbide Dinitrate ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Irbesartan/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Lisinopril/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Losartan Potassium/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Methyldopa/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Metoprolol Succinate/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Metoprolol Tartrate/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Moexipril Hydrochloride/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Nadolol/ Bendroflumethiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Olmesartan Medoxmil/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Olmesartan Medoxomil/ Amlodipine Besylate/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Perindopril Arginine/ Amlodipine Besylate ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Propranolol Hydrochloride/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Quinapril Hydrochloride/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Sacubitril/ Valsartan ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Spironolactone/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Telmisartan/ Amlodipine ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Telmisartan/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Trandolapril/ Verapamil Hydrochloride ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Triamterene/ Hydrochlorothiazide ,,yes
+Cardiovascular Agents,Cardiovascular Combinations,Valsartan/ Hydrochlorothiazide ,,yes
+Central Nervous System Agents,, ,,Cat
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines", ,,Class
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Amphetamine ,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Dextroamphetamine Sulfate,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Dextroamphetamine Saccharate/ Amphetamine Aspartate/ Dextroamphetamine Sulfate/ Amphetamine Sulfate ,,yes
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines", ,,
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Lisdexamfetamine Dimesylate,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents, Amphetamines",Methamphetamine Hydrochloride,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents,  Non-amphetamines", ,,Class
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents,  Non-amphetamines",Atomoxetine Hydrochloride,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents,  Non-amphetamines",Clonidine Hydrochloride,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents,  Non-amphetamines",Dexmethylphenidate Hydrochloride,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents,  Non-amphetamines",Guanfacine Hydrochloride,,no
+Central Nervous System Agents,"Attention Deficit Hyperactivity Disorder Agents,  Non-amphetamines",Methylphenidate Hydrochloride,,no
+Central Nervous System Agents,Fibromyalgia Agents, ,,Class
+Central Nervous System Agents,Fibromyalgia Agents,Duloxetine Hydrochloride,,no
+Central Nervous System Agents,Fibromyalgia Agents,Milnacipran Hydrochloride,,no
+Central Nervous System Agents,Fibromyalgia Agents,Pregabalin ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents, ,,Class
+Central Nervous System Agents,Multiple Sclerosis Agents, ,,
+Central Nervous System Agents,Multiple Sclerosis Agents,Interferon Beta-1a ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Interferon Beta-1b ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Peginterferon Beta-1a ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents, ,,
+Central Nervous System Agents,Multiple Sclerosis Agents,Dalfampridine ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents, ,,
+Central Nervous System Agents,Multiple Sclerosis Agents,Teriflunomide  ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents, ,,
+Central Nervous System Agents,Multiple Sclerosis Agents,Fingolimod Hydrochloride,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Ozanimod,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Siponimod ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents, ,,
+Central Nervous System Agents,Multiple Sclerosis Agents,Dimethyl Fumarate  ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Diroximel Fumarate,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Monomethyl Fumarate,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,,,
+Central Nervous System Agents,Multiple Sclerosis Agents,Alemtuzumab ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Cladribine ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Glatiramer Acetate,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Mitoxantrone Hydrochloride,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Natalizumab ,,no
+Central Nervous System Agents,Multiple Sclerosis Agents,Ocrelizumab ,,no
+Central Nervous System Agents,"Central Nervous System, Other", ,,Class
+Central Nervous System Agents,"Central Nervous System, Other",Amifampridine Phosphate,,no
+Central Nervous System Agents,"Central Nervous System, Other",Carbamazepine ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Deutetrabenazine ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Dextromethorphan Hydrobromide/ Quinidine Sulfate ,,yes
+Central Nervous System Agents,"Central Nervous System, Other",Edaravone ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Gabapentin ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Gabapentin Enacarbil  ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Tetrabenazine ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Riluzole ,,no
+Central Nervous System Agents,"Central Nervous System, Other",Valbenazine ,,no
+Contraceptives,, ,,Cat
+Contraceptives,Oral Contraceptives Combinations, ,,Class
+Contraceptives,Oral Contraceptives Combinations,Desogestrel/ Ethinyl Estradiol ,,yes
+Contraceptives,Oral Contraceptives Combinations,Estradiol Valerate/ Dienogest ,,yes
+Contraceptives,Oral Contraceptives Combinations,Drospirenone/ Ethinyl Estradiol ,,yes
+Contraceptives,Oral Contraceptives Combinations,Drospirenone/ Ethinyl Estradiol/ Levomefolate Calcium ,,yes
+Contraceptives,Oral Contraceptives Combinations,Ethynodiol Diacetate/ Ethinyl Estradiol ,,yes
+Contraceptives,Oral Contraceptives Combinations,Levonorgestrel/ Ethinyl Estradiol ,,yes
+Contraceptives,Oral Contraceptives Combinations,Norethindrone Acetate/ Ethinyl Estradiol ,,yes
+Contraceptives,Oral Contraceptives Combinations,Norgestimate/ Ethinyl Estradiol ,,yes
+Contraceptives,Oral Progestins, ,,Class
+Contraceptives,Oral Progestins,Drospirenone ,,no
+Contraceptives,Oral Progestins,Levonorgestrel ,,no
+Contraceptives,Oral Progestins,Norethindrone ,,no
+Contraceptives,"Contraceptives, Other", ,,Class
+Contraceptives,"Contraceptives, Other",Copper ,,no
+Contraceptives,"Contraceptives, Other",Etonogestrel ,,no
+Contraceptives,"Contraceptives, Other",Levonorgestrel ,,no
+Contraceptives,"Contraceptives, Other",Medroxyprogesterone ,,no
+Contraceptives,"Contraceptives, Other",Ulipristal ,,no
+Contraceptives,"Contraceptives, Other", ,,
+Contraceptives,"Contraceptives, Other",Etonogestrel/ Ethinyl Estradiol ,,yes
+Contraceptives,"Contraceptives, Other",Norelgestromin/ Ethinyl Estradiol ,,yes
+Contraceptives,"Contraceptives, Other",Segesterone Acetate/ Ethinyl Estradiol ,,yes
+Contraceptives,"Contraceptives, Other",,,
+Contraceptives,"Contraceptives, Other",Lactic Acid/ Citric Acid/ Potassium Bitartrate,,yes
+Dental and Oral Agents,"Contraceptives, Other", ,,Cat
+Dental and Oral Agents,"Contraceptives, Other",Cevimeline Hydrochloride,,no
+Dental and Oral Agents,"Contraceptives, Other",Chlorhexidine Gluconate,,no
+Dental and Oral Agents,"Contraceptives, Other",Doxycycline Hyclate,,no
+Dental and Oral Agents,"Contraceptives, Other",Minocycline Hydrochloride,,no
+Dental and Oral Agents,"Contraceptives, Other",Palifermin ,,no
+Dental and Oral Agents,"Contraceptives, Other",Pilocarpine Hydrochloride,,no
+Dental and Oral Agents,"Contraceptives, Other",Prilocaine Hydrochloride,,no
+Dental and Oral Agents,"Contraceptives, Other",Triamcinolone Acetonide,,no
+Dermatological Agents,"Contraceptives, Other", ,,Cat
+Dermatological Agents,Acne and Rosacea Agents, ,,Class
+Dermatological Agents,Acne and Rosacea Agents, ,Retinoids,PG
+Dermatological Agents,Acne and Rosacea Agents,Acitretin ,,no
+Dermatological Agents,Acne and Rosacea Agents,Adapalene ,,no
+Dermatological Agents,Acne and Rosacea Agents,Isotretinoin ,,no
+Dermatological Agents,Acne and Rosacea Agents,Tazarotene ,,no
+Dermatological Agents,Acne and Rosacea Agents,Tretinoin ,,no
+Dermatological Agents,Acne and Rosacea Agents,Trifarotene,,no
+Dermatological Agents,Acne and Rosacea Agents, ,"Acne and Rosea, Other",PG
+Dermatological Agents,Acne and Rosacea Agents,Azelaic Acid ,,no
+Dermatological Agents,Acne and Rosacea Agents,Clascoterone,,no
+Dermatological Agents,Acne and Rosacea Agents,Brimonidine Tartrate,,no
+Dermatological Agents,Acne and Rosacea Agents,Oxymetazoline Hydrochloride,,no
+Dermatological Agents,Acne and Rosacea Agents, ,,
+Dermatological Agents,Acne and Rosacea Agents,Adapalene/ Benzoyl Peroxide ,,yes
+Dermatological Agents,Acne and Rosacea Agents,Clindamycin Phosphate/ Benzoyl Peroxide ,,yes
+Dermatological Agents,Acne and Rosacea Agents,Clindamycin Phosphate/ Tretinoin ,,yes
+Dermatological Agents,Acne and Rosacea Agents,Erythromycin/ Benzoyl Peroxide ,,yes
+Dermatological Agents,Dermatitis and Pruritus Agents, ,,Class
+Dermatological Agents,Dermatitis and Pruritus Agents, ,"Glucocorticoids, Low Potency",PG
+Dermatological Agents,Dermatitis and Pruritus Agents,Alclometasone Dipropionate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Clocortolone Pivalate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Desonide ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Hydrocortisone ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents, ,"Glucocorticoids, Medium Potency",PG
+Dermatological Agents,Dermatitis and Pruritus Agents,Betamethasone Valerate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Desoximetasone ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Fluocinolone Acetonide,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Flurandrenolide ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Fluticasone Propionate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Hydrocortisone Butyrate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Hydrocortisone Probutate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Hydrocortisone Valerate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Mometasone Furoate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Prednicarbate ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Triamcinolone Acetonide,,no
+Dermatological Agents,Dermatitis and Pruritus Agents, ,"Glucocorticoids, High Potency",PG
+Dermatological Agents,Dermatitis and Pruritus Agents,Amcinonide ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Betamethasone Dipropionate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Desoximetasone ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Diflorasone Diacetate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Fluocinolone Acetonide,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Fluocinonide ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Halcinonide ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Triamcinolone Acetonide,,no
+Dermatological Agents,Dermatitis and Pruritus Agents, ,"Glucocorticoids, Very High Potency",PG
+Dermatological Agents,Dermatitis and Pruritus Agents,Betamethasone Dipropionate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Clobetasol Propionate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Diflorasone Diacetate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Halobetasol Propionate,,no
+Dermatological Agents,Dermatitis and Pruritus Agents, ,"Dermatitis and Pruitus Agents, Other",PG
+Dermatological Agents,Dermatitis and Pruritus Agents,Ammonium Lactate ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Crisaborole ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Doxepin Hydrochloride,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Pimecrolimus ,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Selenium Sulfide,,no
+Dermatological Agents,Dermatitis and Pruritus Agents,Tacrolimus ,,no
+Dermatological Agents,Topical Anti-infectives, ,,Class
+Dermatological Agents,Topical Anti-infectives, ,"Antibacterials, dermatological ",PG
+Dermatological Agents,Topical Anti-infectives,Clindamycin  Phosphate,,no
+Dermatological Agents,Topical Anti-infectives,Erythromycin ,,no
+Dermatological Agents,Topical Anti-infectives,Benzoyl Peroxide ,,no
+Dermatological Agents,Topical Anti-infectives,Dapsone ,,no
+Dermatological Agents,Topical Anti-infectives,Mafenide Acetate,,no
+Dermatological Agents,Topical Anti-infectives,Mupirocin,,no
+Dermatological Agents,Topical Anti-infectives,Mupirocin Calcium,,no
+Dermatological Agents,Topical Anti-infectives,Ozenoxacin ,,no
+Dermatological Agents,Topical Anti-infectives,Retapamulin ,,no
+Dermatological Agents,Topical Anti-infectives, ,"Antifungals, dermatological",PG
+Dermatological Agents,Topical Anti-infectives,Butenafine Hydrochloride,,no
+Dermatological Agents,Topical Anti-infectives,Ciclopirox Olamine,,no
+Dermatological Agents,Topical Anti-infectives,Efinaconazole ,,no
+Dermatological Agents,Topical Anti-infectives,Ketoconazole ,,no
+Dermatological Agents,Topical Anti-infectives,Tavaborole ,,no
+Dermatological Agents,Topical Anti-infectives,Terbinafine Hydrochloride,,no
+Dermatological Agents,Topical Anti-infectives, ,"Antivirals, dermatological",PG
+Dermatological Agents,Topical Anti-infectives,Acyclovir ,,no
+Dermatological Agents,Topical Anti-infectives,Penciclovir ,,no
+Dermatological Agents,Pediculicides/Scabicides, ,,Class
+Dermatological Agents,Pediculicides/Scabicides,Abametapir,,no
+Dermatological Agents,Pediculicides/Scabicides,Benzyl alcohol ,,no
+Dermatological Agents,Pediculicides/Scabicides,Ivermectin ,,no
+Dermatological Agents,Pediculicides/Scabicides,Malathion ,,no
+Dermatological Agents,Pediculicides/Scabicides,Spinosad ,,no
+Dermatological Agents,Pediculicides/Scabicides,,,
+Dermatological Agents,Pediculicides/Scabicides,Crotamiton ,,no
+Dermatological Agents,Pediculicides/Scabicides,,,
+Dermatological Agents,Pediculicides/Scabicides,Lindane ,,no
+Dermatological Agents,Pediculicides/Scabicides,Permethrin ,,no
+Dermatological Agents,"Dermatological Agents, Other", ,,Class
+Dermatological Agents,"Dermatological Agents, Other", ,"Miscellaneous, dermatological",PG
+Dermatological Agents,"Dermatological Agents, Other",AbobotulinumtoxinA ,,no
+Dermatological Agents,"Dermatological Agents, Other",Bimatoprost ,,no
+Dermatological Agents,"Dermatological Agents, Other",Collagenase Clostridium Histolyticum,,no
+Dermatological Agents,"Dermatological Agents, Other",Deoxycholic Acid ,,no
+Dermatological Agents,"Dermatological Agents, Other",Eflornithine Hydrochloride,,no
+Dermatological Agents,"Dermatological Agents, Other",Finasteride ,,no
+Dermatological Agents,"Dermatological Agents, Other",Glycopyrronium Tosylate,,no
+Dermatological Agents,"Dermatological Agents, Other",IncobotulinumtoxinA ,,no
+Dermatological Agents,"Dermatological Agents, Other",OnabotulinumtoxinA ,,no
+Dermatological Agents,"Dermatological Agents, Other",PrabotulinumtoxinA ,,no
+Dermatological Agents,"Dermatological Agents, Other", ,Psoriasis Agents,PG
+Dermatological Agents,"Dermatological Agents, Other",Anthralin ,,no
+Dermatological Agents,"Dermatological Agents, Other",Apremilast ,,no
+Dermatological Agents,"Dermatological Agents, Other",Calcipotriene ,,no
+Dermatological Agents,"Dermatological Agents, Other",Calcitriol ,,no
+Dermatological Agents,"Dermatological Agents, Other",Methoxsalen ,,no
+Dermatological Agents,"Dermatological Agents, Other", ,Warts and Actinic Keratosis Agents,PG
+Dermatological Agents,"Dermatological Agents, Other",Diclofenac Sodium,,no
+Dermatological Agents,"Dermatological Agents, Other",Fluorouracil  ,,no
+Dermatological Agents,"Dermatological Agents, Other",Imiquimod ,,no
+Dermatological Agents,"Dermatological Agents, Other",Ingenol mebutate ,,no
+Dermatological Agents,"Dermatological Agents, Other",Podofilox ,,no
+Dermatological Agents,"Dermatological Agents, Other",Sinecatechins ,,no
+Dermatological Agents,"Dermatological Agents, Other", ,Wound Care Agents,PG
+Dermatological Agents,"Dermatological Agents, Other",Becaplermin ,,no
+Dermatological Agents,"Dermatological Agents, Other",Collagenase ,,no
+Dermatological Agents,"Dermatological Agents, Other",Silver Sulfadiazine ,,no
+Dermatological Agents,"Dermatological Agents, Other", ,,
+Dermatological Agents,"Dermatological Agents, Other",Acyclovir/ Hydrocortisone ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Calcipotriene/ Betamethasone Dipropionate ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Clotrimazole/ Betamethasone Dipropionate ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Fluocinolone Acetonide/ Hydroquinone/ Tretinoin ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Hydrocortisone Acetate/ Pramoxine Hydrochloride ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Neomycin/ Polymyxin B Sulfates/ Bacitracin Zinc/ Hydrocortisone  ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Neomycin Sulfate/ Fluocinolone Acetonide ,,yes
+Dermatological Agents,"Dermatological Agents, Other",Nystatin/ Triamcinolone Acetonide ,,yes
+Electrolytes/ Minerals/ Metals/ Vitamins,, ,,Cat
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers, ,,Class
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers, ,,
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Deferasirox ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Deferiprone  ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers, ,,
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Penicillamine ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Succimer ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Tolvaptan ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Trientine Hydrochloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers, ,,
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Prussian Blue ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral/Metal Modifiers,Zinc Acetate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement, ,,Class
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Ammonium Chloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Carglumic  Acid ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Chromic Chloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Citric Acid/ Potassium Citrate/ Sodium Citrate ,,yes
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Ferric Derisomaltose,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Fluoride Sodium,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Fluoride Stannous,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Magnesium Chloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Magnesium Sulfate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Manganese Chloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Acetate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Bicarbonate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Chloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Citrate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Gluconate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Phosphates,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Citrate/ Citric Acid ,,yes
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Potassium Phosphate/ Sodium Phosphate ,,yes
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Sodium Acetate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Sodium Bicarbonate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Sodium Lactate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Sodium Chloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Electrolyte/Mineral Replacement,Sodium Ferric Gluconate Complex,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Phosphate Binders, ,,Class
+Electrolytes/ Minerals/ Metals/ Vitamins,Phosphate Binders,Calcium Acetate ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Phosphate Binders,Ferric  Citrate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Phosphate Binders,Lanthanum Carbonate,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Phosphate Binders,Sevelamer Hydrochloride,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Phosphate Binders,Sucroferric Oxyhydroxide  ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Potassium Binders, ,,Class
+Electrolytes/ Minerals/ Metals/ Vitamins,Potassium Binders,Patiromer Sorbitex  Calcium,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Potassium Binders,Sodium Polystyrene Sulfonate ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Potassium Binders,Sodium Zirconium Cyclosilicate ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Vitamins, ,,Class
+Electrolytes/ Minerals/ Metals/ Vitamins,Vitamins,Folic Acid ,,no
+Electrolytes/ Minerals/ Metals/ Vitamins,Vitamins,Prenatal ,,no
+Gastrointestinal Agents,, ,,Cat
+Gastrointestinal Agents,Anti-Diarrheal Agents, ,,Class
+Gastrointestinal Agents,Anti-Diarrheal Agents,Alosetron Hydrochloride,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents,Crofelemer  ,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents,Eluxadoline ,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents,Loperamide Hydrochloride,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents,Rifamycin ,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents,Rifaximin ,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents,Telotristat Ethyl,,no
+Gastrointestinal Agents,Anti-Diarrheal Agents, ,,
+Gastrointestinal Agents,Anti-Diarrheal Agents,Difenoxin/ Atropine Sulfate ,,yes
+Gastrointestinal Agents,Anti-Diarrheal Agents,Diphenoxylate Hydrochloride/ Atropine Sulfate ,,yes
+Gastrointestinal Agents,"Antispasmodics, Gastrointestinal", ,,Class
+Gastrointestinal Agents,"Antispasmodics, Gastrointestinal",Dicyclomine Hydrochloride,,no
+Gastrointestinal Agents,"Antispasmodics, Gastrointestinal",Glycopyrrolate ,,no
+Gastrointestinal Agents,"Antispasmodics, Gastrointestinal",Methscopolamine Bromide,,no
+Gastrointestinal Agents,"Antispasmodics, Gastrointestinal",Scopolamine ,,no
+Gastrointestinal Agents,Anti-Constipation Agents, ,,Class
+Gastrointestinal Agents,Anti-Constipation Agents, ,,
+Gastrointestinal Agents,Anti-Constipation Agents,Lactitol,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Lactulose ,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Polyethylene Glycol 3350 NF ,,no
+Gastrointestinal Agents,Anti-Constipation Agents, ,,
+Gastrointestinal Agents,Anti-Constipation Agents,Lubiprostone ,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Methylnaltrexone ,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Naloxegol Oxalate,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Naldemedine ,,no
+Gastrointestinal Agents,Anti-Constipation Agents,,,
+Gastrointestinal Agents,Anti-Constipation Agents,Prucalopride ,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Tegaserod,,no
+Gastrointestinal Agents,Anti-Constipation Agents, ,,
+Gastrointestinal Agents,Anti-Constipation Agents,Linaclotide  ,,no
+Gastrointestinal Agents,Anti-Constipation Agents,Plecanatide ,,no
+Gastrointestinal Agents,Histamine2 (H2) Receptor Antagonists, ,,Class
+Gastrointestinal Agents,Histamine2 (H2) Receptor Antagonists,Cimetidine Hydrochloride,,no
+Gastrointestinal Agents,Histamine2 (H2) Receptor Antagonists,Famotidine ,,no
+Gastrointestinal Agents,Histamine2 (H2) Receptor Antagonists,Nizatidine ,,no
+Gastrointestinal Agents,Histamine2 (H2) Receptor Antagonists,Ranitidine Hydrochloride,,no
+Gastrointestinal Agents,Protectants, ,,Class
+Gastrointestinal Agents,Protectants,Misoprostol ,,no
+Gastrointestinal Agents,Protectants,Sucralfate ,,no
+Gastrointestinal Agents,Proton Pump Inhibitors, ,,Class
+Gastrointestinal Agents,Proton Pump Inhibitors,Dexlansoprazole ,,no
+Gastrointestinal Agents,Proton Pump Inhibitors,Esomeprazole Magnesium,,no
+Gastrointestinal Agents,Proton Pump Inhibitors,Strontium,,no
+Gastrointestinal Agents,Proton Pump Inhibitors,Lansoprazole ,,no
+Gastrointestinal Agents,Proton Pump Inhibitors,Omeprazole ,,no
+Gastrointestinal Agents,Proton Pump Inhibitors,Omeprazole/ Sodium Bicarbonate ,,yes
+Gastrointestinal Agents,Proton Pump Inhibitors,Pantoprazole Sodium,,no
+Gastrointestinal Agents,Proton Pump Inhibitors,Rabeprazole Sodium,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other", ,,Class
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Alvimopan ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Bezlotoxumab ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Chenodiol ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Metoclopramide ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Metreleptin ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Rifaximin ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Ursodiol ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other", ,,
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Bismuth Subcitrate Potassium/ Metronidazole/ Tetracycline Hydrochloride  ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Lansoprazole/ Amoxicillin/ Clarithromycin ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Omeprazole/ Clarithromycin/ Amoxicillin  ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Omeprazole Magnesium/ Amoxicillin/ Rifabutin,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",,,
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Somatropin ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Teduglutide  ,,no
+Gastrointestinal Agents,"Gastrointestinal Agents, Other", ,,
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Polyethylene Glycol 3350/ Sodium Chloride/ Potassium Chloride/ Sodium Bicarbonate/  Sodium Sulfate ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Polyethylene Glycol 3350/ Sodium Chloride/ Sodium Bicarbonate/ Potassium Chloride  ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Polyethylene Glycol 3350/ Sodium Chloride/ Sodium Bicarbonate/ Potassium Chloride/ Bisacodyl  ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Polyethylene Glycol 3350/ Sodium Sulfate/ Sodium Chloride/ Potassium Chloride/ Ascorbic Acid/ Sodium Ascorbate ,,yes
+Gastrointestinal Agents,"Gastrointestinal Agents, Other",Sodium Picosulfate/ Magnesium Oxide/ Anhydrous Citric Acid ,,yes
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,Cat
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Triheptanoin,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Inotersen ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Patisiran ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Tafamidis ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Tafamidis Meglumine ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Burosumab ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,"Alpha-1 Proteinase Inhibitor, Human ",,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Cerliponase alfa ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Cholic Acid ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Cysteamine Bitartrate,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Eteplirsen ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Golodirsen,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Viltolarsen,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Agalsidase Beta ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Migalastat Hydrochloride ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Imiglucerase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Taliglucerase Alfa  ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Velaglucerase Alfa  ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Eliglustat ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Miglustat ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Uridine Triacetate,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Nitisinone ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Betaine  Hydrochloride,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Idursulfase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Dichlorphenamide ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Asfotase Alfa ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Sebelipase Alfa ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Cromolyn Sodium,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Galsulfase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Laronidase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Elosulfase Alfa ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Pancrelipase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Pegvaliase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Sapropterin Dihydrochloride,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Alglucosidase Alfa,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Afamelanotide ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Givosiran Sodium,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Elapegademase ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Crizanlizumab,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Glutamine ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Voxelotor,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Nusinersen,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Onasemnogene Abeparvovec,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Risdiplam,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Sacrosidase  ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",, ,,
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Sodium Phenylbutyrate ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Glycerol Phenylbutyrate  ,,no
+"Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment ",,Obeticholic Acid ,,no
+Genitourinary Agents,, ,,Cat
+Genitourinary Agents,"Antispasmodics, Urinary", ,,Class
+Genitourinary Agents,"Antispasmodics, Urinary", ,,
+Genitourinary Agents,"Antispasmodics, Urinary",Mirabegron  ,,no
+Genitourinary Agents,"Antispasmodics, Urinary", ,,
+Genitourinary Agents,"Antispasmodics, Urinary",Darifenacin Hydrobromide,,no
+Genitourinary Agents,"Antispasmodics, Urinary",Fesoterodine Fumarate,,no
+Genitourinary Agents,"Antispasmodics, Urinary",Flavoxate Hydrochloride,,no
+Genitourinary Agents,"Antispasmodics, Urinary",Oxybutynin Chloride,,no
+Genitourinary Agents,"Antispasmodics, Urinary",Solifenacin Succinate,,no
+Genitourinary Agents,"Antispasmodics, Urinary",Tolterodine Tartrate,,no
+Genitourinary Agents,"Antispasmodics, Urinary",Trospium Chloride,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents, ,,Class
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents, ,,
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Alfuzosin Hydrochloride,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Doxazosin Mesylate,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Prazosin Hydrochloride,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Silodosin ,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Tamsulosin Hydrochloride,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Terazosin Hydrochloride,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents, ,,
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Dutasteride ,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Dutasteride/ Tamsulosin Hydrochloride ,,yes
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Finasteride ,,no
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents, ,,
+Genitourinary Agents,Benign Prostatic Hypertrophy Agents,Tadalafil ,,no
+Genitourinary Agents,"Genitourinary Agents, Other", ,,Class
+Genitourinary Agents,"Genitourinary Agents, Other",Bethanechol ,,no
+Genitourinary Agents,"Genitourinary Agents, Other",Tiopronin,,no
+Genitourinary Agents,"Genitourinary Agents, Other",Penicillamine ,,no
+Genitourinary Agents,"Genitourinary Agents, Other",Pentosan Polysulfate Sodium,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",, ,,Cat
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)", , ,,
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Corticotropin ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",, ,,
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Betamethasone Acetate/ Betamethasone Sodium Phosphate  ,,yes
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Budesonide ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Cortisone Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Deflazacort ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Dexamethasone Sodium Phosphate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Hydrocortisone Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Hydrocortisone Sodium Succinate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Methylprednisolone Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Methylprednisolone Sodium Succinate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Prednisolone Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Prednisolone Sodium Phosphate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Prednisone ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Triamcinolone Acetonide,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Triamcinolone Hexacetonide,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",, ,,
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Adrenal)",,Fludrocortisone Acetate,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",, ,,Cat
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",, ,,
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Chorionic Gonadotropin ,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Choriogonadotropin Alfa ,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Follitropin Alfa ,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Follitropin Beta ,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Urofollitropin ,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",, ,,
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Somapacitan,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,"Somatropin, Recombinant ",,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Tesamorelin Acetate,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",, ,,
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Mecasermin Rinfabate,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",, ,,
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",,Desmopressin Acetate,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Pituitary)",, ,,
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Prostaglandins)",, ,,Cat
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Prostaglandins)",,Alprostadil ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Prostaglandins)",,Carboprost Tromethamine,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Prostaglandins)",,Misoprostol ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",, ,,Cat
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Anabolic Steroids, ,,Class
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Anabolic Steroids,Oxandrolone ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Anabolic Steroids,Oxymetholone ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Androgens, ,,Class
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Androgens,Danazol ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Androgens,Fluoxymesterone ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Androgens,Methyltestosterone ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Androgens,Testosterone Cypionate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Androgens,Testosterone Enanthate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens, ,,Class
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Estradiol Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Estradiol Cypionate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Estradiol Valerate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Conjugated Estrogens ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Esterified Estrogens ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Estropipate ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Estrogens,Ethinyl Estradiol ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins, ,,Class
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins,Hydroxyprogesterone Caproate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins,Levonorgestrel ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins,Medroxyprogesterone Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins,Megestrol Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins,Norethindrone Acetate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Progestins,Progesterone ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Selective Estrogen Receptor Modifying Agents, ,,Class
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Selective Estrogen Receptor Modifying Agents,Conjugated Estrogens/ Bazedoxifene ,,yes
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Selective Estrogen Receptor Modifying Agents,Clomiphene Citrate,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Selective Estrogen Receptor Modifying Agents,Raloxifene Hydrochloride,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)",Selective Estrogen Receptor Modifying Agents,Ospemifene ,,no
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,Class
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Elagolix/ Estradiol/ Norethindrone,,yes
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Estradiol/ Norgestimate ,,yes
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Estradiol/ Levonorgestrel ,,yes
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Estradiol/ Norethindrone Acetate ,,yes
+"Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Estradiol/ Progesterone ,,yes
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Thyroid)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,Cat
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Thyroid)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Levothyroxine Sodium,,no
+"Hormonal Agents, Stimulant/Replacement/ Modifying (Thyroid)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Liothyronine Sodium,,no
+"Hormonal Agents, Suppressant (Adrenal)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,Cat
+"Hormonal Agents, Suppressant (Adrenal)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Mitotane ,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,Cat
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Bromocriptine Mesylate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Cabergoline ,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Goserelin Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Leuprolide Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Nafarelin Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Triptorelin ,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Triptorelin Pamoate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Cetrorelix ,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Degarelix Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Elagolix  ,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Ganirelix Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Pegvisomant ,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Lanreotide Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Octreotide Acetate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Pasireotide Diaspartate,,no
+"Hormonal Agents, Suppressant (Pituitary)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other",Pasireotide Pamoate,,no
+"Hormonal Agents, Suppressant (Thyroid)","Hormonal Agents, Stimulant/ Replacement/ Modifying (Sex Hormones/ Modifiers), Other", ,,Cat
+"Hormonal Agents, Suppressant (Thyroid)",Antithyroid Agents, ,,Class
+"Hormonal Agents, Suppressant (Thyroid)",Antithyroid Agents,Methimazole ,,no
+"Hormonal Agents, Suppressant (Thyroid)",Antithyroid Agents,Propylthiouracil ,,no
+Immunological Agents,, ,,Cat
+Immunological Agents,Angioedema Agents  , ,,Class
+Immunological Agents,Angioedema Agents  , ,Bradykinin B2 receptor antagonist ,PG
+Immunological Agents,Angioedema Agents  ,Icatibant Acetate,,no
+Immunological Agents,Angioedema Agents  , ,C1 Esterase Inhibitor ,PG
+Immunological Agents,Angioedema Agents  ,C1 esterase inhibitor (human) ,,no
+Immunological Agents,Angioedema Agents  ,C1 esterase inhibitor (recombinant) ,,no
+Immunological Agents,Angioedema Agents  , ,Kallikrein Inhibitor,PG
+Immunological Agents,Angioedema Agents  ,Ecallantide ,,no
+Immunological Agents,Angioedema Agents  ,Lanadelumab,,no
+Immunological Agents,Immunosuppressants , ,,Class
+Immunological Agents,Immunosuppressants , ,"Antimetabolites, Antiproliferative",PG
+Immunological Agents,Immunosuppressants ,Leflunomide ,,no
+Immunological Agents,Immunosuppressants ,Methotrexate ,,no
+Immunological Agents,Immunosuppressants ,Mycophenolate Sodium,,no
+Immunological Agents,Immunosuppressants ,Mycophenolate Mofetil,,no
+Immunological Agents,Immunosuppressants , ,"Antimetabolites, Purine",PG
+Immunological Agents,Immunosuppressants ,Azathioprine ,,no
+Immunological Agents,Immunosuppressants , ,Calcineurin Inhibitors,PG
+Immunological Agents,Immunosuppressants ,Cyclosporine ,,no
+Immunological Agents,Immunosuppressants ,Tacrolimus ,,no
+Immunological Agents,Immunosuppressants , ,Interleukin-2 Inhibitors,PG
+Immunological Agents,Immunosuppressants ,Basiliximab ,,no
+Immunological Agents,Immunosuppressants , ,mTOR Inhibitors,PG
+Immunological Agents,Immunosuppressants ,Everolimus ,,no
+Immunological Agents,Immunosuppressants ,Sirolimus ,,no
+Immunological Agents,Immunosuppressants , ,Tumor Necrosis Factor (TNF) Blockers,PG
+Immunological Agents,Immunosuppressants ,Adalimumab ,,no
+Immunological Agents,Immunosuppressants ,Certolizumab Pegol ,,no
+Immunological Agents,Immunosuppressants ,Etanercept ,,no
+Immunological Agents,Immunosuppressants ,Golimumab ,,no
+Immunological Agents,Immunosuppressants ,Infliximab ,,no
+Immunological Agents,Immunosuppressants , ,"Immunosupressants, Other ",PG
+Immunological Agents,Immunosuppressants ,Rituximab ,,no
+Immunological Agents,Immunostimulants, ,,Class
+Immunological Agents,Immunostimulants, ,Interferons,PG
+Immunological Agents,Immunostimulants,"Interferon Gamma 1B, Recombinant ",,no
+Immunological Agents,Immunostimulants,Interferon Alfa 2B ,,no
+Immunological Agents,Immunostimulants,Interferon Alfa N3 ,,no
+Immunological Agents,Immunostimulants,Peginterferon Alfa 2A ,,no
+Immunological Agents,Immunostimulants,Peginterferon Alfa 2B ,,no
+Immunological Agents,Immunostimulants, ,Colony-stimulating Factors,PG
+Immunological Agents,Immunostimulants,Filgrastim ,,no
+Immunological Agents,Immunostimulants,Peg-filgrastim ,,no
+Immunological Agents,Immunostimulants,Sargramostim ,,no
+Immunological Agents,Immunoglobulins, ,,Class
+Immunological Agents,Immunoglobulins,Anti-thymocyte Globulin ,,no
+Immunological Agents,Immunoglobulins,Immune Globulin ,,no
+Immunological Agents,Immunoglobulins,Cytomegalovirus Immune Globulin ,,no
+Immunological Agents,Immunoglobulins,Hepatitis B Immune Globulin ,,no
+Immunological Agents,Immunoglobulins,Immunoglobulin G/ Hyaluronidase ,,yes
+Immunological Agents,Immunoglobulins,Lymphocyte Immunoglobulin ,,no
+Immunological Agents,Immunoglobulins,Rabies Immune Globulin ,,no
+Immunological Agents,Immunoglobulins,Rho(D) Immune Globulin (Human) ,,no
+Immunological Agents,Immunoglobulins,Tetanus Immune Globulin (Human) ,,no
+Immunological Agents,Immunoglobulins,Varicella Zoster Immune Globulin  ,,no
+Immunological Agents,"Immunological Agents, Other", ,,Class
+Immunological Agents,"Immunological Agents, Other", ,B lymphocyte Stimulator-specific Inhibitor ,PG
+Immunological Agents,"Immunological Agents, Other",Belimumab ,,no
+Immunological Agents,"Immunological Agents, Other", ,Complement Inhibitor,PG
+Immunological Agents,"Immunological Agents, Other",Eculizumab ,,no
+Immunological Agents,"Immunological Agents, Other",Ravulizumab ,,no
+Immunological Agents,"Immunological Agents, Other", ,Interleukin Blockers,PG
+Immunological Agents,"Immunological Agents, Other",Anakinra ,,no
+Immunological Agents,"Immunological Agents, Other",Brodalumab ,,no
+Immunological Agents,"Immunological Agents, Other",Canakinumab ,,no
+Immunological Agents,"Immunological Agents, Other",Dupilumab ,,no
+Immunological Agents,"Immunological Agents, Other",Guselkumab ,,no
+Immunological Agents,"Immunological Agents, Other",Ixekizumab  ,,no
+Immunological Agents,"Immunological Agents, Other",Rilonacept ,,no
+Immunological Agents,"Immunological Agents, Other",Risankizumab ,,no
+Immunological Agents,"Immunological Agents, Other",Sarilumab ,,no
+Immunological Agents,"Immunological Agents, Other",Secukinumab  ,,no
+Immunological Agents,"Immunological Agents, Other",Siltuximab ,,no
+Immunological Agents,"Immunological Agents, Other",Tildrakizumab ,,no
+Immunological Agents,"Immunological Agents, Other",Tocilizumab ,,no
+Immunological Agents,"Immunological Agents, Other",Ustekinumab ,,no
+Immunological Agents,"Immunological Agents, Other", ,JAK Inhibitor,PG
+Immunological Agents,"Immunological Agents, Other",Baricitinib ,,no
+Immunological Agents,"Immunological Agents, Other",Tofacitinib ,,no
+Immunological Agents,"Immunological Agents, Other",Upadacitinib,,no
+Immunological Agents,"Immunological Agents, Other", ,Selective Adhesion-Molecule Inhibitor,PG
+Immunological Agents,"Immunological Agents, Other",Natalizumab ,,no
+Immunological Agents,"Immunological Agents, Other",Vedolizumab ,,no
+Immunological Agents,"Immunological Agents, Other", ,Selective T-cell costimulation modulators,PG
+Immunological Agents,"Immunological Agents, Other",Abatacept ,,no
+Immunological Agents,"Immunological Agents, Other",Belatacept ,,no
+Immunological Agents,"Immunological Agents, Other", ,Miscellaneous ,PG
+Immunological Agents,"Immunological Agents, Other",Auranofin ,,no
+Immunological Agents,"Immunological Agents, Other",Emapalumab ,,no
+Immunological Agents,"Immunological Agents, Other",Omalizumab ,,no
+Immunological Agents,"Immunological Agents, Other", ,Allergen-specific immunotherapy ,PG
+Immunological Agents,"Immunological Agents, Other",House Dust Mite Allergen Extract ,,no
+Immunological Agents,"Immunological Agents, Other",Timothy Grass Pollen Extract ,,no
+Immunological Agents,"Immunological Agents, Other",Short Ragweed Pollen Extract ,,no
+Immunological Agents,"Immunological Agents, Other",Sweet Vernal/ Orchard/ Perennial Rye/ Timothy/ Kentucky Blue Grass Mixed Pollens Allergen Extract ,,yes
+Immunological Agents,Vaccines, ,,Class
+Immunological Agents,Vaccines,,Adenovirus,PG
+Immunological Agents,Vaccines,Adenovirus Type 4 and Type 7 Vaccine Live,,no
+Immunological Agents,Vaccines,,Cholera,PG
+Immunological Agents,Vaccines,Cholera Vaccine Live Oral,,no
+Immunological Agents,Vaccines,,Hepatitis A,PG
+Immunological Agents,Vaccines,Hepatitis A Vaccine ,,no
+Immunological Agents,Vaccines,,Hepatitis B,PG
+Immunological Agents,Vaccines,Hepatitis B Virus Vaccine Recombinant,,no
+Immunological Agents,Vaccines,,Haemophilus Influenzae Type B (Hib),PG
+Immunological Agents,Vaccines,Haemophilus B Conjugate Vaccine (Tetanus Toxoid Conjugate),,no
+Immunological Agents,Vaccines,,Human Papillomavirus (HPV),PG
+Immunological Agents,Vaccines,"Human Papillomavirus Quadrivalent (types 6, 11, 16 and 18) Vaccine Recombinant",,no
+Immunological Agents,Vaccines,,Seasonal Influenza,PG
+Immunological Agents,Vaccines,Influenza Vaccine,,no
+Immunological Agents,Vaccines,Influenza Vaccine Live,,no
+Immunological Agents,Vaccines,,Japanese Encephalitis,PG
+Immunological Agents,Vaccines,"Japanese Encephalitis Virus, Inactivated, Adsorbed",,no
+Immunological Agents,Vaccines,,Meningococcal,PG
+Immunological Agents,Vaccines,"Meningococcal Groups (A, C, Y, and W-135) Polysaccharide Diphtheria Toxoid Conjugate Vaccine",,no
+Immunological Agents,Vaccines,Meningococcal Group B Vaccine,,no
+Immunological Agents,Vaccines,,Pneumococcal,PG
+Immunological Agents,Vaccines,Pneumococcal 13-Valent Conjugate Vaccine,,no
+Immunological Agents,Vaccines,Pneumococcal Vaccine Polyvalent,,no
+Immunological Agents,Vaccines,,Polio,PG
+Immunological Agents,Vaccines,Poliovirus Vaccine Inactivated,,no
+Immunological Agents,Vaccines,,Rabies,PG
+Immunological Agents,Vaccines,Rabies Vaccine,,no
+Immunological Agents,Vaccines,,Rotavirus,PG
+Immunological Agents,Vaccines,Rotavirus Vaccine Live,,no
+Immunological Agents,Vaccines,,Shingles,PG
+Immunological Agents,Vaccines,Zoster Vaccine Live,,no
+Immunological Agents,Vaccines,"Zoster Vaccine Recombinant, Adjuvanted",,no
+Immunological Agents,Vaccines,,Tuberculosis,PG
+Immunological Agents,Vaccines,BCG vaccine,,no
+Immunological Agents,Vaccines,,Typhoid Fever,PG
+Immunological Agents,Vaccines,Typhoid Vaccine Live Oral,,no
+Immunological Agents,Vaccines,Typhoid Vi Polysaccharide Vaccine,,no
+Immunological Agents,Vaccines,,Varicella,PG
+Immunological Agents,Vaccines,Varicella Virus Vaccine Live,,no
+Immunological Agents,Vaccines,,Yellow Fever,PG
+Immunological Agents,Vaccines,Yellow Fever Vaccine,,no
+Immunological Agents,Vaccines,,Vaccine Combinations,PG
+Immunological Agents,Vaccines,Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed (DTaP),,yes
+Immunological Agents,Vaccines,Tetanus and Diphtheria Toxoids Adsorbed (Td),,yes
+Immunological Agents,Vaccines,Diphtheria and Tetanus Toxoids Adsorbed (DT),,yes
+Immunological Agents,Vaccines,"Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed (Tdap)",,yes
+Immunological Agents,Vaccines,Diphtheria and Tetanus Toxoids and Acellular Pertussis Absorbed and Inactivated Poliovirus (DTaP-IPV) Vaccine,,yes
+Immunological Agents,Vaccines,"Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed, Hepatitis B (Recombinant) and Inactivated Poliovirus Vaccine (DTaP-HepB-IPV)",,yes
+Immunological Agents,Vaccines,"Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed, Inactivated Poliovirus and Haemophilus B Conjugate (Tetanus Toxoid Conjugate) (DTaP-IPV/Hib)",,yes
+Immunological Agents,Vaccines,,,
+Immunological Agents,Vaccines,Hepatitis A and Hepatitis B (Recombinant) Vaccine,,yes
+Immunological Agents,Vaccines,,,
+Immunological Agents,Vaccines,"Measles, Mumps, and Rubella Virus Vaccine Live",,yes
+Immunological Agents,Vaccines,"Measles, Mumps, Rubella, and Varicella Virus Vaccine Live",,yes
+Infertility Agents,Vaccines, ,,Cat
+Infertility Agents,Vaccines,Cetrorelix ,,no
+Infertility Agents,Vaccines,Clomiphene Citrate,,no
+Infertility Agents,Vaccines,Choriogonadotropin Alfa ,,no
+Infertility Agents,Vaccines,Chorionic Gonadotropin ,,no
+Infertility Agents,Vaccines,Follitropin Alfa ,,no
+Infertility Agents,Vaccines,Follitropin Beta ,,no
+Infertility Agents,Vaccines,Ganirelix Acetate,,no
+Infertility Agents,Vaccines,Menotropins ,,no
+Infertility Agents,Vaccines,Progesterone ,,no
+Infertility Agents,Vaccines,Urofollitropin ,,no
+Inflammatory Bowel Disease Agents,Vaccines, ,,Cat
+Inflammatory Bowel Disease Agents,Glucocorticoids, ,,Class
+Inflammatory Bowel Disease Agents,Glucocorticoids,Budesonide ,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Cortisone Acetate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Dexamethasone Acetate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Dexamethasone Sodium Phosphate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Hydrocortisone Sodium Succinate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Methylprednisolone Acetate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Methylprednisolone Sodium Succinate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Prednisolone Acetate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Prednisolone Sodium Succinate,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Prednisone ,,no
+Inflammatory Bowel Disease Agents,Glucocorticoids,Triamcinolone Acetonide,,no
+Inflammatory Bowel Disease Agents,Aminosalicylates and/ or Prodrugs, ,,Class
+Inflammatory Bowel Disease Agents,Aminosalicylates and/ or Prodrugs,Balsalazide Disodium,,no
+Inflammatory Bowel Disease Agents,Aminosalicylates and/ or Prodrugs,Mesalamine ,,no
+Inflammatory Bowel Disease Agents,Aminosalicylates and/ or Prodrugs,Olsalazine Sodium,,no
+Inflammatory Bowel Disease Agents,Aminosalicylates and/ or Prodrugs,Sulfasalazine ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,,Cat
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,Bisphosphonates,PG
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Alendronate Sodium,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Alendronate Sodium/ Cholecalciferol ,,yes
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Ibandronate Sodium,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Pamidronate Disodium,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Risedronate Sodium,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Zoledronic Acid ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,Calcium Regulating Hormones,PG
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Abaloparatide ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,"Calcitonin, Salmon ",,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Parathyroid Hormone ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Teriparatide ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,Calcium-sensing Receptor Agonist,PG
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Cinacalcet Hydrochloride,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Etelcalcetide ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,RANK Ligand Inhibitor,PG
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Denosumab ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,Vitamin D-related Agents,PG
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Calcifediol ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Calcitriol ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Doxercalciferol ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Paricalcitol ,,no
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs, ,,
+Metabolic Bone Disease Agents,Aminosalicylates and/ or Prodrugs,Romosozumab ,,no
+Ophthalmic Agents,Aminosalicylates and/ or Prodrugs, ,,Cat
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents, ,,Class
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents, ,Antihistamine,PG
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Azelastine Hydrochloride,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Cetirizine Hydrochloride,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Emedastine Difumarate,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Epinastine Hydrochloride,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Olopatadine Hydrochloride,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents, ,Antihistamine & Mast Cell Stabilizer,PG
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Alcaftadine ,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Bepotastine Besilate,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents, ,Mast Cell Stabilizer,PG
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Cromolyn Sodium,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Lodoxamide Tromethamine,,no
+Ophthalmic Agents,Ophthalmic Anti-allergy Agents,Nedocromil Sodium,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents, ,,Class
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Netarsudil ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents, ,"Alpha-adrenergic Agonists, Ophthalmic",PG
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Apraclonidine Hydrochloride,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Brimonidine Tartrate,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents, ,"Beta-adrenergic Blocking Agents, Ophthalmic",PG
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Betaxolol Hydrochloride,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Carteolol Hydrochloride,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Levobunolol Hydrochloride,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Timolol Maleate,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents, ,"Carbonic Anhydrase Inhibitors, Ophthalmic",PG
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Acetazolamide ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Brinzolamide ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Dorzolamide Hydrochloride,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Methazolamide ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents, ,"Cholinergic Agonists, Ophthalmic",PG
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Carbachol ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Echothiophate Iodide,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Pilocarpine Hydrochloride,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Pilocarpine Nitrate,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents, ,Ophthalmic  Prostaglandin and Prostamide Analogs,PG
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Bimatoprost ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Latanoprost ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Latanoprostene Bunod ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Tafluprost ,,no
+Ophthalmic Agents,Intraocular Pressure Lowering Agents,Travoprost ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives, ,,Class
+Ophthalmic Agents,Ophthalmic Anti-Infectives, ,"Antibacterials, Ophthalmic",PG
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Azithromycin ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Bacitracin ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Besifloxacin  Hydrochloride,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Ciprofloxacin  ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Erythromycin   ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Gatifloxacin  ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Gentamicin  Sulfate,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Levofloxacin  ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Moxifloxacin Hydrochloride,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Ofloxacin ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Sulfacetamide Sodium  ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Tobramycin ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives, ,"Antifungal, Ophthalmic",PG
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Natamycin  ,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives, ,"Antiviral, Ophthalmic",PG
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Ganciclovir Sodium,,no
+Ophthalmic Agents,Ophthalmic Anti-Infectives,Trifluridine ,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories, ,,Class
+Ophthalmic Agents,Ophthalmic Anti-inflammatories, ,"Glucocorticoids, Ophthalmic",PG
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Dexamethasone ,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Difluprednate ,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Fluorometholone Acetate,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Loteprednol Etabonate,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Prednisolone Acetate,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Prednisolone Sodium Phosphate,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Rimexolone ,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Triamcinolone ,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories, ,"Nonsteroidal Anti-Inflammatory Drugs, Ophthalmic",PG
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Bromfenac Sodium,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Diclofenac Sodium,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Flurbiprofen Sodium,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Ketorolac Tromethamine,,no
+Ophthalmic Agents,Ophthalmic Anti-inflammatories,Nepafenac ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other", ,,Class
+Ophthalmic Agents,"Ophthalmic Agents, Other",,,
+Ophthalmic Agents,"Ophthalmic Agents, Other",Inebilizumab,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Satralizumab,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Teprotumumab,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",,,
+Ophthalmic Agents,"Ophthalmic Agents, Other",Oxymetazoline,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",,,
+Ophthalmic Agents,"Ophthalmic Agents, Other",Cyclosporine ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Hydroxypropyl Cellulose ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Lifitegrast ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",,,
+Ophthalmic Agents,"Ophthalmic Agents, Other",Cenegermin ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other", ,,
+Ophthalmic Agents,"Ophthalmic Agents, Other",Cyclopentolate Hydrochloride,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Tropicamide ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other", ,Vascular Endothelial Growth Factor (VEGF) Inhibitor,PG
+Ophthalmic Agents,"Ophthalmic Agents, Other",Aflibercept ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Bevacizumab ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Brolucizumab,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Pegaptanib ,,no
+Ophthalmic Agents,"Ophthalmic Agents, Other",Ranibizumab ,,no
+Ophthalmic Agents,Ophthalmic Combinations, ,,Class
+Ophthalmic Agents,Ophthalmic Combinations,Cyclopentolate Hydrochloride/ Phenylephrine Hydrochloride ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Gentamicin Sulfate/ Prednisolone Acetate ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Hydroxyamphetamine Hydrobromide/ Tropicamide ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Loteprednol Etabonate/ Tobramycin ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Neomycin/ Polymyxin B Sulfates/ Bacitracin Zinc/ Hydrocortisone Acetate  ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Neomycin/ Polymyxin B Sulfates/ Dexamethasone ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Neomycin/ Polymyxin B Sulfates/ Hydrocortisone   ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Phenylephrine/ Ketorolac   ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Sulfacetamide Sodium/ Prednisolone Acetate ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Tobramycin/ Dexamethasone  ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,,,
+Ophthalmic Agents,Ophthalmic Combinations,Brinzolamide/ Brimonidine Tartrate ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Brimonidine Tartrate/ Timolol Maleate ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Dorzolamide Hydrochloride/ Timolol Maleate ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Netarsudil Mesylate/ Latanoprost ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,,,
+Ophthalmic Agents,Ophthalmic Combinations,Neomycin/ Polymyxin B Sulfates/ Bacitracin Zinc ,,yes
+Ophthalmic Agents,Ophthalmic Combinations,Neomycin/ Polymyxin B Sulfates/ Gramicidin ,,yes
+Otic Agents,Ophthalmic Combinations, ,,Cat
+Otic Agents,Otic Anti-Infectives, ,,Class
+Otic Agents,Otic Anti-Infectives,Ciprofloxacin ,,no
+Otic Agents,Otic Anti-Infectives,Ofloxacin ,,no
+Otic Agents,Otic Glucocorticoids, ,,Class
+Otic Agents,Otic Glucocorticoids,Fluocinolone Acetonide,,no
+Otic Agents,Otic Combinations, ,,Class
+Otic Agents,Otic Combinations,Ciprofloxacin/ Dexamethasone ,,yes
+Otic Agents,Otic Combinations,Ciprofloxacin/ Fluocinolone Acetonide ,,yes
+Otic Agents,Otic Combinations,Ciprofloxacin Hydrochloride/ Hydrocortisone ,,yes
+Otic Agents,Otic Combinations,Hydrocortisone/ Acetic Acid  ,,yes
+Otic Agents,Otic Combinations,Neomycin/ Polymyxin B Sulfates/ Hydrocortisone ,,yes
+Respiratory Tract/ Pulmonary Agents,Otic Combinations, ,,Cat
+Respiratory Tract/ Pulmonary Agents,Antihistamines, ,,Class
+Respiratory Tract/ Pulmonary Agents,Antihistamines, ,"Histamine (H1) Receptor Antagonists, Mildly/Non-sedating",PG
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Azelastine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Cetirizine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Desloratadine ,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Levocetirizine Dihydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Olopatadine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines, ,"Histamine (H1) Receptor Antagonists, Sedating",PG
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Carbinoxamine Maleate,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Clemastine Fumarate,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Cyproheptadine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Diphenhydramine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Hydroxyzine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Hydroxyzine Pamoate,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Promethazine Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,Antihistamines, ,,
+Respiratory Tract/ Pulmonary Agents,Antihistamines,Azelastine Hydrochloride/ Fluticasone Propionate ,,yes
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids", ,,Class
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Beclomethasone Dipropionate,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Budesonide ,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Ciclesonide ,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Flunisolide ,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Fluticasone Propionate,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Fluticasone Furoate ,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Mometasone Furoate ,,no
+Respiratory Tract/ Pulmonary Agents,"Anti-inflammatories, Inhaled Corticosteroids",Triamcinolone Acetonide,,no
+Respiratory Tract/ Pulmonary Agents,Antileukotrienes, ,,Class
+Respiratory Tract/ Pulmonary Agents,Antileukotrienes,Montelukast Sodium,,no
+Respiratory Tract/ Pulmonary Agents,Antileukotrienes,Zafirlukast ,,no
+Respiratory Tract/ Pulmonary Agents,Antileukotrienes,Zileuton ,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic", ,,Class
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic",Aclidinium  Bromide,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic",Glycopyrrolate ,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic",Ipratropium Bromide,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic",Revefenacin ,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic",Tiotropium Bromide ,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Anticholinergic",Umeclidinium ,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic", ,,Class
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Albuterol Sulfate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Arformoterol Tartrate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Epinephrine ,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Formoterol Fumarate Dihydrate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Indacaterol  Maleate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Levalbuterol Hydrochloride,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Levalbuterol Tartrate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Metaproterenol Sulfate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Salmeterol Xinafoate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Terbutaline Sulfate,,no
+Respiratory Tract/ Pulmonary Agents,"Bronchodilators, Sympathomimetic",Olodaterol ,,no
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations, ,,Class
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Aclidinium Bromide/ Formoterol Fumarate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Budesonide/ Formoterol Fumarate Dihydrate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Budesonide/ Glycopyrrolate/ Formoterol Fumarate,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Fluticasone Furoate/ Vilanterol Trifenatate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Fluticasone Propionate/ Salmeterol ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Mometasone Furoate/ Formoterol Fumarate Dihydrate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Indacaterol/ Glycopyrrolate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Umeclidinium Bromide/ Vilanterol Trifenatate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Fluticasone Furoate/ Umeclidinium Bromide/ Vilanterol Trifenatate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Glycopyrrolate/ Formoterol Fumarate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Ipratropium Bromide/ Albuterol Sulfate ,,yes
+Respiratory Tract/ Pulmonary Agents,Bronchodilator Combinations,Tiotropium Bromide/ Olodaterol ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough, ,,Class
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Benzonatate ,,no
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Guaifenesin ,,no
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Tetrahydrozoline ,,no
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Promethazine Hydrochloride/  Phenylephrine Hydrochloride Hydrochloride/ Codeine Phosphate,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Codeine Phosphate/ Pseudoephedrine Hydrochloride ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Triprolidine Hydrochloride/ Pseudoephedrine Hydrochloride/ Codeine  ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Brompheniramine Maleate/ Pseudoephedrine Hydrochloride/ Dextromethorphan Hydrobromide  ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Hydrocodone Bitartrate/ Chlorpheniramine Maleate ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Hydrocodone Bitartrate/ Chlorpheniramine Maleate/ Pseudoephedrine Hydrochloride ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Hydrocodone Bitartrate/ Guaifenesin ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Hydrocodone Bitartrate/ Homatropine Methylbromide ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Hydrocodone Polistirex/  Chlorpheniramine Polistirex ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Promethazine Hydrochloride/ Codeine Phosphate ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Promethazine Hydrochloride/ Dextromethorphan Hydrobromide ,,yes
+Respiratory Tract/ Pulmonary Agents,Cold-Cough,Promethazine/ Phenylephrine Hydrochloride ,,yes
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents, ,,Class
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents, ,Conductance Regulator Potentiator,PG
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Elexacaftor/ Tezacaftor/ Ivacaftor,,yes
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Ivacaftor  ,,no
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Lumacaftor/ Ivacaftor ,,yes
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Tezacaftor/ Ivacaftor  ,,yes
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents, ,Inhaled Anti-infectives,PG
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Tobramycin  ,,no
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Aztreonam ,,no
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents, ,"Cystic Fibrosis Agents, Other",PG
+Respiratory Tract/ Pulmonary Agents,Cystic Fibrosis Agents,Dornase Alfa  ,,no
+Respiratory Tract/ Pulmonary Agents,Mast Cell Stabilizers, ,,Class
+Respiratory Tract/ Pulmonary Agents,Mast Cell Stabilizers,Cromolyn Sodium,,no
+Respiratory Tract/ Pulmonary Agents,"Phosphodiesterase Inhibitors, Airways Disease", ,,Class
+Respiratory Tract/ Pulmonary Agents,"Phosphodiesterase Inhibitors, Airways Disease",Aminophylline ,,no
+Respiratory Tract/ Pulmonary Agents,"Phosphodiesterase Inhibitors, Airways Disease",Theophylline ,,no
+Respiratory Tract/ Pulmonary Agents,"Phosphodiesterase Inhibitors, Airways Disease", ,,
+Respiratory Tract/ Pulmonary Agents,"Phosphodiesterase Inhibitors, Airways Disease",Roflumilast  ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives, ,,Class
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives, ,Endothelin Receptor Antagonists,PG
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Ambrisentan ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Bosentan ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Macitentan ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives, ,Phosphodiesterase-5 (PDE5),PG
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Sildenafil Citrate,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Tadalafil ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives, ,Prostacyclin Vasodilators,PG
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Epoprostenol ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Iloprost ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Treprostinil ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives, ,Guanylate Cyclase (sGC) stimulator,PG
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Riociguat ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives, ,Prostacyclin receptor agonist,PG
+Respiratory Tract/ Pulmonary Agents,Pulmonary Antihypertensives,Selexipag ,,no
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other", ,,Class
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other",Acetylcysteine ,,no
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other", ,Immunomodulators,PG
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other",Benralizumab ,,no
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other",Mepolizumab ,,no
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other",Palivizumab ,,no
+Respiratory Tract/ Pulmonary Agents,"Respiratory Tract Agents, Other",Reslizumab ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Fibrosis Agents, ,,Class
+Respiratory Tract/ Pulmonary Agents,Pulmonary Fibrosis Agents,Nintedanib ,,no
+Respiratory Tract/ Pulmonary Agents,Pulmonary Fibrosis Agents,Pirfenidone ,,no
+Sexual Disorder Agents,Pulmonary Fibrosis Agents, ,,Cat
+Sexual Disorder Agents,Sexual Disorder Agents (Male) , ,,Class
+Sexual Disorder Agents,Sexual Disorder Agents (Male) ,Avanafil ,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Male) ,Sildenafil  Citrate,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Male) ,Tadalafil ,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Male) ,Vardenafil Hydrochloride,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Male) ,Alprostadil ,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Female) , ,,Class
+Sexual Disorder Agents,Sexual Disorder Agents (Female) ,Bremelanotide ,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Female) ,Flibanserin ,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Female) ,Ospemifene ,,no
+Sexual Disorder Agents,Sexual Disorder Agents (Female) ,Prasterone ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) , ,,Cat
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Cyclobenzaprine Hydrochloride,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Metaxalone ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Methocarbamol ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Orphenadrine Citrate,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Carisoprodol ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Carisoprodol/ Aspirin ,,yes
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Carisoprodol/ Aspirin/ Codeine Phosphate ,,yes
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Chlorzoxazone ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Orphenadrine Hydrochloride,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,Orphenadrine Citrate/ Aspirin/ Caffeine ,,yes
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) , ,,
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,AbobotulinumtoxinA ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,IncobotulinumtoxinA ,,no
+Skeletal Muscle Relaxants,Sexual Disorder Agents (Female) ,RimabotulinumtoxinB ,,no
+Sleep Disorder Agents,Sexual Disorder Agents (Female) , ,,Cat
+Sleep Disorder Agents,Sleep Promoting Agents,,,Class
+Sleep Disorder Agents,Sleep Promoting Agents,Doxepin Hydrochloride,,no
+Sleep Disorder Agents,Sleep Promoting Agents,,,
+Sleep Disorder Agents,Sleep Promoting Agents,Estazolam ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Flurazepam ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Quazepam ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Temazepam ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Triazolam,,no
+Sleep Disorder Agents,Sleep Promoting Agents,,,
+Sleep Disorder Agents,Sleep Promoting Agents,Eszopiclone ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Zaleplon ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Zolpidem Tartrate,,no
+Sleep Disorder Agents,Sleep Promoting Agents, ,,
+Sleep Disorder Agents,Sleep Promoting Agents,Lemborexant,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Suvorexant ,,no
+Sleep Disorder Agents,Sleep Promoting Agents, ,,
+Sleep Disorder Agents,Sleep Promoting Agents,Tasimelteon ,,no
+Sleep Disorder Agents,Sleep Promoting Agents,Ramelteon ,,no
+Sleep Disorder Agents,Wakefulness Promoting Agents,,,Class
+Sleep Disorder Agents,Wakefulness Promoting Agents,,,
+Sleep Disorder Agents,Wakefulness Promoting Agents,Armodafinil,,no
+Sleep Disorder Agents,Wakefulness Promoting Agents,Modafanil,,no
+Sleep Disorder Agents,Wakefulness Promoting Agents,,,
+Sleep Disorder Agents,Wakefulness Promoting Agents,Calcium/ Magnesium/ Potassium/ Sodium Oxybates,,yes
+Sleep Disorder Agents,Wakefulness Promoting Agents,Pitolisant,,no
+Sleep Disorder Agents,Wakefulness Promoting Agents,Sodium Oxybate,,no
+Sleep Disorder Agents,Wakefulness Promoting Agents,,,
+Sleep Disorder Agents,Wakefulness Promoting Agents,Solriamfetol ,,no

@@ -1,0 +1,26 @@
+,Healthy Control,Prodromal,Parkinson's Disease
+,(N=83),(N=175),(N=283)
+Age,,,
+"       Median [Min, Max]","61.9 [31.8, 81.8]","63.2 [46.7, 81.6]","63.2 [33.5, 84.5]"
+Reported gender,,,
+       Female,28 (34 %),84 (48 %),108 (38 %)
+       Male,55 (66 %),91 (52 %),175 (62 %)
+Number of drugs used at baseline,,,
+"       Median [Min, Max]","3.00 [0, 7.00]","3.00 [0, 9.00]","3.00 [0, 10.0]"
+Age-adjusted Charlston Comorbidity Index,,,
+       low risk (CCI < 1),10 (12 %),1 (1 %),33 (12 %)
+       mild risk (CCI 1-2),56 (67 %),122 (70 %),182 (64 %)
+       moderate risk (CCI 3-4),17 (20 %),48 (27 %),64 (23 %)
+       severe risk (CCI > 5),0 (0 %),4 (2 %),4 (1 %)
+Medication at baseline,,,
+       Immunomodulatory medication,1 (1 %),6 (3 %),3 (1 %)
+       CVD medication,57 (69 %),98 (56 %),167 (59 %)
+       Neurological medication,25 (30 %),72 (41 %),109 (39 %)
+       Pain & Rheuma medication,25 (30 %),40 (23 %),81 (29 %)
+       Respiratory medication,16 (19 %),42 (24 %),43 (15 %)
+       Hormonal medication,15 (18 %),57 (33 %),77 (27 %)
+       Other antidegenerative medication,5 (6 %),22 (13 %),40 (14 %)
+       Metabolic disease medication,6 (7 %),17 (10 %),12 (4 %)
+       GI tract medication,15 (18 %),44 (25 %),82 (29 %)
+       Infection medication,9 (11 %),16 (9 %),26 (9 %)
+       Supplement & vitamin,46 (55 %),85 (49 %),171 (60 %)

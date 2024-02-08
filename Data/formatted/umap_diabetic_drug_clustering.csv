@@ -1,0 +1,137 @@
+0,1,WHO_CMTRT,drug_group,cluster
+3.0879695,10.590468,insulin glargine (toujeo),Antidiabetic drug,cluster 0
+3.5643685,10.174151,metformin hydrochloride,Antidiabetic drug,cluster 0
+3.5233574,9.962397,metformin w/sitagliptin,Antidiabetic drug,cluster 0
+2.7495546,9.803845,glipizide (glucatrol),Antidiabetic drug,cluster 0
+2.8189518,10.113975,invokana canagliflozin,Antidiabetic drug,cluster 0
+3.2313275,9.597885,glyburide w/metformin,Antidiabetic drug,cluster 0
+3.0968473,9.82463,liraglutide 1.mg sc qd,Antidiabetic drug,cluster 0
+2.899232,9.817845,liraglutide (victoza),Antidiabetic drug,cluster 0
+3.359768,10.564624,insulin glargine (lantus),Antidiabetic drug,cluster 0
+3.3197725,10.059586,saxagliptin / metformin,Antidiabetic drug,cluster 0
+3.0633008,10.461448,empagliflozin (jardiance),Antidiabetic drug,cluster 0
+3.077568,10.089609,dulaglutide (trulicity),Antidiabetic drug,cluster 0
+2.8913841,10.171977,semaglutide (rybelsus),Antidiabetic drug,cluster 0
+3.840662,10.045418,"metformin (500 mg, qd)",Antidiabetic drug,cluster 0
+2.915274,9.95926,sitagliptin (januvia),Antidiabetic drug,cluster 0
+3.2870226,10.550048,dapagliflozin propanediol,Antidiabetic drug,cluster 0
+3.028041,10.612686,insulin lispro (humalog),Antidiabetic drug,cluster 0
+2.91644,9.539941,u500 hi dose insulin,Antidiabetic drug,cluster 0
+2.829029,9.740369,trulicity dulaglutide,Antidiabetic drug,cluster 0
+13.953833,11.858557,janumet xr,Antidiabetic drug,cluster 1
+15.981954,11.919874,januvia,Antidiabetic drug,cluster 1
+9.426867,9.041243,metaformin,Antidiabetic drug,cluster 1
+13.5980215,8.183872,vildagliptin,Antidiabetic drug,cluster 1
+9.563981,8.780387,meformin,Antidiabetic drug,cluster 1
+14.485898,11.528908,jardidance,Antidiabetic drug,cluster 1
+14.955373,11.567603,jardince,Antidiabetic drug,cluster 1
+13.743736,8.135776,linagliptin,Antidiabetic drug,cluster 1
+13.688445,11.24371,kombiglyze,Antidiabetic drug,cluster 1
+15.83227,11.885337,levemir,Antidiabetic drug,cluster 1
+12.519031,10.539961,lantus 100mg,Antidiabetic drug,cluster 1
+16.112122,12.4781685,lantus,Antidiabetic drug,cluster 1
+16.168814,12.108025,lantis,Antidiabetic drug,cluster 1
+14.059515,11.777381,jentadueto,Antidiabetic drug,cluster 1
+15.076857,12.558834,kazano,Antidiabetic drug,cluster 1
+9.387388,8.966679,metformin,Antidiabetic drug,cluster 1
+13.559623,11.353503,komboglyze,Antidiabetic drug,cluster 1
+14.113688,8.75195,liraglutide,Antidiabetic drug,cluster 1
+12.817387,10.803153,actoplus met,Antidiabetic drug,cluster 1
+9.254785,8.989253,metformine,Antidiabetic drug,cluster 1
+9.359097,8.915105,metformina,Antidiabetic drug,cluster 1
+13.529085,11.595523,victoza pen,Antidiabetic drug,cluster 1
+15.378507,12.631323,victoza,Antidiabetic drug,cluster 1
+14.415136,11.127879,trulicity,Antidiabetic drug,cluster 1
+15.215914,11.923635,tresebia,Antidiabetic drug,cluster 1
+14.490839,12.023207,tradjenta,Antidiabetic drug,cluster 1
+15.188503,13.057573,toujeo,Antidiabetic drug,cluster 1
+14.053225,7.9184113,sitagliptine,Antidiabetic drug,cluster 1
+13.977681,7.9414434,sitagliptina,Antidiabetic drug,cluster 1
+13.788855,8.185763,sitagliptin,Antidiabetic drug,cluster 1
+14.05198,8.649811,semaglutide,Antidiabetic drug,cluster 1
+8.885797,9.007506,metformin er,Antidiabetic drug,cluster 1
+15.555203,12.200634,saxenda,Antidiabetic drug,cluster 1
+15.487398,12.841294,rybelsus,Antidiabetic drug,cluster 1
+13.871021,8.998882,repaglinide,Antidiabetic drug,cluster 1
+15.62772,11.702377,prandin,Antidiabetic drug,cluster 1
+13.566697,10.009987,pioglitazone,Antidiabetic drug,cluster 1
+15.464307,12.304728,ozempic,Antidiabetic drug,cluster 1
+15.549236,12.690286,otezla,Antidiabetic drug,cluster 1
+15.231026,12.486248,onglyza,Antidiabetic drug,cluster 1
+14.221496,12.445859,novorapid,Antidiabetic drug,cluster 1
+14.728762,12.7136545,novolog,Antidiabetic drug,cluster 1
+14.706055,12.575217,novalog,Antidiabetic drug,cluster 1
+13.861892,8.066933,saxagliptin,Antidiabetic drug,cluster 1
+15.759567,12.285802,janumet,Antidiabetic drug,cluster 1
+14.652037,11.625799,jardiance,Antidiabetic drug,cluster 1
+14.738529,12.196678,invokana,Antidiabetic drug,cluster 1
+14.780601,10.032889,glipizide,Antidiabetic drug,cluster 1
+14.523782,9.825724,glimepride,Antidiabetic drug,cluster 1
+14.383372,9.7675495,glimepiride,Antidiabetic drug,cluster 1
+14.297996,9.905609,glimepirida,Antidiabetic drug,cluster 1
+14.65119,9.932292,gliclazide,Antidiabetic drug,cluster 1
+14.689367,10.337267,glicazida,Antidiabetic drug,cluster 1
+15.485743,11.93016,forxiga,Antidiabetic drug,cluster 1
+15.385149,12.0502405,farxiga,Antidiabetic drug,cluster 1
+15.000925,10.556513,exenatide,Antidiabetic drug,cluster 1
+15.41695,10.732733,exeatide,Antidiabetic drug,cluster 1
+14.987342,13.069531,eucreas,Antidiabetic drug,cluster 1
+13.162153,7.0288863,empaglifozina,Antidiabetic drug,cluster 1
+13.371609,7.2417073,empaglifozin,Antidiabetic drug,cluster 1
+13.137768,7.0227237,empagliflozina,Antidiabetic drug,cluster 1
+13.319445,7.1490097,empagliflozin,Antidiabetic drug,cluster 1
+14.23684,8.860813,dulaglutide,Antidiabetic drug,cluster 1
+13.940357,8.862754,dulaglutida,Antidiabetic drug,cluster 1
+14.45269,11.056553,diamicron,Antidiabetic drug,cluster 1
+13.355198,7.2257905,dapagliflozin,Antidiabetic drug,cluster 1
+14.343027,12.775008,contrave,Antidiabetic drug,cluster 1
+13.214572,7.444726,canagliflozin,Antidiabetic drug,cluster 1
+15.4415245,13.011652,byetta,Antidiabetic drug,cluster 1
+14.938131,13.162726,bydureon,Antidiabetic drug,cluster 1
+15.833632,12.334178,belviq,Antidiabetic drug,cluster 1
+14.7447405,11.964115,basagalar,Antidiabetic drug,cluster 1
+13.658296,8.400234,alogliptin,Antidiabetic drug,cluster 1
+15.641463,12.907636,actos,Antidiabetic drug,cluster 1
+13.997694,10.020246,glipizide xl,Antidiabetic drug,cluster 1
+14.822351,11.068569,glucagon,Antidiabetic drug,cluster 1
+15.731475,12.8294,xigduo,Antidiabetic drug,cluster 1
+15.759129,11.457132,insulin,Antidiabetic drug,cluster 1
+13.437299,10.57312,glucobalance,Antidiabetic drug,cluster 1
+13.884038,12.175085,invokamet,Antidiabetic drug,cluster 1
+15.793384,11.44558,insuline,Antidiabetic drug,cluster 1
+12.998002,10.615267,humilin nph,Antidiabetic drug,cluster 1
+14.928202,10.977057,glucomin,Antidiabetic drug,cluster 1
+13.1451,10.936986,humalog mix,Antidiabetic drug,cluster 1
+14.943416,12.295776,humalog,Antidiabetic drug,cluster 1
+14.704608,10.130256,glyburide,Antidiabetic drug,cluster 1
+13.906567,10.655341,glucophage,Antidiabetic drug,cluster 1
+7.986267,8.901455,metformin hcl er,Antidiabetic drug,cluster 2
+8.558222,8.846642,metformin hcl,Antidiabetic drug,cluster 2
+7.6866474,8.882999,metformina 850 mg,Antidiabetic drug,cluster 2
+7.3444796,8.897004,metformin 500mg tid,Antidiabetic drug,cluster 2
+7.4769835,8.817517,metformin (500 mg),Antidiabetic drug,cluster 2
+7.770091,8.748526,metformina 500 mg,Antidiabetic drug,cluster 2
+7.909225,8.9130535,metformin 500mg,Antidiabetic drug,cluster 2
+8.403155,8.898562,metaformin hcl,Antidiabetic drug,cluster 2
+9.019303,5.8803396,victoza injection,Antidiabetic drug,cluster 3
+9.139139,5.276728,insuline degludec,Antidiabetic drug,cluster 3
+9.050006,5.033998,insulina glargina,Antidiabetic drug,cluster 3
+9.514508,5.1034894,insulina detemir,Antidiabetic drug,cluster 3
+12.742928,10.426159,bydureon base,Antidiabetic drug,cluster 3
+9.278462,5.1149607,insulina aspart,Antidiabetic drug,cluster 3
+9.348271,5.3306193,insulin lispro,Antidiabetic drug,cluster 3
+9.37355,5.4671397,insulin injection,Antidiabetic drug,cluster 3
+9.077793,5.1089,insulin glargine,Antidiabetic drug,cluster 3
+8.721726,6.218598,novolog insulin,Antidiabetic drug,cluster 3
+9.253528,5.228063,insulin degludec,Antidiabetic drug,cluster 3
+8.587157,6.0918403,lantus insulin,Antidiabetic drug,cluster 3
+9.534623,5.2923703,insulin aspart,Antidiabetic drug,cluster 3
+8.952824,6.3080277,levemir insulin,Antidiabetic drug,cluster 3
+8.76957,6.1339793,levenin nsulin,Antidiabetic drug,cluster 3
+8.717405,5.7732635,isophane insulin,Antidiabetic drug,cluster 3
+12.27319,10.314038,novolin 70/30,Antidiabetic drug,cluster 3
+8.714249,6.050002,humalog insulin,Antidiabetic drug,cluster 3
+8.878608,5.9594173,prandial insulin,Antidiabetic drug,cluster 3
+8.662527,6.0206695,fiasp insulin,Antidiabetic drug,cluster 3
+9.434099,5.248993,insulin detemir,Antidiabetic drug,cluster 3
+3.329222,10.803643,sitagliptin-metformin 100mg-1000mg,Antidiabetic drug,cluster 4
